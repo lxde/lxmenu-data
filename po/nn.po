@@ -1,0 +1,255 @@
+# translation of nn.po to Norwegian Nynorsk
+# Norwegian (nynorsk) translation of gnome-menus.
+# Copyright (C) Roy-Magne Mo <rmo@sunnmore.net>, 2001.
+# Roy-Magne Mo <rmo@sunnmore.net>, 2001.
+# Åsmund Skjæveland <aasmunds@fys.uio.no>, 2003, 2004.
+# Kjartan Maraas <kmaraas@gnome.org>, 2005.
+# Eskild Hustvedt <eskildh@gnome.org>, 2008
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-control-center 2.9.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-10 13:23+0800\n"
+"PO-Revision-Date: 2008-04-07 14:30+0200\n"
+"Last-Translator: Eskild Hustvedt <eskildh@gnome.org>\n"
+"Language-Team: Norwegian Nynorsk <i18n-no@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:1
+msgid "Multimedia menu"
+msgstr "Multimedia-meny"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Sound & Video"
+msgstr "Lyd og bilete"
+
+#: ../desktop-directories/lxde-development.directory.in.h:1
+msgid "Programming"
+msgstr "Programmering"
+
+#: ../desktop-directories/lxde-development.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Verkty for programmering"
+
+#: ../desktop-directories/lxde-education.directory.in.h:1
+msgid "Education"
+msgstr "Utdanning"
+
+#: ../desktop-directories/lxde-game.directory.in.h:1
+msgid "Games"
+msgstr "Spel"
+
+#: ../desktop-directories/lxde-game.directory.in.h:2
+msgid "Games and amusements"
+msgstr "Spel og underhalding"
+
+#: ../desktop-directories/lxde-graphics.directory.in.h:1
+msgid "Graphics"
+msgstr "Grafikk"
+
+#: ../desktop-directories/lxde-graphics.directory.in.h:2
+msgid "Graphics applications"
+msgstr "Grafikk-program"
+
+#: ../desktop-directories/lxde-hardware.directory.in.h:1
+msgid "Hardware"
+msgstr "Maskinvare"
+
+#: ../desktop-directories/lxde-hardware.directory.in.h:2
+msgid "Settings for several hardware devices"
+msgstr "Innstillingar for fleire maskinvareeiningar"
+
+#: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
+msgid "Internet and Network"
+msgstr "Internett og nettverk"
+
+#: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
+msgid "Network-related settings"
+msgstr "Nettverksrelaterte innstillingar"
+
+#: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
+msgid "Look and Feel"
+msgstr "Utsjåande"
+
+#: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
+msgid "Settings controlling the desktop appearance and behavior"
+msgstr "Innstillingar som kontrollerar skrivebordets utsjåande og oppførsel"
+
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:1
+msgid "Applications"
+msgstr "Program"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "Personlege og administrative innstillingar"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+#: ../desktop-directories/lxde-system.directory.in.h:1
+msgid "System"
+msgstr "System"
+
+#: ../desktop-directories/lxde-network.directory.in.h:1
+msgid "Internet"
+msgstr "Internett"
+
+#: ../desktop-directories/lxde-network.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "Program for bruk på Internett til dømes nettlesar og e-post"
+
+#: ../desktop-directories/lxde-office.directory.in.h:1
+msgid "Office"
+msgstr "Kontor"
+
+#: ../desktop-directories/lxde-office.directory.in.h:2
+msgid "Office Applications"
+msgstr "Kontorprogram"
+
+#: ../desktop-directories/lxde-other.directory.in.h:1
+msgid "Applications that did not fit in other categories"
+msgstr "Program som ikkje passar i andre kategoriar"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Other"
+msgstr "Anna"
+
+#: ../desktop-directories/lxde-personal.directory.in.h:1
+msgid "Personal"
+msgstr "Personleg"
+
+#: ../desktop-directories/lxde-personal.directory.in.h:2
+msgid "Personal settings"
+msgstr "Personlege innstillingar"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Personlege innstillingar"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Preferences"
+msgstr "Innstillingar"
+
+#: ../desktop-directories/lxde-settings-system.directory.in.h:1
+msgid "Administration"
+msgstr "Administrasjon"
+
+#: ../desktop-directories/lxde-settings-system.directory.in.h:2
+msgid "Change system-wide settings (affects all users)"
+msgstr "Gjer om instillingar for heile systemet (påverkar alle brukarar)"
+
+#: ../desktop-directories/lxde-system.directory.in.h:2
+msgid "System settings"
+msgstr "Systeminnstillingar"
+
+#: ../desktop-directories/lxde-system-tools.directory.in.h:1
+msgid "System Tools"
+msgstr "Systemverktøy"
+
+#: ../desktop-directories/lxde-system-tools.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Oppsett og overvaking av systemet"
+
+#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
+msgid "Universal Access"
+msgstr "Tilgjenge"
+
+#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
+msgid "Universal Access Settings"
+msgstr "Innstillingar for tilgjenge"
+
+#: ../desktop-directories/lxde-utility.directory.in.h:1
+msgid "Accessories"
+msgstr "Tilbehøyr"
+
+#: ../desktop-directories/lxde-utility.directory.in.h:2
+msgid "Desktop accessories"
+msgstr "Tilbehøyr for skrivebordet"
+
+#~ msgid "Universal access related preferences"
+#~ msgstr "Innstillingar relatert til tilgjenge"
+
+#~ msgid "Personal preferences and settings"
+#~ msgstr "Personlege innstillingar"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Menyredigerar"
+
+#~ msgid "Edit Menus"
+#~ msgstr "Rediger menyar"
+
+#~ msgid "_Applications:"
+#~ msgstr "_Program:"
+
+#~ msgid "_Defaults"
+#~ msgstr "_Forval"
+
+#~ msgid "_Menus:"
+#~ msgstr "_Menyar:"
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Show"
+#~ msgstr "Vis"
+
+#~ msgid ""
+#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
+#~ "in environment"
+#~ msgstr ""
+#~ "Klarte ikkje finne heimemappe: ikkje satt i /etc/passwd og ingen verdi "
+#~ "for $HOME i miljøet"
+
+#~ msgid "Menu file"
+#~ msgstr "Menyfil"
+
+#~ msgid "MENU_FILE"
+#~ msgstr "MENY_FIL"
+
+#~ msgid "Monitor for menu changes"
+#~ msgstr "Overvak menyen for endringar"
+
+#~ msgid "Include <Exclude>d entries"
+#~ msgstr "Inkluder oppføringar som har blitt ekskludert med <exclude>"
+
+#~ msgid "Include NoDisplay=true entries"
+#~ msgstr ""
+#~ "Inkluder oppføringar som er satt til å ikkje bli vist med NoDisplay=true"
+
+#~ msgid "Invalid desktop file ID"
+#~ msgstr "Ugyldig ID for desktop-fil"
+
+#~ msgid "[Invalid Filename]"
+#~ msgstr "[Ugyldig filnamn]"
+
+#~ msgid " <excluded>"
+#~ msgstr " <ekskludert>"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "==== Menu changed, reloading ====\n"
+#~ "\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "==== Meny endra, lastar på nytt ===\n"
+#~ "\n"
+#~ "\n"
+
+#~ msgid "Menu tree is empty"
+#~ msgstr "Menytreet er tomt"
+
+#~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
+#~ msgstr "- test GNOME sin implementasjon av desktop-meny spesifikasjonen"
+
+#~ msgid "Accessibility"
+#~ msgstr "Tilgjenge"
+
+#~ msgid "Desktop"
+#~ msgstr "Skrivebord"

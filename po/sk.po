@@ -1,0 +1,253 @@
+# translation of sk.po to Slovak
+# Slovak translations for gnome-menus package.
+# Copyright (C) 2004, 2005, 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-menus package.
+#
+# $Id: sk.po,v 1.11 2005/12/15 23:37:52 marcel Exp $
+#
+# Marcel Telka <marcel@telka.sk>, 2004, 2005.
+# Peter Tuharsky <tuharsky@misbb.sk>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: sk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-10 13:23+0800\n"
+"PO-Revision-Date: 2007-09-13 13:21+0100\n"
+"Last-Translator: Peter Tuhársky <tuharsky@misbb.sk>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural= (n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
+"X-Poedit-Language: Slovak\n"
+"X-Poedit-Country: SLOVAKIA\n"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:1
+msgid "Multimedia menu"
+msgstr "Ponuka multimédií"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Sound & Video"
+msgstr "Zvuk a video"
+
+#: ../desktop-directories/lxde-development.directory.in.h:1
+msgid "Programming"
+msgstr "Programovanie"
+
+#: ../desktop-directories/lxde-development.directory.in.h:2
+msgid "Tools for software development"
+msgstr "Nástroje pre vývoj softvéru"
+
+#: ../desktop-directories/lxde-education.directory.in.h:1
+msgid "Education"
+msgstr "Vzdelávanie"
+
+#: ../desktop-directories/lxde-game.directory.in.h:1
+msgid "Games"
+msgstr "Hry"
+
+#: ../desktop-directories/lxde-game.directory.in.h:2
+msgid "Games and amusements"
+msgstr "Hry a zábava"
+
+#: ../desktop-directories/lxde-graphics.directory.in.h:1
+msgid "Graphics"
+msgstr "Grafika"
+
+#: ../desktop-directories/lxde-graphics.directory.in.h:2
+msgid "Graphics applications"
+msgstr "Grafické aplikácie"
+
+#: ../desktop-directories/lxde-hardware.directory.in.h:1
+msgid "Hardware"
+msgstr "Hardvér"
+
+#: ../desktop-directories/lxde-hardware.directory.in.h:2
+msgid "Settings for several hardware devices"
+msgstr "Nastavenia pre viacero hardvérových zariadení"
+
+#: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
+msgid "Internet and Network"
+msgstr "Internet a Sieť"
+
+#: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
+msgid "Network-related settings"
+msgstr "Nastavenia súvisiace so sieťou"
+
+#: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
+msgid "Look and Feel"
+msgstr "Vzhľad a dojem"
+
+#: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
+msgid "Settings controlling the desktop appearance and behavior"
+msgstr "Nastavenia vzhľadu a správania pracovnej plochy"
+
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:1
+msgid "Applications"
+msgstr "Aplikácie"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:1
+msgid "Personal preferences and administration settings"
+msgstr "Osobné predvoľby a správcovské nastavenia"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+#: ../desktop-directories/lxde-system.directory.in.h:1
+msgid "System"
+msgstr "Systém"
+
+#: ../desktop-directories/lxde-network.directory.in.h:1
+msgid "Internet"
+msgstr "Internet"
+
+#: ../desktop-directories/lxde-network.directory.in.h:2
+msgid "Programs for Internet access such as web and email"
+msgstr "Programy pre prístup k Internetu, ako je www a E-mail"
+
+#: ../desktop-directories/lxde-office.directory.in.h:1
+msgid "Office"
+msgstr "Kancelária"
+
+#: ../desktop-directories/lxde-office.directory.in.h:2
+msgid "Office Applications"
+msgstr "Kancelárske aplikácie"
+
+#: ../desktop-directories/lxde-other.directory.in.h:1
+msgid "Applications that did not fit in other categories"
+msgstr "Aplikácie, ktoré nepatria do ostatných kategórií"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Other"
+msgstr "Ostatné"
+
+#: ../desktop-directories/lxde-personal.directory.in.h:1
+msgid "Personal"
+msgstr "Osobný"
+
+#: ../desktop-directories/lxde-personal.directory.in.h:2
+msgid "Personal settings"
+msgstr "Osobné nastavenia"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:1
+msgid "Personal preferences"
+msgstr "Osobné predvoľby"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Preferences"
+msgstr "Predvoľby"
+
+#: ../desktop-directories/lxde-settings-system.directory.in.h:1
+msgid "Administration"
+msgstr "Správa"
+
+#: ../desktop-directories/lxde-settings-system.directory.in.h:2
+msgid "Change system-wide settings (affects all users)"
+msgstr "Zmeniť systémové nastavenia (ovplyvní všetkých používateľov)"
+
+#: ../desktop-directories/lxde-system.directory.in.h:2
+msgid "System settings"
+msgstr "Systémové nastavenia"
+
+#: ../desktop-directories/lxde-system-tools.directory.in.h:1
+msgid "System Tools"
+msgstr "Systémové nástroje"
+
+#: ../desktop-directories/lxde-system-tools.directory.in.h:2
+msgid "System configuration and monitoring"
+msgstr "Systémová konfigurácia a sledovanie"
+
+#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
+msgid "Universal Access"
+msgstr "Pre postihnutých"
+
+#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
+msgid "Universal Access Settings"
+msgstr "Nastavenia pre postihnutých"
+
+#: ../desktop-directories/lxde-utility.directory.in.h:1
+msgid "Accessories"
+msgstr "Príslušenstvo"
+
+#: ../desktop-directories/lxde-utility.directory.in.h:2
+msgid "Desktop accessories"
+msgstr "Príslušenstvo pracovnej plochy"
+
+#~ msgid "Universal access related preferences"
+#~ msgstr "Predvoľby súvisiace s postihnutými"
+
+#~ msgid "Personal preferences and settings"
+#~ msgstr "Osobné predvoľby a nastavenia"
+
+#~ msgid "Menu Editor"
+#~ msgstr "Editor ponúk"
+
+#~ msgid "Edit Menus"
+#~ msgstr "Upraviť ponuky"
+
+#~ msgid "_Applications:"
+#~ msgstr "_Aplikácie:"
+
+#~ msgid "_Defaults"
+#~ msgstr "_Predvolené"
+
+#~ msgid "_Menus:"
+#~ msgstr "_Ponuky:"
+
+#~ msgid "Name"
+#~ msgstr "Názov"
+
+#~ msgid "Show"
+#~ msgstr "Zobraziť"
+
+#~ msgid ""
+#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
+#~ "in environment"
+#~ msgstr ""
+#~ "Nepodarilo sa nájsť domovský priečinok: nie je nastavený v /etc/passwd a "
+#~ "nie je nastavená hodnota premennej prostredia $HOME"
+
+#~ msgid "Menu file"
+#~ msgstr "Súbor ponuky"
+
+#~ msgid "MENU_FILE"
+#~ msgstr "SÚBOR_PONUKY"
+
+#~ msgid "Monitor for menu changes"
+#~ msgstr "Sledovanie zmien ponuky"
+
+#~ msgid "Include <Exclude>d entries"
+#~ msgstr "Zahrnúť <Vynechané> položky"
+
+#~ msgid "Include NoDisplay=true entries"
+#~ msgstr "Zahrnúť položky NoDisplay=true"
+
+#~ msgid "Invalid desktop file ID"
+#~ msgstr "Neplatné ID súboru pracovnej plochy"
+
+#~ msgid "[Invalid Filename]"
+#~ msgstr "[Neplatný názov súboru]"
+
+#~ msgid " <excluded>"
+#~ msgstr " <vynechané>"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "==== Menu changed, reloading ====\n"
+#~ "\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "==== Ponuka sa zmenila, načítavam znovu ====\n"
+#~ "\n"
+#~ "\n"
+
+#~ msgid "Menu tree is empty"
+#~ msgstr "Strom ponuky je prázdny"
+
+#~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
+#~ msgstr ""
+#~ "- testovacia GNOME implementácia Špecifikácie ponuky pracovnej plochy"
