@@ -149,41 +149,16 @@
 
 	<Menu>
 		<Name>DesktopSettings</Name>
-		<Directory>lxde-menu-system.directory</Directory>
+		<Directory>lxde-settings.directory</Directory>
+		<OnlyUnallocated/>
 		<Include>
+			<Or>
+				<Category>Settings</Category>
 				<Category>PackageManager</Category>
+				<Category>System</Category>
+			</Or>
 		</Include>
-		<Menu>
-			<Name>Preferences</Name>
-			<Directory>lxde-settings.directory</Directory>
-			<Include>
-				<And>
-					<Category>Settings</Category>
-					<Not>
-						<Or>
-							<Category>System</Category>
-							<Filename>gnomecc.desktop</Filename>
-						</Or>
-					</Not>
-				</And>
-			</Include>
-		</Menu>
-
-		<!-- System Settings -->
-		<Menu>
-			<Name>Administration</Name>
-			<Directory>lxde-settings-system.directory</Directory>
-			<Include>
-				<And>
-					<Category>Settings</Category>
-					<Category>System</Category>
-				</And>
-			</Include>
-		</Menu>		 <!-- End System Settings -->
-
 		<Layout>
-			<Menuname>Preferences</Menuname>
-			<Menuname>Administration</Menuname>
 			<Merge type="menus"/>
 			<Merge type="files"/>
 		</Layout>
