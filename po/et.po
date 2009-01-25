@@ -12,12 +12,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-10 13:23+0800\n"
-"PO-Revision-Date: 2007-05-24 00:25+0300\n"
-"Last-Translator: Ivar Smolin <okul@linux.ee>\n"
+"POT-Creation-Date: 2009-01-19 09:17+0200\n"
+"PO-Revision-Date: 2009-01-19 09:19+0300\n"
+"Last-Translator: Mattias Põldaru <mahfiaz gmail com>\n"
 "Language-Team: Estonian <gnome-et@linux.ee>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
@@ -99,7 +99,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Internetprogrammid - näiteks veebi ja e-posti jaoks"
+msgstr "Internetirakendused - näiteks veebi ja e-posti jaoks"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -171,62 +171,44 @@ msgstr "Töölaua tarvikud"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Universaalse ligipääsuga seotud eelistused"
-
 #~ msgid "Personal preferences and settings"
 #~ msgstr "Isiklikud eelistused ja sätted"
-
 #~ msgid "Menu Editor"
 #~ msgstr "Menüüredaktor"
-
 #~ msgid "Edit Menus"
 #~ msgstr "Menüüde redigeermine"
-
 #~ msgid "_Applications:"
 #~ msgstr "_Rakendused:"
-
 #~ msgid "_Defaults"
 #~ msgstr "_Vaikimisi"
-
 #~ msgid "_Menus:"
 #~ msgstr "_Menüüd:"
-
 #~ msgid "Name"
 #~ msgstr "Nimi"
-
 #~ msgid "Show"
 #~ msgstr "Vaade"
-
 #~ msgid ""
 #~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
 #~ "in environment"
 #~ msgstr ""
 #~ "Kodukausta pole võimalik leida: seda pole määratud ei /etc/passwd failis "
 #~ "ega $HOME keskkonnamuutujas"
-
 #~ msgid "Menu file"
 #~ msgstr "Menüüfail"
-
 #~ msgid "MENU_FILE"
 #~ msgstr "MENU_FILE"
-
 #~ msgid "Monitor for menu changes"
 #~ msgstr "Jälgi muudatusi menüüs"
-
 #~ msgid "Include <Exclude>d entries"
 #~ msgstr "Kaasa ka <välistatud> kirjed"
-
 #~ msgid "Include NoDisplay=true entries"
 #~ msgstr "Kaasa ka <NoDisplay=true> kirjed"
-
 #~ msgid "Invalid desktop file ID"
 #~ msgstr "Vigane töölauafaili ID"
-
 #~ msgid "[Invalid Filename]"
 #~ msgstr "[Vigane failinimi]"
-
 #~ msgid " <excluded>"
 #~ msgstr "<välistatud>"
-
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -241,9 +223,8 @@ msgstr "Töölaua tarvikud"
 #~ "==== Menüü muudetud, laaditakse uuesti ====\n"
 #~ "\n"
 #~ "\n"
-
 #~ msgid "Menu tree is empty"
 #~ msgstr "Menüüpuu on tühi"
-
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
 #~ msgstr "- testi GNOME'ipoolset teostust Töölauamenüü spetsifikatsioonist"
+
