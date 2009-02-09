@@ -14,6 +14,7 @@ desktop-directories/lxde-network.directory.in
 desktop-directories/lxde-office.directory.in
 desktop-directories/lxde-other.directory.in
 desktop-directories/lxde-personal.directory.in
+desktop-directories/lxde-science.directory.in
 desktop-directories/lxde-settings.directory.in
 desktop-directories/lxde-settings-system.directory.in
 desktop-directories/lxde-system.directory.in

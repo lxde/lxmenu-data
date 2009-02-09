@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.hu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-12-10 13:23+0800\n"
+"POT-Creation-Date: 2009-02-09 01:24+0100\n"
 "PO-Revision-Date: 2008-12-26 11:25+0100\n"
 "Last-Translator: SZERVÁC Attila <sas@321.hu>\n"
 "Language-Team: Hungarian <gnome@fsf.hu>\n"
@@ -169,40 +169,56 @@ msgstr "Asztali kellékek"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Menüszerkesztő"
+
 #~ msgid "Edit Menus"
 #~ msgstr "Menük szerkesztése"
+
 #~ msgid "_Applications:"
 #~ msgstr "_Alkalmazások:"
+
 #~ msgid "_Defaults"
 #~ msgstr "Ala_pértelmezések"
+
 #~ msgid "_Menus:"
 #~ msgstr "_Menük:"
+
 #~ msgid "Name"
 #~ msgstr "Név"
+
 #~ msgid "Show"
 #~ msgstr "Megjelenítés"
+
 #~ msgid ""
 #~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
 #~ "in environment"
 #~ msgstr ""
 #~ "Nem található a saját könyvtár: nincs beállítva az /etc/passwd fájlban és "
 #~ "a $HOME környezeti változónak nincs értéke"
+
 #~ msgid "Menu file"
 #~ msgstr "Menüfájl"
+
 #~ msgid "MENU_FILE"
 #~ msgstr "MENÜ_FÁJL"
+
 #~ msgid "Monitor for menu changes"
 #~ msgstr "Menüváltozások figyelése"
+
 #~ msgid "Include <Exclude>d entries"
 #~ msgstr "<Kihagyott> bejegyzések bevétele"
+
 #~ msgid "Include NoDisplay=true entries"
 #~ msgstr "A NoDisplay=true bejegyzések felvétele"
+
 #~ msgid "Invalid desktop file ID"
 #~ msgstr "Érvénytelen desktop fájl azonosító"
+
 #~ msgid "[Invalid Filename]"
 #~ msgstr "[Érvénytelen fájlnév]"
+
 #~ msgid " <excluded>"
 #~ msgstr " <kihagyott>"
+
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -217,8 +233,9 @@ msgstr "Asztali kellékek"
 #~ "==== A menü megváltozott, újratöltés ====\n"
 #~ "\n"
 #~ "\n"
+
 #~ msgid "Menu tree is empty"
 #~ msgstr "A menüfa üres"
+
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
 #~ msgstr "– Az Asztali Menü Specifikáció GNOME megvalósításának tesztelése"
-
