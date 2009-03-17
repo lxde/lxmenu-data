@@ -11,12 +11,13 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-09 01:24+0100\n"
-"PO-Revision-Date: 2007-10-07 23:49+0200\n"
-"Last-Translator: Peter Bach <bach.peter@gmail.com>\n"
+"PO-Revision-Date: 2009-03-16 20:46+0100\n"
+"Last-Translator: charlie tyrrestrup <chalze06@gmail.com>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -32,7 +33,7 @@ msgstr "Programmering"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Værktøj til programudvikling"
+msgstr "Værktøjer til programudvikling"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -138,7 +139,7 @@ msgstr "Administration"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Ændr systemindstillinger (påvirker alle brugere)"
+msgstr "Ændre systemindstillinger (påvirker alle brugere)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
