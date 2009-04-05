@@ -1,27 +1,17 @@
-# Copyright (C) 2005-2007 Free Software Foundation, Inc.
-# This file is distributed under the same license as the program package.
-#
-#
-# Translators:
-# Matic Žgur <mr.zgur@gmail.com>, 2006.
-# Matej Urbančič <matej.urban@gmail.com>, 2005 - 2007.
-#
-msgid ""
+﻿msgid ""
 msgstr ""
-"Project-Id-Version: gnome-menus\n"
+"Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-02-09 01:24+0100\n"
-"PO-Revision-Date: 2007-11-14 14:39+0100\n"
-"Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
-"Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matej <paxmanpwnz@gmail.com>\n"
+"Language-Team: Slovenian <paxmanpwnz@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-Country: SLOVENIA\n"
-"X-Poedit-SourceCharset: utf-8\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -29,7 +19,7 @@ msgstr "Večpredstavnostni meni"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
-msgstr "Zvok in video"
+msgstr "Zvok & slika"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -37,7 +27,7 @@ msgstr "Programiranje"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Orodja za razvoj programske opreme"
+msgstr "Orodja za razvijanje programov"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -65,7 +55,7 @@ msgstr "Strojna oprema"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Nastavitve več strojnih naprav"
+msgstr "Nastavitve "
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -77,9 +67,10 @@ msgstr "Nastavitve omrežja"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Videz in občutek"
+msgstr "Videz"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
+#, fuzzy
 msgid "Settings controlling the desktop appearance and behavior"
 msgstr "Nastavitve videza in obnašanja namizja"
 
@@ -88,8 +79,9 @@ msgid "Applications"
 msgstr "Programi"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
+#, fuzzy
 msgid "Personal preferences and administration settings"
-msgstr "Osebne izbire in skrbniške nastavitve"
+msgstr "Osebne in administrativne nastavitve"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -101,8 +93,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
+#, fuzzy
 msgid "Programs for Internet access such as web and email"
-msgstr "Programi za dostop do interneta kot sta brskalnik in e-pošta"
+msgstr "Programi za internetni dostop ( splet, elektronska pošta )"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -114,7 +107,7 @@ msgstr "Pisarniški programi"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Programi, ki ne sodijo v druge kategorije"
+msgstr "Programi izven drugih kategorij"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -142,7 +135,7 @@ msgstr "Administracija"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Spremeni sistemske nastavitve (za vse uporabnike)"
+msgstr "Spremeni sistemske spremembe ( vpliva na vse uporabnike)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -154,15 +147,15 @@ msgstr "Sistemska orodja"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Nastavitve in nadziranje sistema"
+msgstr "Nastavljanje in nadziranje sistema"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr "Splošni dostop"
+msgstr "Univerzalen dostop"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Splošne nastavitve dostopa"
+msgstr "Nastavitve univerzalnega dostopa"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
@@ -172,81 +165,3 @@ msgstr "Pripomočki"
 msgid "Desktop accessories"
 msgstr "Namizni pripomočki"
 
-#~ msgid "Universal access related preferences"
-#~ msgstr "Splošne lastnosti dostopa"
-
-#~ msgid "Personal preferences and settings"
-#~ msgstr "Osebne nastavitve"
-
-#~ msgid "Menu Editor"
-#~ msgstr "Urejevalnik menijev"
-
-#~ msgid "Edit Menus"
-#~ msgstr "Uredi menije"
-
-#~ msgid "_Applications:"
-#~ msgstr "_Programi:"
-
-#~ msgid "_Defaults"
-#~ msgstr "_Privzeto"
-
-#~ msgid "_Menus:"
-#~ msgstr "_Menuji:"
-
-#~ msgid "Name"
-#~ msgstr "Ime"
-
-#~ msgid "Show"
-#~ msgstr "Prikaži"
-
-#~ msgid ""
-#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
-#~ "in environment"
-#~ msgstr ""
-#~ "Ni mogoče najti domače mape: ni določena v /etc/passwd in ni vrednosti za "
-#~ "$HOME v okolju"
-
-#~ msgid "Menu file"
-#~ msgstr "Datoteka menija"
-
-#~ msgid "MENU_FILE"
-#~ msgstr "MENU_FILE"
-
-#~ msgid "Monitor for menu changes"
-#~ msgstr "Spremljaj spremembe menija"
-
-#~ msgid "Include <Exclude>d entries"
-#~ msgstr "Vključi <izločene> vnose"
-
-#~ msgid "Include NoDisplay=true entries"
-#~ msgstr "Vključi vnose NoDisplay=true"
-
-#~ msgid "Invalid desktop file ID"
-#~ msgstr "Napačen ID datoteke namizja"
-
-#~ msgid "[Invalid Filename]"
-#~ msgstr "[Nepravilno ime datoteke]"
-
-#~ msgid " <excluded>"
-#~ msgstr " <izločeno>"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "\n"
-#~ "==== Menu changed, reloading ====\n"
-#~ "\n"
-#~ "\n"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "\n"
-#~ "==== Meni je spremenjen, ponovno nalaganje ====\n"
-#~ "\n"
-#~ "\n"
-
-#~ msgid "Menu tree is empty"
-#~ msgstr "Drevesna struktura menija je prazna"
-
-#~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
-#~ msgstr "- testirajte GNOME-ova orodja za določanje namiznega menija"
