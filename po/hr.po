@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data_hr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-09 01:24+0100\n"
+"POT-Creation-Date: 2009-04-15 19:33+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Boljsa <asjlob AT vip.hr>\n"
 "Language-Team:  <asjlob AT vip.hr>\n"
@@ -160,4 +160,3 @@ msgstr "Pomagala"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Pomagala radne povr¹ine"
-

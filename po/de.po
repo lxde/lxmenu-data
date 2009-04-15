@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-02-09 01:24+0100\n"
+"POT-Creation-Date: 2009-04-15 19:33+0200\n"
 "PO-Revision-Date: 2009-03-22 14:47+0100\n"
 "Last-Translator: Benedikt Klus <b.klus89@web.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -107,7 +107,8 @@ msgstr "Büroanwendungen"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Anwendungen, welche in keine andere Kategorie eingeordnet werden können"
+msgstr ""
+"Anwendungen, welche in keine andere Kategorie eingeordnet werden können"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -167,22 +168,31 @@ msgstr "Desktop-Zubehör"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Einstellungen zur Barrierefreiheit"
+
 #~ msgid "Personal preferences and settings"
 #~ msgstr "Persönliche Vorlieben und Einstellungen"
+
 #~ msgid "Menu Editor"
 #~ msgstr "Menüeditor"
+
 #~ msgid "Edit Menus"
 #~ msgstr "Menüs bearbeiten"
+
 #~ msgid "_Applications:"
 #~ msgstr "_Anwendungen:"
+
 #~ msgid "_Defaults"
 #~ msgstr "_Vorgaben"
+
 #~ msgid "_Menus:"
 #~ msgstr "_Menüs:"
+
 #~ msgid "Name"
 #~ msgstr "Name"
+
 #~ msgid "Show"
 #~ msgstr "Anzeigen"
+
 #~ msgid ""
 #~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
 #~ "in environment"
@@ -190,22 +200,31 @@ msgstr "Desktop-Zubehör"
 #~ "Das Heimatverzeichnis des Benutzers konnte nicht gefunden werden: es ist "
 #~ "weder in /etc/passwd angegeben, noch gibt es einen Wert für die "
 #~ "Umgebungsvariable $HOME"
+
 #~ msgid "Menu file"
 #~ msgstr "Menüdatei"
+
 #~ msgid "MENU_FILE"
 #~ msgstr "MENÜ_DATEI"
+
 #~ msgid "Monitor for menu changes"
 #~ msgstr "Menüänderungen überwachen"
+
 #~ msgid "Include <Exclude>d entries"
 #~ msgstr "Mit »<ausschließen>« markierte Einträge einbeziehen"
+
 #~ msgid "Include NoDisplay=true entries"
 #~ msgstr "Mit »NoDisplay=true« markierte Einträge einbeziehen"
+
 #~ msgid "Invalid desktop file ID"
 #~ msgstr "Ungültige Desktop-Dateikennung"
+
 #~ msgid "[Invalid Filename]"
 #~ msgstr "[Ungültiger Dateiname]"
+
 #~ msgid " <excluded>"
 #~ msgstr " <ausschließen>"
+
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -220,16 +239,18 @@ msgstr "Desktop-Zubehör"
 #~ "==== Menü wurde geändert, wird neu geladen ====\n"
 #~ "\n"
 #~ "\n"
+
 #~ msgid "Menu tree is empty"
 #~ msgstr "Der Menübaum ist leer"
+
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
 #~ msgstr "- testen der GNOME-Implementation der Desktop-Menü-Spezifikation"
+
 #~ msgid "Accessibility"
 #~ msgstr "Barrierefreiheit"
+
 #~ msgid "Accessibility Settings"
 #~ msgstr "Einstellungen zur Barrierefreiheit"
+
 #~ msgid "Desktop"
 #~ msgstr "Desktop"
-
-
- 	  	 
