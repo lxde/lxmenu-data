@@ -83,6 +83,7 @@
 		<Include>
 			<And>
 				<Category>Graphics</Category>
+				<Not><Category>Utility</Category></Not>
 			</And>
 		</Include>
 	</Menu> <!-- End Graphics -->
