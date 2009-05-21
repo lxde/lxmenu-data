@@ -7,12 +7,13 @@ msgstr ""
 "Project-Id-Version: gnome-menu HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2004-08-09 21:51+0730\n"
-"Last-Translator: Hasbullah Bin Pit <sebol@my-penguin.org>\n"
+"PO-Revision-Date: 2009-05-21 00:59+0200\n"
+"Last-Translator: samad loh <sploh77@yahoo.com>\n"
 "Language-Team: ms <sebol@ikhlas.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -31,9 +32,8 @@ msgid "Tools for software development"
 msgstr "Alatan untuk pembangunan perisian"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
-#, fuzzy
 msgid "Education"
-msgstr "Aksi"
+msgstr "Pendidikan"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
 msgid "Games"
@@ -53,42 +53,40 @@ msgstr "Aplikasi Grafik"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
-msgstr ""
+msgstr "Perkakasan"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr ""
+msgstr "Tetapan untuk beberapa alat-alat perkakasan"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
-msgstr ""
+msgstr "Internet dan Rangkaian"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr ""
+msgstr "Tetapan rangkaian-berkaitan"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr ""
+msgstr "Lihat dan Berasa"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
+msgstr "Tetapan pengawalan rupa desktop dan tingkah laku"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "Aplikasi"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-#, fuzzy
 msgid "Personal preferences and administration settings"
-msgstr "Tetapan dan keutamaan peribadi"
+msgstr "Tetapan kesukaan dan keutamaan peribadi"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
-#, fuzzy
 msgid "System"
-msgstr "Alatan Sistem"
+msgstr "Sistem"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -108,7 +106,7 @@ msgstr "Aplikasi Pejabat"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Aplikasi yang tak sesuai bagi kategori lain"
+msgstr "Aplikasi yang tak sesuai dalam kategori lain"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -116,34 +114,29 @@ msgstr "Lain-lain"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
-msgstr ""
+msgstr "Peribadi"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
-#, fuzzy
 msgid "Personal settings"
-msgstr "Tetapan dan keutamaan peribadi"
+msgstr "Tetapan peribadi"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-#, fuzzy
 msgid "Personal preferences"
-msgstr "Keutamaan Panel"
+msgstr "Kesukaan peribadi"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "Keutamaan"
+msgstr "Kesukaan"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
-#, fuzzy
 msgid "Administration"
-msgstr "Orientasi"
+msgstr "Adminitrasi"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
 msgid "Change system-wide settings (affects all users)"
 msgstr "Tukar tetapan seluruh sistem (melibatkan semua pengguna)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-#, fuzzy
 msgid "System settings"
 msgstr "Tetapan Sistem"
 
@@ -153,16 +146,15 @@ msgstr "Alatan Sistem"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Konfigurasi dan monitor sistem"
+msgstr "Konfigurasi dan pemantauan sistem"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr ""
+msgstr "Akses sejagat"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
-#, fuzzy
 msgid "Universal Access Settings"
-msgstr "Tetapan Kebolehcapaian"
+msgstr "Tetapan Akses Sejagat"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
