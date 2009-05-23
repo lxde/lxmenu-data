@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: gnome-menu HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2009-05-23 15:37+0200\n"
+"PO-Revision-Date: 2009-05-24 01:19+0200\n"
 "Last-Translator: Payne Samad Loh <sploh77@yahoo.com>\n"
 "Language-Team: ms <sebol@ikhlas.com>\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr "Aplikasi"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Tetapan kesukaan dan keutamaan peribadi"
+msgstr "Tetapan kegemaran dan keutamaan peribadi"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -122,11 +122,11 @@ msgstr "Tetapan peribadi"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
-msgstr "Kesukaan peribadi"
+msgstr "Kegemaran peribadi"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "Kesukaan"
+msgstr "Kegemaran"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
