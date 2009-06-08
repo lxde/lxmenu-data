@@ -13,12 +13,13 @@ msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.fr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2007-08-16 01:23+0200\n"
-"Last-Translator: Stéphane Raimbault <stephane.raimbault@gmail.com>\n"
+"PO-Revision-Date: 2009-06-07 21:55+0200\n"
+"Last-Translator: Cyprien Gay <cyprien.gay@aful.org>\n"
 "Language-Team: GNOME French team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -34,7 +35,7 @@ msgstr "Programmation"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Les outils de développement de logiciels"
+msgstr "Outils de développement logiciel"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -99,7 +100,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Les programmes pour accéder à Internet tel que le Web ou la messagerie"
+msgstr "Programmes pour accéder à Internet tels que le Web ou la messagerie"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -107,11 +108,11 @@ msgstr "Bureautique"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 msgid "Office Applications"
-msgstr "Autres applications"
+msgstr "Applications bureautiques"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Les applications qui ne conviennent à aucune autre catégorie"
+msgstr "Applications qui n'entraient dans aucune autre catégorie"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
