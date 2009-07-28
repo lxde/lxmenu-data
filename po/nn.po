@@ -1,15 +1,15 @@
 # Translation of lxmenu-data to Norwegian Nynorsk
-# Copyright ?? 2009 Karl Ove Hufthammer <karl@huftis.org>
-#
+# Copyright © 2009 Karl Ove Hufthammer <karl@huftis.org>
 # This file is distributed under the same license as the lxmenu-data package.
-#
 # Karl Ove Hufthammer <karl@huftis.org>, 2009.
+#
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-07-27 15:05+0200\n"
-"PO-Revision-Date: 2009-07-27 15:03+0200\n"
+"PO-Revision-Date: 2009-07-27 21:31+0200\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
 "Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "Programmering"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Verkt??y for programutvikling"
+msgstr "Verktøy for programutvikling"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -72,11 +72,11 @@ msgstr "Nettverksinnstillingar"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Utsj??nad"
+msgstr "Utsjånad"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Innstillingar for utsj??naden og ??tferda til skrivebordet"
+msgstr "Innstillingar for utsjånaden og åtferda til skrivebordet"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -97,7 +97,7 @@ msgstr "Internett"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Program for bruk p?? Internett ??? som nettlesar og e-postprogram"
+msgstr "Program for bruk på Internett – som nettlesar og e-postprogram"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -137,7 +137,7 @@ msgstr "Oppsett"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Innstillingar for heile systemet (p??verkar alle brukarane)"
+msgstr "Innstillingar for heile systemet (påverkar alle brukarane)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -145,7 +145,7 @@ msgstr "Systemoppsett"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
-msgstr "Systemverkt??y"
+msgstr "Systemverktøy"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
@@ -161,8 +161,8 @@ msgstr "Innstillingar for tilgjenge"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
-msgstr "Tilbeh??yr"
+msgstr "Tilbehøyr"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr "Tilbeh??yr til skrivebordet"
+msgstr "Tilbehøyr til skrivebordet"
