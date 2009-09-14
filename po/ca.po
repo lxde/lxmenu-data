@@ -1,16 +1,17 @@
-# Catalan translation of GNOME Menus.
-# Copyright © 2004, 2005, 2006, 2007 Free Software Foundation, Inc.
-# This file is distributed under the same license as the gnome-menus package.
-# Jordi Mallach <jordi@sindominio.net>, 2004, 2005, 2006, 2007.
+# lxmenu-data.po CATALAN TRANSLATION
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-menus 2.12\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2007-02-08 07:23+0100\n"
-"Last-Translator: Jordi Mallach <jordi@sindominio.net>\n"
-"Language-Team: Catalan <tradgnome@softcatala.org>\n"
+"PO-Revision-Date: 2009-09-07 17:21 UTC+2\n"
+"Last-Translator: Josep Sànchez Mesegué <josep.sanchez@ubuntu.cat>\n"
+"Language-Team: LXDE Catalan translators group\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,7 @@ msgstr "Menú multimèdia"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
-msgstr "So i vídeo"
+msgstr "So i Vídeo"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -29,7 +30,7 @@ msgstr "Programació"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Eines per a desenvolupar programari"
+msgstr "Eines per a desenvolupament de programari"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -49,7 +50,7 @@ msgstr "Gràfics"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Aplicacions de gràfics"
+msgstr "Aplicacions gràfiques"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
@@ -57,7 +58,7 @@ msgstr "Maquinari"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Paràmetres per a diferents dispositius de maquinari"
+msgstr "Paràmetres de diversos dispositius"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -67,14 +68,13 @@ msgstr "Internet i xarxa"
 msgid "Network-related settings"
 msgstr "Paràmetres de xarxa"
 
-# Termcat (josep)
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Aspecte i comportament"
+msgstr "Aparença"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Paràmetres que controlen l'aspecte i el comportament de l'escriptori"
+msgstr "Paràmetres de l'aparença i comportament de l'escriptori"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -82,7 +82,7 @@ msgstr "Aplicacions"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Preferències personals i paràmetres d'administració"
+msgstr "Preferències personals i dels programes d'administració"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -95,7 +95,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Programes per a accedir a Internet, com la web i el correu"
+msgstr "Programes per accedir a internet com el navegador web i el client de correu"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -103,11 +103,11 @@ msgstr "Oficina"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 msgid "Office Applications"
-msgstr "Aplicacions ofimàtiques"
+msgstr "Aplicacions d'oficina"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Aplicacions que no encaixaven en d'altres categories"
+msgstr "Aplicacions que no encaixen en altres categories"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -135,15 +135,15 @@ msgstr "Administració"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Canvia els paràmetres del sistema (afecta a tots els usuaris)"
+msgstr "Gestió de paràmetres de sistema (afecta a tots els usuaris)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr "Paràmetres del sistema"
+msgstr "Paràmetres de sistema"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
-msgstr "Eines del sistema"
+msgstr "Eines de sistema"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
@@ -163,93 +163,4 @@ msgstr "Accessoris"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr "Accessoris de l'escriptori"
-
-#~ msgid "Universal access related preferences"
-#~ msgstr "Preferències relacionades amb l'accés universal"
-
-#~ msgid "Personal preferences and settings"
-#~ msgstr "Preferències i paràmetres personals"
-
-#~ msgid "Menu Editor"
-#~ msgstr "Editor del menú"
-
-#~ msgid "Edit Menus"
-#~ msgstr "Edita els menús"
-
-#~ msgid "_Applications:"
-#~ msgstr "_Aplicacions:"
-
-#~ msgid "_Defaults"
-#~ msgstr "_Predeterminats"
-
-#~ msgid "_Menus:"
-#~ msgstr "_Menús:"
-
-#~ msgid "Name"
-#~ msgstr "Nom"
-
-#~ msgid "Show"
-#~ msgstr "Mostra"
-
-#~ msgid ""
-#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
-#~ "in environment"
-#~ msgstr ""
-#~ "No s'ha trobat el directori d'inici: no està establert al fitxer /etc/"
-#~ "passwd i no hi ha cap valor per a $HOME a l'entorn"
-
-#~ msgid "Menu file"
-#~ msgstr "Fitxer de menú"
-
-#~ msgid "MENU_FILE"
-#~ msgstr "FITXER_MENU"
-
-#~ msgid "Monitor for menu changes"
-#~ msgstr "Monitornitza els canvis del menú"
-
-#~ msgid "Include <Exclude>d entries"
-#~ msgstr "Inclou entrades excloses amb <Exclude>"
-
-#~ msgid "Include NoDisplay=true entries"
-#~ msgstr "Inclou entrades amb NoDisplay=true"
-
-#~ msgid "Invalid desktop file ID"
-#~ msgstr "L'ID del fitxer desktop és invàlid"
-
-#~ msgid "[Invalid Filename]"
-#~ msgstr "[Nom de fitxer invàlid]"
-
-#~ msgid " <excluded>"
-#~ msgstr "<excluded>"
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "\n"
-#~ "==== Menu changed, reloading ====\n"
-#~ "\n"
-#~ "\n"
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "\n"
-#~ "=== El menú ha canviat, s'està tornant a carregar ===\n"
-#~ "\n"
-
-#~ msgid "Menu tree is empty"
-#~ msgstr "L'arbre del menú és buit"
-
-#~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
-#~ msgstr ""
-#~ "- proveu la implementació del GNOME de l'especificació del menú "
-#~ "d'escriptori"
-
-#~ msgid "Accessibility"
-#~ msgstr "Accessibilitat"
-
-#~ msgid "Accessibility Settings"
-#~ msgstr "Paràmetres d'accessibilitat"
-
-#~ msgid "Desktop"
-#~ msgstr "Escriptori"
+msgstr "Accessoris d'escriptori"
