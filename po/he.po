@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: gnome-menus.gnome-2-10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2005-07-26 00:26+0300\n"
-"Last-Translator: Reuven Gonen <linxspider@yahoo.com>\n"
-"Language-Team:  <he@li.org>\n"
+"PO-Revision-Date: 2009-09-21 00:38+0200\n"
+"Last-Translator: Yaron Shahrbani <sh.yaron@gmail.com>\n"
+"Language-Team: <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
+"X-Generator: Pootle 1.1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -22,7 +22,7 @@ msgstr "תפריט מולטימדיה"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
-msgstr "צליל ווידאו"
+msgstr "צליל וווידאו"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -70,11 +70,11 @@ msgstr "הגדרות רשת"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "מראה ומרגש"
+msgstr "מראה ותחושה"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "הגדרות לשליטה במראה והתנהגות שולחן העבודה"
+msgstr "הגדרות לשליטה במראה ובהתנהגות שולחן העבודה"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -95,7 +95,7 @@ msgstr "אינטרנט"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "תוכנות לגישה לאינטרנט כגון דפדפן ולקוח דואר"
+msgstr "תוכנות לגישה לאינטרנט כגון דפדפן ולקוח דוא\"ל"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -135,7 +135,7 @@ msgstr "ניהול"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "שנה הגדרות מערכת כלליות (משפיע על כל המשתמשים)"
+msgstr "שינוי הגדרות כלל־מערכת (משפיע על כל המשתמשים)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -147,7 +147,7 @@ msgstr "כלי מערכת"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "הגדרה וניטור של המערכת"
+msgstr "הגדרת המערכת וניהול מעקב אחריה"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
