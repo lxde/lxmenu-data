@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: gnome-menus 2.19.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2010-01-25 18:43+0200\n"
+"PO-Revision-Date: 2010-01-26 11:05+0200\n"
 "Last-Translator: Hiếu <scamemiv@gmail.com>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
 "Language: vi\n"
@@ -85,7 +85,7 @@ msgstr "Ứng dụng"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Thiết lập quản lý và Tùy thích cá nhân"
+msgstr "Thiết lập quản lý và tùy thích cá nhân"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
