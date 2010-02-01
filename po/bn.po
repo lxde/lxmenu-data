@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Mahay Alam Khan <makl10n@yahoo.com>, 2005.
 # Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
+# Israt Jahan <israt@ankur.org.bd>, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-menus\n"
+"Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2005-09-30 22:55+0600\n"
-"Last-Translator: Mahay Alam Khan <makl10n@yahoo.com>\n"
-"Language-Team: Bengali <gnome-translation@bengalinux.org>\n"
+"PO-Revision-Date: 2010-02-01 22:55+0600\n"
+"Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
+"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,7 +31,7 @@ msgstr "প্রোগ্রামিং"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "সফটওয়্যার ডেভেলপমেন্টের যন্ত্রপাতি"
+msgstr "সফটওয়্যার ডেভেলপমেন্টের টুল"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -54,27 +55,27 @@ msgstr "গ্রাফিক্স অ্যাপ্লিকেশন"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
-msgstr ""
+msgstr "হার্ডওয়্যার"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr ""
+msgstr "কিছু হার্ডওয়্যার ডিভাইসের জন্য সেটিং"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
-msgstr ""
+msgstr "ইন্টারনেট এবং নেটওয়ার্ক"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr ""
+msgstr "নেটওয়ার্ক সম্পর্কিত সেটিং"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr ""
+msgstr "অবয়ম এবং উপস্থাপনা"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
+msgstr "ডেক্সটপ অবয়ব এবং আচরণ নিয়ন্ত্রণকারী সেটিং"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -82,13 +83,12 @@ msgstr "অ্যাপলিকেশন"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "ব্যক্তিগত পছন্দতালিকা এবং অ্যাডমিনস্ট্রেশন বৈশিষ্ট্যাবলী"
+msgstr "ব্যক্তিগত পছন্দতালিকা এবং অ্যাডমিনস্ট্রেশন সেটিং"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
-#, fuzzy
 msgid "System"
-msgstr "সিস্টেম টুল"
+msgstr "সিস্টেম"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -116,12 +116,11 @@ msgstr "অন্যান্য"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
-msgstr ""
+msgstr "ব্যক্তিগত"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
-#, fuzzy
 msgid "Personal settings"
-msgstr "ব্যক্তিগত পছন্দ এবং বৈশিষ্ট্যাবলী"
+msgstr "ব্যক্তিগত সেটিং"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
@@ -136,13 +135,13 @@ msgid "Administration"
 msgstr "অ্যাডমিনস্ট্রেশন"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
 msgid "Change system-wide settings (affects all users)"
-msgstr "সিস্টেমব্যাপী বৈশিষ্ট্যাবলী পরিবর্তন করো (সব ব্যবহারকারীর জন্য প্রযোজ্য)"
+msgstr ""
+"সিস্টেমব্যাপী বৈশিষ্ট্যাবলী পরিবর্তন করা হবে (সব ব্যবহারকারীর জন্য প্রযোজ্য)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr ""
+msgstr "সিস্টেম সেটিং"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
@@ -154,12 +153,11 @@ msgstr "সিস্টেম কনফিগারেশন এবং মনি
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr ""
+msgstr "সার্বজনীন প্রবেশাধিকার"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
-#, fuzzy
 msgid "Universal Access Settings"
-msgstr "অভিগম্যতা বৈশিষ্ট্যাবলী"
+msgstr "সার্বজনীন প্রবেশাধিকার সেটিং"
 
 # আনুসাঙ্গিক - mak
 #: ../desktop-directories/lxde-utility.directory.in.h:1
