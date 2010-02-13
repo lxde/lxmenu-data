@@ -5,19 +5,21 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.20\n"
+"Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2007-09-02 18:05+0000\n"
-"Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
-"Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
+"POT-Creation-Date: 2010-02-13 05:37+0000\n"
+"PO-Revision-Date: 2010-02-13 19:35-0000\n"
+"Last-Translator: Sergio Marques <smarquespt@gmail.com>\n"
+"Language-Team: Portuguese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
-msgstr "Menu de multimédia"
+msgstr "Menu multimédia"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
@@ -29,7 +31,7 @@ msgstr "Desenvolvimento"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Ferramentas para o desenvolvimento de aplicações"
+msgstr "Ferramentas para desenvolvimento de aplicações"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -41,7 +43,7 @@ msgstr "Jogos"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
 msgid "Games and amusements"
-msgstr "Jogos e passatempos"
+msgstr "Jogos e diversões"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:1
 msgid "Graphics"
@@ -73,8 +75,7 @@ msgstr "Aparência e Comportamento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
-"Definições que controlam a aparência e comportamento do ambiente de trabalho"
+msgstr "Definições que controlam a aparência e comportamento do ambiente de trabalho"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -95,7 +96,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Aplicações para o acesso à Internet tais como web e email"
+msgstr "Programas para o acesso à Internet tais como web e email"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -167,62 +168,44 @@ msgstr "Acessórios de área de trabalho"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Preferências relacionadas com o acesso universal"
-
 #~ msgid "Personal preferences and settings"
 #~ msgstr "Preferências e definições pessoais"
-
 #~ msgid "Menu Editor"
 #~ msgstr "Editor de Menus"
-
 #~ msgid "Edit Menus"
 #~ msgstr "Editar os Menus"
-
 #~ msgid "_Applications:"
 #~ msgstr "_Aplicações:"
-
 #~ msgid "_Defaults"
 #~ msgstr "_Omissões"
-
 #~ msgid "_Menus:"
 #~ msgstr "_Menus:"
-
 #~ msgid "Name"
 #~ msgstr "Nome"
-
 #~ msgid "Show"
 #~ msgstr "Apresentar"
-
 #~ msgid ""
 #~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
 #~ "in environment"
 #~ msgstr ""
 #~ "Incapaz de encontrar o directório pessoal: não se encontra definido em /"
 #~ "etc/passwd e a variável de ambiente $HOME não possui nenhum valor"
-
 #~ msgid "Menu file"
 #~ msgstr "Ficheiro de menu"
-
 #~ msgid "MENU_FILE"
 #~ msgstr "FICHEIRO_MENU"
-
 #~ msgid "Monitor for menu changes"
 #~ msgstr "Monitor de alterações ao menu"
-
 #~ msgid "Include <Exclude>d entries"
 #~ msgstr "Incluir entradas <Exclude> (excluídas)"
-
 #~ msgid "Include NoDisplay=true entries"
 #~ msgstr "Incluir entradas NoDisplay=true"
-
 #~ msgid "Invalid desktop file ID"
 #~ msgstr "ID de ficheiro de área de trabalho inválido"
-
 #~ msgid "[Invalid Filename]"
 #~ msgstr "[Nome de ficheiro inválido]"
-
 #~ msgid " <excluded>"
 #~ msgstr " <excluded> (excluído)"
-
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -237,20 +220,16 @@ msgstr "Acessórios de área de trabalho"
 #~ "==== Menu alterado, a reler ====\n"
 #~ "\n"
 #~ "\n"
-
 #~ msgid "Menu tree is empty"
 #~ msgstr "Árvore de menu está vazia"
-
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
 #~ msgstr ""
 #~ "- testar a implementação GNOME da Especificação de Menu de Área de "
 #~ "Trabalho"
-
 #~ msgid "Accessibility"
 #~ msgstr "Acessibilidade"
-
 #~ msgid "Accessibility Settings"
 #~ msgstr "Definições de Acessibilidade"
-
 #~ msgid "Desktop"
 #~ msgstr "Área de Trabalho"
+
