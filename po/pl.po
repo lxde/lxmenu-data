@@ -130,7 +130,7 @@ msgstr "Ustawienia osobiste"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
-msgstr "Ustawienia osobiste"
+msgstr "Preferencje osobiste"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
