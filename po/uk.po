@@ -2,12 +2,12 @@
 # Copyright (C) Free Software Foundation Inc., 2005
 # This file is distributed under the same license as the gnome-menus package.
 # Maxim Dziumanenko <dziumanenko@gmail.com>, 2005-2007.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-15 19:33+0200\n"
+"POT-Creation-Date: 2010-05-31 08:51+0000\n"
 "PO-Revision-Date: 2007-09-11 16:17+0200\n"
 "Last-Translator: Maxim Dziumanenko <dziumanenko@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
-msgstr "Мультимедіа"
+msgstr "Меню мультимедіа"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
@@ -57,7 +57,7 @@ msgstr "Обладнання"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Параметри деяких апаратних пристроїв"
+msgstr "Налаштування для декількох апаратних пристроїв"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -65,7 +65,7 @@ msgstr "Інтернет та мережа"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr "Параметри, що відносяться до налаштовування мережі"
+msgstr "Мережні налаштування"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
@@ -73,8 +73,7 @@ msgstr "Оформлення"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
-"Параметри, що впливають на зовнішній вигляд та поведінку робочого столу"
+msgstr "Налаштування зовнішнього вигляду та поведінки робочого столу"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -82,12 +81,12 @@ msgstr "Програми"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Особисті параметри та адміністративні параметри"
+msgstr "Особисті налаштування та адміністративні налаштування"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
-msgstr "Системна"
+msgstr "Система"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -107,7 +106,7 @@ msgstr "Офісні програми"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Програми, що не належать до жодної категорії"
+msgstr "Програми, що не входять до жодної категорії"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -119,7 +118,7 @@ msgstr "Особисті"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
-msgstr "Персональні параметри"
+msgstr "Особисті налаштування"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
@@ -127,7 +126,7 @@ msgstr "Особисті уподобання"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "Параметри"
+msgstr "Налаштування"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
@@ -139,7 +138,7 @@ msgstr "Зміна системних параметрів (впливає на 
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr "Системні параметри"
+msgstr "Системні налаштування"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
@@ -155,7 +154,7 @@ msgstr "Універсальний доступ"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Параметри універсального доступу"
+msgstr "Налаштування універсального доступу"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
@@ -192,12 +191,8 @@ msgstr "Стандартні програми"
 #~ msgid "Show"
 #~ msgstr "Показувати"
 
-#~ msgid ""
-#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
-#~ "in environment"
-#~ msgstr ""
-#~ "Не вдається знайти домашній каталог: не встановлено у /etc/passwd та не "
-#~ "визначено у змінній оточення $HOME"
+#~ msgid "Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment"
+#~ msgstr "Не вдається знайти домашній каталог: не встановлено у /etc/passwd та не визначено у змінній оточення $HOME"
 
 #~ msgid "Menu file"
 #~ msgstr "Файл меню"
