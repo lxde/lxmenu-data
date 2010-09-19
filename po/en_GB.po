@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-03-28 05:17+0000\n"
+"POT-Creation-Date: 2010-06-01 09:02+0000\n"
 "PO-Revision-Date: 2007-05-15 22:40-0000\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
 "Language-Team: English (British) <en@li.org>\n"
@@ -94,7 +94,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Programs for Internet access such as web and email"
+msgstr "Programs for Internet access such as web and e-mail"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -106,7 +106,7 @@ msgstr "Office Applications"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Applications that did not fit in other categories"
+msgstr "Applications that do not fit in other categories"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
