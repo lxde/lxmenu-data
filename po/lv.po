@@ -1,22 +1,21 @@
 # translation of lv.po to Latvian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
-#
+# 
 # Raivis Dejus <orvils@gmail.com>, 2006, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: lv\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-15 19:33+0200\n"
+"POT-Creation-Date: 2010-06-01 09:02+0000\n"
 "PO-Revision-Date: 2007-04-08 10:29+0300\n"
 "Last-Translator: Raivis Dejus <orvils@gmail.com>\n"
 "Language-Team: Latvian <locale@laka.lv>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -136,9 +135,8 @@ msgid "Administration"
 msgstr "Administrēšana"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
 msgid "Change system-wide settings (affects all users)"
-msgstr "Mainīt visas sistēmas uzstādījumus (ietekmē visus lietotājus)"
+msgstr "Mainīt sistēmas iestatījumus (ietekmē visus lietotājus)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -153,13 +151,14 @@ msgid "System configuration and monitoring"
 msgstr "Sistēmas konfigurācija un pārraudzība"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
+#, fuzzy
 msgid "Universal Access"
-msgstr ""
+msgstr "Universālā piekļuve"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 #, fuzzy
 msgid "Universal Access Settings"
-msgstr "Personīgie uzstādījumi"
+msgstr "Universālās piekļuves iestatījumi"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
@@ -205,12 +204,8 @@ msgstr "Darbvirsmas piederumi"
 #~ msgid "Show"
 #~ msgstr "Parādīt"
 
-#~ msgid ""
-#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
-#~ "in environment"
-#~ msgstr ""
-#~ "Nevaru atrast mājas direktoriju: tāda nav norādīta /etc/passwd un nav arī "
-#~ "$HOME vides mainīgā"
+#~ msgid "Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment"
+#~ msgstr "Nevaru atrast mājas direktoriju: tāda nav norādīta /etc/passwd un nav arī $HOME vides mainīgā"
 
 #~ msgid "Menu file"
 #~ msgstr "Izvēlnes fails"
@@ -255,5 +250,4 @@ msgstr "Darbvirsmas piederumi"
 #~ msgstr "Izvēlne koks ir tukšs"
 
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
-#~ msgstr ""
-#~ "- pārbaudiet GNOME darbavirsmas izvēlņu specifikācijas implementāciju"
+#~ msgstr "- pārbaudiet GNOME darbavirsmas izvēlņu specifikācijas implementāciju"
