@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2010-11-29 17:38+0200\n"
+"PO-Revision-Date: 2010-12-06 11:24+0200\n"
 "Last-Translator: danishka <danishka@gmail.com>\n"
 "Language-Team: Sinhala <en@li.org>\n"
 "Language: si\n"
@@ -76,7 +76,7 @@ msgstr "පෙනුම සහ දැනිම"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "මුලිකතිතයෙ පෙනුම සහ ක්‍රියාකාරිත්වය පාලනය කරන්නාවු සැකසුම්්"
+msgstr "මුලිකතිතයෙ පෙනුම සහ ක්‍රියාකාරිත්වය පාලනය කරන්නාවු සැකසුම්"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
