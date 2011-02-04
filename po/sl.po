@@ -3,25 +3,26 @@ msgstr ""
 "Project-Id-Version: LXMenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2009-12-10 12:13+0100\n"
-"Last-Translator: Matej <paxmanpwnz@gmail.com>\n"
+"PO-Revision-Date: 2011-02-04 22:14+0200\n"
+"Last-Translator: Klemen <klemen913@gmail.com>\n"
 "Language-Team: Slovenian <paxmanpwnz@gmail.com>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 1.1.0\n"
+"X-Generator: Pootle 2.0.5\n"
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-Country: SLOVENIA\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
-msgstr "Večpredstavnostni meni"
+msgstr "Predstavnostni meni"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
-msgstr "Zvok & slika"
+msgstr "Zvok in video"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -29,7 +30,7 @@ msgstr "Programiranje"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Orodja za razvijanje programov"
+msgstr "Orodja za razvijanje programske opreme"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -57,7 +58,7 @@ msgstr "Strojna oprema"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Nastavitve "
+msgstr "Nastavitve za več strojnih naprav"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -69,7 +70,7 @@ msgstr "Nastavitve omrežja"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Videz"
+msgstr "Videz in občutek"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
@@ -81,7 +82,7 @@ msgstr "Programi"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Osebne in skrbniške nastavitve"
+msgstr "Osebne možnosti in skrbniške nastavitve"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -94,7 +95,9 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Programi za internetni dostop ( splet, elektronska pošta )"
+msgstr ""
+"Programi za dostop do internetnih storitev, kot sta splet in elektronska "
+"pošta"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -106,7 +109,7 @@ msgstr "Pisarniški programi"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Programi izven drugih kategorij"
+msgstr "Programi, ki ne sodijo v druge kategorije"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -122,19 +125,19 @@ msgstr "Osebne nastavitve"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
-msgstr "Osebne nastavitve"
+msgstr "Osebne možnosti"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "Nastavitve"
+msgstr "Možnosti"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
-msgstr "Administracija"
+msgstr "Skrbništvo"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Spremeni sistemske spremembe ( vpliva na vse uporabnike)"
+msgstr "Spremeni sistemske nastavitve (vpliva na vse uporabnike)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -146,15 +149,15 @@ msgstr "Sistemska orodja"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Nastavljanje in nadziranje sistema"
+msgstr "Nastavitev in nadzor nad sistemom"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr "Univerzalen dostop"
+msgstr "Splošni dostop"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Nastavitve univerzalnega dostopa"
+msgstr "Nastavitve splošnega dostopa"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
