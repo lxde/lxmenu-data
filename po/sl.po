@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: LXMenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2011-02-04 23:27+0200\n"
+"PO-Revision-Date: 2011-02-12 12:13+0200\n"
 "Last-Translator: Klemen <klemen913@gmail.com>\n"
 "Language-Team: Slovenian <paxmanpwnz@gmail.com>\n"
 "Language: sl\n"
@@ -82,7 +82,7 @@ msgstr "Programi"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Osebne možnosti in skrbniške nastavitve"
+msgstr "Osebne in skrbniške nastavitve"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -137,7 +137,7 @@ msgstr "Skrbništvo"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Spremeni sistemske nastavitve (vpliva na vse uporabnike)"
+msgstr "Spremenite sistemske nastavitve (vpliva na vse uporabnike)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -149,7 +149,7 @@ msgstr "Sistemska orodja"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Nastavitev in nadzor nad sistemom"
+msgstr "Nastavitve in nadzor nad sistemom"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
