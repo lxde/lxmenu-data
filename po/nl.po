@@ -11,18 +11,20 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2009-05-04 14:28+0200\n"
-"Last-Translator: Sander De Voogdt <celettu@gmail.com>\n"
+"PO-Revision-Date: 2011-05-18 21:14+0200\n"
+"Last-Translator: Pjotr <pliniusminor@gmail.com>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 1.1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
 
 # menu weglaten
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
-msgstr "Multimedia"
+msgstr "Multimediamenu"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
@@ -30,16 +32,16 @@ msgstr "Geluid & Video"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
-msgstr "Ontwikkeling"
+msgstr "Programmeren"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Gereedschap voor software-ontwikkeling"
+msgstr "Gereedschap voor programma-ontwikkeling"
 
 # leermiddelen
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
-msgstr "Educatie"
+msgstr "Onderwijs"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
 msgid "Games"
@@ -47,7 +49,7 @@ msgstr "Spelletjes"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
 msgid "Games and amusements"
-msgstr "Spelletjes en amusement"
+msgstr "Spelletjes en vermaak"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:1
 msgid "Graphics"
@@ -59,11 +61,11 @@ msgstr "Grafische toepassingen"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
-msgstr "Hardware"
+msgstr "Apparatuur"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Hardware-instellingen"
+msgstr "Instellingen voor verschillende apparaten"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -75,7 +77,7 @@ msgstr "Netwerkgerelateerde instellingen"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Uiterlijk en gedrag"
+msgstr "Uiterlijk en bediening"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
@@ -87,7 +89,7 @@ msgstr "Toepassingen"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Persoonlijke voorkeuren en instellingen"
+msgstr "Persoonlijke voorkeuren en beheerdersinstellingen"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -100,7 +102,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Toepassingen voor internettoegang zoals web en e-mail"
+msgstr "Programma's voor internettoegang zoals web en e-mail"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -112,8 +114,7 @@ msgstr "Kantoortoepassingen"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr ""
-"Toepassingen die niet in een andere categorie ondergebracht kunnen worden"
+msgstr "Toepassingen die niet vallen onder een andere categorie"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -141,7 +142,8 @@ msgstr "Beheer"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Systeembrede instellingen (op alle gebruikers van toepassing)"
+msgstr ""
+"Systeembrede instellingen veranderen (op alle gebruikers van toepassing)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
