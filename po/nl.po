@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2011-05-19 12:49+0200\n"
+"PO-Revision-Date: 2011-05-28 17:21+0200\n"
 "Last-Translator: Pjotr <pliniusminor@gmail.com>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
 "Language: nl\n"
@@ -88,7 +88,7 @@ msgstr "Toepassingen"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Persoonlijke voorkeuren en beheersinstellingen"
+msgstr "Persoonlijke voorkeuren en beheerinstellingen"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -113,7 +113,7 @@ msgstr "Kantoortoepassingen"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Toepassingen die niet vallen onder een andere categorie"
+msgstr "Toepassingen die niet passen in andere categorieën"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
