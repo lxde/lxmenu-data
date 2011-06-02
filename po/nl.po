@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2011-05-28 17:21+0200\n"
-"Last-Translator: Pjotr <pliniusminor@gmail.com>\n"
+"PO-Revision-Date: 2011-06-02 23:39+0200\n"
+"Last-Translator: Pjotr <>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -155,7 +155,7 @@ msgstr "Systeemgereedschap"
 # was eerst monitoring, vervangen door controle
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Systeemconfiguratie en -controle"
+msgstr "Systeemconfiguratie en -bewaking"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
