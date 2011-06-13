@@ -1,25 +1,25 @@
-# Dutch translation of gnome-menus
-#
-# This file is distributed under the same license as the gnome-menus package.
-#
-# Daniel van Eeden <daniel_e@dds.nl>, 2004
-# Tino Meinen <a.t.meinen@chello.nl>, 2005
-# Wouter Bolsterlee <wbolster@gnome.org>, 2007
-#
+# Dutch translation of the lxmenu-data package.
+# Copyright (C) the author of the lxmenu-data package.
+# This file is distributed under the same license as the 
+# lxmenu-data package.
+# Daniel van Eeden, 2004
+# Tino Meinen, 2005
+# Wouter Bolsterlee, 2007
+# Pjotr, 2011.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-menus\n"
+"Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2011-06-02 23:39+0200\n"
-"Last-Translator: Pjotr <>\n"
-"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
-"Language: nl\n"
+"POT-Creation-Date: 2011-05-27 04:04+0000\n"
+"PO-Revision-Date: 2011-06-13 11:34+0200\n"
+"Last-Translator: Pjotr\n"
+"Language-Team: Dutch\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.0.5\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -155,7 +155,7 @@ msgstr "Systeemgereedschap"
 # was eerst monitoring, vervangen door controle
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Systeemconfiguratie en -bewaking"
+msgstr "Systeemconfiguratie en -controle"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
@@ -174,13 +174,13 @@ msgid "Desktop accessories"
 msgstr "Bureaubladhulpmiddelen"
 
 #~ msgid "Universal access related preferences"
-#~ msgstr "Toegangelijkheidsgerelateerde voorkeuren"
+#~ msgstr "Voorkeuren inzake toegankelijkheid"
 
 #~ msgid "Personal preferences and settings"
 #~ msgstr "Persoonlijke voorkeuren en instellingen"
 
 #~ msgid "Menu Editor"
-#~ msgstr "Menu-editor"
+#~ msgstr "Menubewerker"
 
 #~ msgid "Edit Menus"
 #~ msgstr "Menu's bewerken"
@@ -215,19 +215,19 @@ msgstr "Bureaubladhulpmiddelen"
 
 # in de gaten houden/controleren op/monitoren voor 
 #~ msgid "Monitor for menu changes"
-#~ msgstr "Monitoren voor menuwijzigingen"
+#~ msgstr "Bewaken op menuwijzigingen"
 
 #~ msgid "Include <Exclude>d entries"
-#~ msgstr "Inclusief <Excluded> items"
+#~ msgstr "Inclusief <Exclude>d elementen"
 
 #~ msgid "Include NoDisplay=true entries"
-#~ msgstr "Inclusief NoDisplay=true items"
+#~ msgstr "Inclusief NoDisplay=true elementen"
 
 #~ msgid "Invalid desktop file ID"
-#~ msgstr "Ongeldig ID voor desktopbestand"
+#~ msgstr "Ongeldig ID voor bureaubladbestand"
 
 #~ msgid "[Invalid Filename]"
-#~ msgstr "[Ongeldige bestandsnaam]"
+#~ msgstr "[Ongeldige bestandnaam]"
 
 #~ msgid " <excluded>"
 #~ msgstr " <excluded>"
@@ -251,13 +251,13 @@ msgstr "Bureaubladhulpmiddelen"
 #~ msgstr "Menustructuur is leeg"
 
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
-#~ msgstr "- de GNOME-implementatie van de Desktop Menu Specification testen"
+#~ msgstr "- GNOME's tenuitvoerlegging van de Specificatie voor Bureaubladmenu uitproberen"
 
 #~ msgid "Accessibility"
 #~ msgstr "Toegankelijkheid"
 
 #~ msgid "Accessibility Settings"
-#~ msgstr "Toegankelijkheidsinstellingen"
+#~ msgstr "Toegankelijkheidinstellingen"
 
 # werkomgeving/bureaublad/desktop/werkblad
 #~ msgid "Desktop"
