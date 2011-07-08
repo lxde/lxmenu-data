@@ -10,14 +10,15 @@ msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2009-05-31 15:08+0200\n"
-"Last-Translator: Hugo Florentino <sysadmin@cips.cu>\n"
+"PO-Revision-Date: 2011-07-08 13:28+0200\n"
+"Last-Translator: Hugo <sysadmin@cips.cu>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 1.1.0\n"
+"X-Generator: Pootle 2.0.5\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -73,7 +74,7 @@ msgstr "Propiedades relacionadas con la red"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Visualización y comportamiento"
+msgstr "Apariencia y comportamiento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
