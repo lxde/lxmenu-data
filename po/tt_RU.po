@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2011-07-10 16:30+0200\n"
-"Last-Translator: Айнур <ainur.shakirov.tt@gmail.com>\n"
+"PO-Revision-Date: 2011-07-14 08:35+0200\n"
+"Last-Translator: Ainur <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tt_RU\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "Тышкы күренеш"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
+msgstr "Эш өстәлнең тыш кыяфәтен һәм гадәтен үзгәртүче көйләүләр"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -97,7 +97,7 @@ msgstr "Интернет"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr ""
+msgstr "Интернет белән эшләүче кушымталар (веб-браузер, почта һәм башкалар)"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -133,36 +133,36 @@ msgstr "Параметрлар"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
-msgstr ""
+msgstr "Идарә итү"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr ""
+msgstr "Системаның көйләүләрен үзгәртү (барлык кулланучыларга тәэсир итүчән)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr ""
+msgstr "Система көйләйләре"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
-msgstr ""
+msgstr "Система кораллары"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr ""
+msgstr "Системаны көйләү һәм мониторинглау"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr ""
+msgstr "Мәхсүс мөмкинлекләр"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr ""
+msgstr "Мәхсүс мөмкинлекләрнең көйләүләре"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
-msgstr ""
+msgstr "Үрнәк кушымталар"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr ""
+msgstr "Эш өстәле өчен үрнәк кушымталар"
