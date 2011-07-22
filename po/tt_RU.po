@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-04-15 19:33+0200\n"
-"PO-Revision-Date: 2011-07-14 08:35+0200\n"
+"PO-Revision-Date: 2011-07-22 09:51+0200\n"
 "Last-Translator: Ainur <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tt_RU\n"
@@ -44,7 +44,7 @@ msgstr "Уеннар"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
 msgid "Games and amusements"
-msgstr "Уен һәм күңел ачу"
+msgstr "Уеннар һәм күңел ачу"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:1
 msgid "Graphics"
@@ -68,11 +68,11 @@ msgstr "Интернет һәм Челтәр"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr "Челтәрнең көйләвенә бәйләнешле параметрлар"
+msgstr "Челтәргә бәйләнешле көйләүләр"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Тышкы күренеш"
+msgstr "Тышкы кыяфәт"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
@@ -129,7 +129,7 @@ msgstr "Персональ параметрлар"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "Параметрлар"
+msgstr "Көйләүләр"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
@@ -149,15 +149,15 @@ msgstr "Система кораллары"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Системаны көйләү һәм мониторинглау"
+msgstr "Системаны көйләү һәм күзәтү"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr "Мәхсүс мөмкинлекләр"
+msgstr "Махсус мөмкинлекләр"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Мәхсүс мөмкинлекләрнең көйләүләре"
+msgstr "Махсус мөмкинлекләрнең көйләүләре"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
