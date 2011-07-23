@@ -2,15 +2,16 @@
 # Copyright (C) 2005 The Gnome Foundation
 # This file is distributed under the same license as the gnome-menus package.
 # David Lodge <dave@cirt.net>, 2005.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-06-01 09:02+0000\n"
+"POT-Creation-Date: 2011-07-23 11:59+0200\n"
 "PO-Revision-Date: 2007-05-15 22:40-0000\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
 "Language-Team: English (British) <en@li.org>\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -191,8 +192,12 @@ msgstr "Desktop accessories"
 #~ msgid "Show"
 #~ msgstr "Show"
 
-#~ msgid "Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment"
-#~ msgstr "Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment"
+#~ msgid ""
+#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
+#~ "in environment"
+#~ msgstr ""
+#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
+#~ "in environment"
 
 #~ msgid "Menu file"
 #~ msgstr "Menu file"

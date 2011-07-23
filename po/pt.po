@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-13 05:37+0000\n"
+"POT-Creation-Date: 2011-07-23 11:59+0200\n"
 "PO-Revision-Date: 2011-05-14 02:13+0200\n"
 "Last-Translator: Sérgio <smarquespt@gmail.com>\n"
 "Language-Team: Portuguese\n"
@@ -79,7 +79,8 @@ msgstr "Aparência e comportamento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Definições que controlam a aparência e comportamento do ambiente de trabalho"
+msgstr ""
+"Definições que controlam a aparência e comportamento do ambiente de trabalho"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"

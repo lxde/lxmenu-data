@@ -6,19 +6,19 @@
 # Tino Meinen, 2005
 # Wouter Bolsterlee, 2007
 # Pjotr, 2011.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-05-27 04:04+0000\n"
+"POT-Creation-Date: 2011-07-23 11:59+0200\n"
 "PO-Revision-Date: 2011-06-13 11:34+0200\n"
 "Last-Translator: Pjotr\n"
 "Language-Team: Dutch\n"
+"Language: nl (Dutch)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl (Dutch)\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
@@ -141,8 +141,7 @@ msgstr "Beheer"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr ""
-"Systeembrede instellingen veranderen (voor alle gebruikers)"
+msgstr "Systeembrede instellingen veranderen (voor alle gebruikers)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -251,7 +250,9 @@ msgstr "Bureaubladhulpmiddelen"
 #~ msgstr "Menustructuur is leeg"
 
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
-#~ msgstr "- GNOME's tenuitvoerlegging van de Specificatie voor Bureaubladmenu uitproberen"
+#~ msgstr ""
+#~ "- GNOME's tenuitvoerlegging van de Specificatie voor Bureaubladmenu "
+#~ "uitproberen"
 
 #~ msgid "Accessibility"
 #~ msgstr "Toegankelijkheid"

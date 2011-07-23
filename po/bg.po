@@ -4,16 +4,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-15 19:33+0200\n"
+"POT-Creation-Date: 2011-07-23 11:59+0200\n"
 "PO-Revision-Date: 2010-03-31 00:22+0200\n"
 "Last-Translator: Радослав Иванов <rec_ku@hotmail.com>\n"
 "Language-Team: MIME-Version: 1.0\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 1.1.0\n"
 "X-Poedit-Language: Bulgarian\n"
 "X-Poedit-Country: BULGARIA\n"
-"MIME-Version: 1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -134,7 +135,9 @@ msgstr "Администрация на системата"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Промяна на глобалните настройки на системата (ще се отрази на всички потребители)"
+msgstr ""
+"Промяна на глобалните настройки на системата (ще се отрази на всички "
+"потребители)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -166,40 +169,56 @@ msgstr "Набор от помощни програми"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Редактор на менюта"
+
 #~ msgid "Edit Menus"
 #~ msgstr "Редакция на менютата"
+
 #~ msgid "_Applications:"
 #~ msgstr "_Програми:"
+
 #~ msgid "_Defaults"
 #~ msgstr "_Стандартни"
+
 #~ msgid "_Menus:"
 #~ msgstr "_Менюта:"
+
 #~ msgid "Name"
 #~ msgstr "Име"
+
 #~ msgid "Show"
 #~ msgstr "Показване"
+
 #~ msgid ""
 #~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
 #~ "in environment"
 #~ msgstr ""
 #~ "Домашната папка не може да бъде намерена: не е зададена в /etc/passwd и "
 #~ "няма стойност за $HOME в средата"
+
 #~ msgid "Menu file"
 #~ msgstr "Файл за меню"
+
 #~ msgid "MENU_FILE"
 #~ msgstr "ФАЙЛ_ЗА_МЕНЮ"
+
 #~ msgid "Monitor for menu changes"
 #~ msgstr "Наблюдение за промени в менюто"
+
 #~ msgid "Include <Exclude>d entries"
 #~ msgstr "Включване на елементите отбелязани за <пропускане>"
+
 #~ msgid "Include NoDisplay=true entries"
 #~ msgstr "Включване на елементите отбелязани за <непоказване>"
+
 #~ msgid "Invalid desktop file ID"
 #~ msgstr "Невалиден идентификатор на файла .desktop"
+
 #~ msgid "[Invalid Filename]"
 #~ msgstr "[невалидно име на файл]"
+
 #~ msgid " <excluded>"
 #~ msgstr " <пропускане>"
+
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -214,10 +233,11 @@ msgstr "Набор от помощни програми"
 #~ "==== Менюто е било променено — презарежда се ====\n"
 #~ "\n"
 #~ "\n"
+
 #~ msgid "Menu tree is empty"
 #~ msgstr "Дървовидната структура на менюто е празна."
+
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
 #~ msgstr ""
 #~ "— тестване на реализацията на спецификацията за менюта към работния плот "
 #~ "на GNOME"
-

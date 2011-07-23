@@ -12,10 +12,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-04-15 19:33+0200\n"
+"POT-Creation-Date: 2011-07-23 11:59+0200\n"
 "PO-Revision-Date: 2011-05-23 16:38-0300\n"
 "Last-Translator: Sérgio Cipolla <secipolla@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -90,7 +91,8 @@ msgstr "Visual e comportamento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Configurações que controlam o visual e o comportamento da área de trabalho"
+msgstr ""
+"Configurações que controlam o visual e o comportamento da área de trabalho"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -153,7 +155,8 @@ msgstr "Administração"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Modifique configurações gerais do sistema (isso afeta todos os usuários)"
+msgstr ""
+"Modifique configurações gerais do sistema (isso afeta todos os usuários)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
