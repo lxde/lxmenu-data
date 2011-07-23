@@ -1,4 +1,4 @@
-AC_INIT([lxmenu-data], [0.1.1],
+AC_INIT([lxmenu-data], [0.1.2],
         [http://lxde.org/])
 AM_INIT_AUTOMAKE
 
