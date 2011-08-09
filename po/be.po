@@ -9,20 +9,20 @@ msgstr ""
 "Project-Id-Version: gnome-menus gnome-2-12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2010-08-25 10:28+0200\n"
-"Last-Translator: Анік <xabzan9tka@gmail.com>\n"
+"PO-Revision-Date: 2011-08-07 16:38+0200\n"
+"Last-Translator: Мікалай <crom-a@tut.by>\n"
 "Language-Team: Belarusian <i18n@mova.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.0.5\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
-msgstr "Мультымэдыя"
+msgstr "Мультымедыя"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
@@ -30,11 +30,11 @@ msgstr "Аўдыё і відэа"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
-msgstr "Праграмаваньне"
+msgstr "Праграмаванне"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Інструмэнты для распрацоўкі праграм"
+msgstr "Інструменты для распрацоўкі праграм"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -54,7 +54,7 @@ msgstr "Графіка"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Графічныя дастасаваньні"
+msgstr "Графічныя праграмы"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
@@ -62,7 +62,7 @@ msgstr "Апаратура"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Настаўленьні для апаратуры"
+msgstr "Настаўленні для апаратуры"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -70,7 +70,7 @@ msgstr "Інтэрнэт і сетка"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr "Настаўленьні сеткі"
+msgstr "Настаўленні сеткі"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
@@ -78,20 +78,20 @@ msgstr "Вонкавы выгляд"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Настаўленьні, якія кантралююць вонавы выгляд і паводзіны асяродзьдзя"
+msgstr "Настаўленні, якія кантралююць вонкавы выгляд і паводзіны асяроддзя"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
-msgstr "Дастасаваньні"
+msgstr "Праграмы"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
-msgstr "Прыватныя перавагі і адміністрацыйныя настаўленьні"
+msgstr "Асабістыя перавагі і адміністрацыйныя настаўленні"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
-msgstr "Сыстэма"
+msgstr "Сістэма"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -107,11 +107,11 @@ msgstr "Офіс"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 msgid "Office Applications"
-msgstr "Офісныя дастасаваньні"
+msgstr "Офісныя праграмы"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Дастасаваньні, якія ня трапілі ў іншыя катэгорыі"
+msgstr "Праграмы, якія не трапілі ў іншыя катэгорыі"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -119,11 +119,11 @@ msgstr "Іншыя"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
-msgstr "Пэрсанальныя"
+msgstr "Персанальныя"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
-msgstr "Пэрсанальныя настаўленьні"
+msgstr "Персанальныя настаўленні"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
@@ -131,43 +131,43 @@ msgstr "Асабістыя перавагі"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "Перавагі"
+msgstr "Настаўленні"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
-msgstr "Адміністраваньне"
+msgstr "Адміністраванне"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Зьмены сыстэмных настаўленьняў (датычацца ўсіх карыстальнікаў)"
+msgstr "Змены сістэмных настаўленняў (датычныя ўсіх карыстальнікаў)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr "Сыстэмныя настаўленьні"
+msgstr "Сістэмныя настаўленні"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
-msgstr "Сыстэмныя інструмэнты"
+msgstr "Сістэмныя інструменты"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Наладка сыстэмы і маніторынг"
+msgstr "Канфігурацыя сістэмы і маніторынг"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr "Унівэрсальны доступ"
+msgstr "Універсальны доступ"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Настаўленьні унівэрсальнага доступу"
+msgstr "Настаўленні універсальнага доступу"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
-msgstr "Інструмэнты"
+msgstr "Інструменты"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr "Настольныя інструмэнты"
+msgstr "Інструменты працоўнага асяроддзя"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Перавагі, якія датычацца унівэрсальнага доступу"
