@@ -1,4 +1,4 @@
-# Dutch translation for the lxmenu-data package.
+# Dutch translation of the lxmenu-data package.
 # Copyright (C) the author of the lxmenu-data package.
 # This file is distributed under the same license as the 
 # lxmenu-data package.
@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2011-06-13 11:34+0200\n"
+"PO-Revision-Date: 2011-09-08 11:34+0200\n"
 "Last-Translator: Pjotr\n"
 "Language-Team: Dutch\n"
 "Language: nl (Dutch)\n"
@@ -27,7 +27,7 @@ msgstr "Multimedia-menu"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
-msgstr "Geluid & Video"
+msgstr "Geluid & video"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -68,7 +68,7 @@ msgstr "Instellingen voor verschillende apparaten"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
-msgstr "Internet en Netwerk"
+msgstr "Internet en netwerk"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
