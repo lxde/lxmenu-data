@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2011-03-24 15:22+0200\n"
-"Last-Translator: Praveen <mail2ipn@gmail.com>\n"
+"PO-Revision-Date: 2011-09-17 11:46+0200\n"
+"Last-Translator: PraveenIlla <mail2ipn@gmail.com>\n"
 "Language-Team: Swecha Telugu Localisation Team <localisation@swecha.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "ప్రోగ్రామింగ్"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "కార్యరూపకాలని తయారు చేయుటకు పనిముట్లు"
+msgstr "సాఫ్ట్‍వేర్ అభివృద్ధిచేయుట కొరకు పనిముట్లు"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -49,11 +49,11 @@ msgstr "ఆటలు మరియు వినోదకాలు"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:1
 msgid "Graphics"
-msgstr "రేఖా చిత్రాలు"
+msgstr "గ్రాఫిక్స్"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "రేఖా చిత్రాల అనువర్తనాలు"
+msgstr "గ్రాఫిక్స్ అనువర్తనాలు"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
@@ -77,7 +77,7 @@ msgstr "రూపు రేఖలు"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "రంగస్థల రూపం మరియు ప్రవర్తనను నియంత్రణ చేయు అమరికలు"
+msgstr "డెస్క్‍టాప్ రూపాన్ని మరియు ప్రవర్తనను నియంత్రణ చేయు అమరికలు"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -98,7 +98,7 @@ msgstr "అంతర్జాలం"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "ఇంటర్నెట్ తో  సాంగత్యం ఏర్పరుచు కార్యక్రమాలు"
+msgstr "అంతర్జాలం వాడుటకు జాలం మరియు ఈమెయిల్ వంటి కార్యక్రమాలు"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -106,11 +106,11 @@ msgstr "కార్యాలయం"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 msgid "Office Applications"
-msgstr "కార్యాలయపు కార్యక్షేత్రాలు"
+msgstr "కార్యాలయ అనువర్తనాలు"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "ఇతర విభాగాలలో  ఇమడని కార్యక్షేత్రాలు"
+msgstr "ఇతర విభాగాలలో ఇమడని అనువర్తనాలు"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -118,7 +118,7 @@ msgstr "ఇతర"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
-msgstr "వ్యక్తిగత"
+msgstr "వ్యక్తిగతం"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
@@ -126,11 +126,11 @@ msgstr "వ్యక్తిగత అమరికలు"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
-msgstr "వ్యక్తిగత అభీష్టాలు"
+msgstr "వ్యక్తిగత ప్రాధాన్యతలు"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "అభీష్టాలు"
+msgstr "ప్రాధాన్యతలు"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
@@ -138,12 +138,11 @@ msgstr "నిర్వహణ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr ""
-"వ్యవస్థకు సంబందించిన అన్ని అమరికలను మార్చు (ఈ మార్పులు అందరు వినియోగ దారులకు వమర్చబడతయి)"
+msgstr "వ్యవస్థ మొత్తం అమరికలను మార్చు (ఈ మార్పులు వాడుకరులందరికీ వర్తిస్తాయి)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr "వ్యవస్థ యొక్క అమరికలు"
+msgstr "వ్యవస్థ అమరికలు"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
@@ -151,15 +150,15 @@ msgstr "వ్యవస్థ పనిముట్లు"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "వ్యవస్థ రూపకరణ మరియు తనిఖీ"
+msgstr "వ్యవస్థ స్వరూపణం మరియు పర్యవేక్షణ"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr "విశ్వాంతర సాంగత్యం"
+msgstr "సార్వత్రిక సౌలభ్యత"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "విశ్వాంతర సాంగత్య అమరికలు "
+msgstr "సార్వత్రిక సౌలభ్యత అమరికలు"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
@@ -167,7 +166,7 @@ msgstr "సహాయకాలు"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr "రంగస్థల సహాయకాలు"
+msgstr "డెస్క్‍టాప్ సహాయకాలు"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "సాంగత్యానికి సంబందించిన అభీష్టాలు "
