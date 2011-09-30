@@ -10,17 +10,19 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2006-09-25 13:30+0200\n"
-"Last-Translator: Guillaume Savaton <llumeao@tuxfamily.org>\n"
+"PO-Revision-Date: 2011-09-30 16:22+0200\n"
+"Last-Translator: Kristjan <kristjan.schmidt@googlemail.com>\n"
 "Language-Team: Esperanto <eo@li.org>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
-msgstr "Spektada menuo"
+msgstr "Plurmedia menuo"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
@@ -56,27 +58,27 @@ msgstr "Grafikaj aplikaĵoj"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
-msgstr ""
+msgstr "Aparataro"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr ""
+msgstr "Agordoj por la aparataro"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
-msgstr ""
+msgstr "Interreto kaj reto"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr ""
+msgstr "Ret-rilataj agordoj"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr ""
+msgstr "Aspekto"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
+msgstr "Agordoj pri la aspekto kaj la konduto de la labortablo"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -117,10 +119,9 @@ msgstr "Alia"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
-msgstr ""
+msgstr "Persona"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
-#, fuzzy
 msgid "Personal settings"
 msgstr "Personaj agordoj"
 
@@ -137,13 +138,12 @@ msgid "Administration"
 msgstr "Administrado"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
 msgid "Change system-wide settings (affects all users)"
-msgstr "Ŝanĝi mallokajn agordojn (afektas ĉiujn uzulojn)"
+msgstr "Ŝanĝi tut-sistemajn agordojn (afektas al ĉiujn uzantojn)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr ""
+msgstr "Sistemaj agordoj"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
@@ -155,10 +155,9 @@ msgstr "Agordi kaj kontroli sistemon"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr ""
+msgstr "Universala alireblo"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
-#, fuzzy
 msgid "Universal Access Settings"
 msgstr "Agordoj pri alireblo"
 
