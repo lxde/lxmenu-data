@@ -11,14 +11,15 @@ msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2009-10-27 15:17+0100\n"
-"Last-Translator: Indalecio Freiría Santos <ifreiria@gmail.com>\n"
+"PO-Revision-Date: 2011-11-19 17:13+0200\n"
+"Last-Translator: mbouzada <mbouzada@gmail.com>\n"
 "Language-Team: Proxecto Trasno <proxecto@trasno.net>\n"
-"Language: \n"
+"Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -50,11 +51,11 @@ msgstr "Xogos e pasatempos"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:1
 msgid "Graphics"
-msgstr "Gráficas"
+msgstr "Gráficos"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Aplicacións de gráficas"
+msgstr "Aplicativos de gráficos"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
@@ -83,7 +84,7 @@ msgstr ""
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
-msgstr "Aplicacións"
+msgstr "Aplicativos"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
@@ -108,7 +109,7 @@ msgstr "Oficina"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 msgid "Office Applications"
-msgstr "Aplicacións de oficina"
+msgstr "Aplicativos de oficina"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
