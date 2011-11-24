@@ -1,24 +1,25 @@
+# Slovenian translation of lxmenu-data.
+# Copyright (C) 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the lxmenu-data package.
+# Klemen Košir <klemen.kosir@gmx.com>, 2011.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: LXMenu-data\n"
+"Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2011-02-14 15:10+0200\n"
-"Last-Translator: Klemen <klemen.kosir@gmx.com>\n"
-"Language-Team: Slovenian <paxmanpwnz@gmail.com>\n"
+"PO-Revision-Date: 2011-11-19 23:04+0100\n"
+"Last-Translator: Klemen Košir <klemen.kosir@gmx.com>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
-"X-Generator: Pootle 2.0.5\n"
-"X-Poedit-Language: Slovenian\n"
-"X-Poedit-Country: SLOVENIA\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0)\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
-msgstr "Predstavnostni meni"
+msgstr "Predstavni meni"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
@@ -58,7 +59,7 @@ msgstr "Strojna oprema"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Nastavitve za več strojnih naprav"
+msgstr "Nastavitve strojnih naprav"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -95,9 +96,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr ""
-"Programi za dostop do internetnih storitev, kot sta splet in elektronska "
-"pošta"
+msgstr "Programi za dostop do internetnih storitev, kot sta splet in elektronska pošta"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -141,7 +140,7 @@ msgstr "Spremenite sistemske nastavitve (vpliva na vse uporabnike)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr "Sistemske nastavitve"
+msgstr "Nastavitve sistema"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
@@ -166,3 +165,4 @@ msgstr "Pripomočki"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Namizni pripomočki"
+
