@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2011-11-19 17:13+0200\n"
+"PO-Revision-Date: 2011-12-02 14:37+0200\n"
 "Last-Translator: mbouzada <mbouzada@gmail.com>\n"
 "Language-Team: Proxecto Trasno <proxecto@trasno.net>\n"
 "Language: gl\n"
@@ -113,7 +113,7 @@ msgstr "Aplicativos de oficina"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Aplicacións que non se axustan a outras categorías"
+msgstr "Aplicativos que non se axustan a outras categorías"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
