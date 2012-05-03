@@ -1,21 +1,25 @@
-# translation of gnome-menus to Kazakh
-# Copyright (C) 2008 Free Software Foundation, Inc.
-#
+# Kazakh translation for lxmenu-data.
+# Copyright (C) 2012 The LXDE team
+# This file is distributed under the same license as the LXDE package.
 # Moldabekov Margulan <moldabekov@gmail.com>, 2008
 # Erzhan Shaniev <erzhan.jktl@gmail.com>, 2008
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2008-2012.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-menus trunk\n"
+"Project-Id-Version: master\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2008-09-22 10:23+0600\n"
-"Last-Translator: Margulan Moldabekov <frost.uw@gmail.com>\n"
-"Language-Team: Kazakh <gnome-cyr@gnome.org>\n"
+"PO-Revision-Date: 2012-05-01 15:10+0600\n"
+"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
+"Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Kazakh\n"
+"X-Poedit-Country: KAZAKHSTAN\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -27,15 +31,15 @@ msgstr "Аудио және видео"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
-msgstr "Программдау"
+msgstr "Бағдарламалау"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Программа құруға арналған құралдар"
+msgstr "Бағдарламаларды жасауға арналған құралдар"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
-msgstr "Білім программалары"
+msgstr "Білім алу"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
 msgid "Games"
@@ -47,39 +51,39 @@ msgstr "Ойын-сауық"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:1
 msgid "Graphics"
-msgstr "Графика"
+msgstr "Бейнелеу"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Графикалық айқындауыштар"
+msgstr "Графикалық қолданбалары"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
-msgstr "Жабдықтар"
+msgstr "Құрылғылар"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Аппараттық жабдықтардың параметрлері"
+msgstr "Құрылғылар үшін баптаулар"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
-msgstr "Интернет және тор"
+msgstr "Интернет және желі"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr "Торға байланысты параметрлер"
+msgstr "Желіге байланысты баптаулар"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Көркемдеу"
+msgstr "Сыртқы түрі"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Жұмыс үстелін көркейтетін параметрлер"
+msgstr "Жұмыс үстелінің сыртқы түрін мен мінез-құлығын басқаратын баптаулар"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
-msgstr "Айқындауыштар"
+msgstr "Қолданбалар"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 msgid "Personal preferences and administration settings"
@@ -88,7 +92,7 @@ msgstr "Жеке қалаулар және әкімшілік параметрл
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
-msgstr "Система"
+msgstr "Жүйелік"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -96,19 +100,19 @@ msgstr "Интернет"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Интернетті қолдануға арналған программалар (пошта, браузер, т.б.)"
+msgstr "Интернетті қолдануға арналған бағдарламалар, пошта мен браузер сияқты"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
-msgstr "Офис"
+msgstr "Кеңселік"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 msgid "Office Applications"
-msgstr "Офистық айқындауыштар"
+msgstr "Кеңселік қолданбалар"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Applications that did not fit in other categories"
-msgstr "Ешқандай санатқа жатпайтын айқындауыштар"
+msgstr "Басқа санаттарға жатпайтын қолданбалар"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
@@ -120,7 +124,7 @@ msgstr "Жеке"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
-msgstr "Жеке параметрлер"
+msgstr "Жеке баптаулар"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Personal preferences"
@@ -128,7 +132,7 @@ msgstr "Жеке қалаулар"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
-msgstr "Параметрлер"
+msgstr "Қалаулар"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
@@ -136,19 +140,19 @@ msgstr "Әкімшілік"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Системалық орнатуларды өзгерту (баралық қолданушыларға әсер етеді)"
+msgstr "Жүйелік баптауларды өзгерту (барлық пайдаланушыларға әсер етеді)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr "Системалық параметрлер"
+msgstr "Жүйелік баптаулар"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
-msgstr "Системалық"
+msgstr "Жүйелік саймандар"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Системаны бақылау және кұру программалары"
+msgstr "Жүйелік баптаулар мен бақылау"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
@@ -156,15 +160,15 @@ msgstr "Арнайы мүмкіндіктер"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Арнайы мүмкіндіктер параметрлері"
+msgstr "Арнайы мүмкіндіктер баптаулары"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
-msgstr "Стандарттық"
+msgstr "Қалыпты"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr "Стандарттық айқындауыштар"
+msgstr "Қалыпты қолданбалар"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Мәзір дұрыстаушысы"
