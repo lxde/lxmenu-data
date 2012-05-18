@@ -1,16 +1,16 @@
-# gnome-menus' Portuguese translation.
-# Copyright © 2004, 2005, 2006, 2007 gnome-menus
-# This file is distributed under the same license as the gnome-menus package.
+# Portuguese translation of lxmenu-data package.
+# Copyright (C) 2009 THE lxmenu-data'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the lxmenu-data package.
 # Duarte Loreto <happyguy_pt@hotmail.com>, 2004, 2005, 2006, 2007.
-# Sérgio Marques <smarquespt@gmail.com>, 2009-2010.
+# Sérgio Marques <smarquespt@gmail.com>, 2009-2012.
 # Adaptado ao acordo ortográfico de 1990
 msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2011-05-14 02:13+0200\n"
-"Last-Translator: Sérgio <smarquespt@gmail.com>\n"
+"PO-Revision-Date: 2012-05-18 11:47-0000\n"
+"Last-Translator: Sérgio Marques <smarquespt@gmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Menu multimédia"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
-msgstr "Som & vídeo"
+msgstr "Som e vídeo"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -63,7 +63,7 @@ msgstr "Equipamento"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Definições para vários dispositivos de equipamento"
+msgstr "Definições para vários dispositivos"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -79,8 +79,7 @@ msgstr "Aparência e comportamento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
-"Definições que controlam a aparência e comportamento do ambiente de trabalho"
+msgstr "Definições que controlam a aparência e comportamento do ambiente de trabalho"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -101,7 +100,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Programas para acesso à Internet tais como \"web\" e \"e-mail\""
+msgstr "Programas para acesso à Internet"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -141,7 +140,7 @@ msgstr "Administração"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Alterar definições de sistema (afecta todos os utilizadores)"
+msgstr "Alterar definições de sistema (afeta todos os utilizadores)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -170,3 +169,4 @@ msgstr "Acessórios"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Acessórios de área de trabalho"
+
