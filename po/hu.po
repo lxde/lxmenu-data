@@ -10,13 +10,15 @@ msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-07-23 11:59+0200\n"
-"PO-Revision-Date: 2010-01-27 16:56+0100\n"
-"Last-Translator: Laszlo Dvornik <dvornik@gnome.hu>\n"
+"PO-Revision-Date: 2012-08-23 13:02+0200\n"
+"Last-Translator: Bendegúz <gyonkibendeguz@gmail.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia menu"
@@ -28,7 +30,7 @@ msgstr "Hang és videó"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
-msgstr "Fejlesztés"
+msgstr "Programozás"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -97,7 +99,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Programok az internet használatához (pl. web és e-mail)"
+msgstr "Programok az internet használatához (pl.: web és e-mail)"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
