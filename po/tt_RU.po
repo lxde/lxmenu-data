@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2011-08-18 01:42+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: Lokalize 1.2\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Мультимедия менюсы"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "Аудио һәм видео"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Мультимедия менюсы"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -82,13 +82,13 @@ msgid "Applications"
 msgstr "Кушымталар"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Персональ һәм административ көйләйләр"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "Система"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Персональ һәм административ көйләйләр"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -107,12 +107,12 @@ msgid "Office Applications"
 msgstr "Офис кушымталары"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "Калган төркемнәргә кермәгән кушымталар"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "Башкалар"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Калган төркемнәргә кермәгән кушымталар"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -123,12 +123,12 @@ msgid "Personal settings"
 msgstr "Персональ көйләүләр"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Персональ көйләүләр"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Көйләүләр"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Персональ көйләүләр"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
@@ -165,4 +165,3 @@ msgstr "Үрнәк кушымталар"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Эш өстәле өчен үрнәк кушымталар"
-

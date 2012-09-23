@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.12.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2005-10-29 09:18+0600\n"
 "Last-Translator: Timur Jamakeev <ztimur@gmail.com>\n"
 "Language-Team: Kirghiz\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: KBabel 1.9.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Мультимедиа"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "Аудио и видео"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Мультимедиа"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -82,14 +82,14 @@ msgid "Applications"
 msgstr "Иштемелер"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Өздүк жактыруулар жана административдик параметрлер"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 #, fuzzy
 msgid "System"
 msgstr "Системалык аспаптар"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Өздүк жактыруулар жана административдик параметрлер"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -108,12 +108,12 @@ msgid "Office Applications"
 msgstr "Офистик иштемелер"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "Эч бир категорияга туура келбеген иштемелер"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "Башкалар"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Эч бир категорияга туура келбеген иштемелер"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -125,12 +125,12 @@ msgid "Personal settings"
 msgstr "Өздүк ырастоолор жана параметрлер"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Өздүк жактыруулар"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Ырастоолор"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Өздүк жактыруулар"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

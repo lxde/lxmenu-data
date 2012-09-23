@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2009-04-27 17:08+0200\n"
 "Last-Translator: Alessandro Pellizzari <alex@amiran.it>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Generator: Pootle 1.1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Menu multimedia"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "Audio e Video"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Menu multimedia"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -82,13 +82,13 @@ msgid "Applications"
 msgstr "Applicazioni"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Preferenze personali e impostazioni di amministrazione"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "Sistema"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Preferenze personali e impostazioni di amministrazione"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -107,12 +107,12 @@ msgid "Office Applications"
 msgstr "Applicazioni da ufficio"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "Applicazioni che non rientrano in altre categorie"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "Altro"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Applicazioni che non rientrano in altre categorie"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -123,12 +123,12 @@ msgid "Personal settings"
 msgstr "Impostazioni personali"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Preferenze personali"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Preferenze"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Preferenze personali"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

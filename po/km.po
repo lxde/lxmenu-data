@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2010-07-17 10:39+0200\n"
 "Last-Translator:  <atol@sokha.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,12 +19,12 @@ msgstr ""
 "X-Generator: Pootle 2.0.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "ម៉ឺនុយពហុព័ត៌មាន"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "សម្លេង & វីដេអូ"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "ម៉ឺនុយពហុព័ត៌មាន"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -83,13 +83,13 @@ msgid "Applications"
 msgstr "កម្មវិធី"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "ចំណង់ចំណូលចិត្តផ្ទាល់ខ្លួន និង កំណត់ការគ្រប់គ្រង"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "ប្រព័ន្ធ"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "ចំណង់ចំណូលចិត្តផ្ទាល់ខ្លួន និង កំណត់ការគ្រប់គ្រង"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -108,12 +108,12 @@ msgid "Office Applications"
 msgstr "កម្មវិធីការិយាល័យ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "កម្មវិធីដែលមិនសម នឹងប្រភេទដទៃទៀត"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "ផ្សេងៗ"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "កម្មវិធីដែលមិនសម នឹងប្រភេទដទៃទៀត"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -124,12 +124,12 @@ msgid "Personal settings"
 msgstr "ការកំណត់ផ្ទាល់ខ្លួន"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "ចំណង់ចំណូលចិត្តផ្ទាល់ខ្លួន"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "ចំណង់ចំណូលចិត្ត"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "ចំណង់ចំណូលចិត្តផ្ទាល់ខ្លួន"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

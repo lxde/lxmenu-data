@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: as\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2007-09-11 17:03+0530\n"
 "Last-Translator: Amitakhya Phukan <amitakhya@svn.gnome.org>\n"
 "Language-Team: Assamese\n"
@@ -19,12 +19,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1)\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "মাল্টি-মিডিয়া তালিকা"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "শব্দ ও ভিডিও"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "মাল্টি-মিডিয়া তালিকা"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -83,13 +83,13 @@ msgid "Applications"
 msgstr "অনুপ্ৰয়োগ"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "ব্যক্তিগত পছন্দ ও প্ৰশাসনিক বৈশিষ্ট্য"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "ব্যৱস্থাপ্ৰণালী"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "ব্যক্তিগত পছন্দ ও প্ৰশাসনিক বৈশিষ্ট্য"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -108,12 +108,12 @@ msgid "Office Applications"
 msgstr "কাৰ্যালয়ৰ অনুপ্ৰয়োগ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "অন্যান্য শ্ৰেণীত অন্তৰ্গত নকৰা অনুপ্ৰয়োগ"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "অন্যান্য"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "অন্যান্য শ্ৰেণীত অন্তৰ্গত নকৰা অনুপ্ৰয়োগ"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -124,12 +124,12 @@ msgid "Personal settings"
 msgstr "ব্যক্তিগত বৈশিষ্ট্য"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "ব্যক্তিগত পছন্দ"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "পছন্দ"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "ব্যক্তিগত পছন্দ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

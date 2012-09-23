@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2008-03-04 00:31+0200\n"
 "Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
@@ -20,12 +20,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Μενού πολυμέσων"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "Ήχος & βίντεο"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Μενού πολυμέσων"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -84,13 +84,13 @@ msgid "Applications"
 msgstr "Εφαρμογές"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Προσωπικές προτιμήσεις και ρυθμίσεις διαχείρισης"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "Σύστημα"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Προσωπικές προτιμήσεις και ρυθμίσεις διαχείρισης"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -110,12 +110,12 @@ msgid "Office Applications"
 msgstr "Εφαρμογές γραφείου"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "Εφαρμογές που δεν ταιριάζουν στις άλλες κατηγορίες"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "Άλλα"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Εφαρμογές που δεν ταιριάζουν στις άλλες κατηγορίες"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -126,12 +126,12 @@ msgid "Personal settings"
 msgstr "Προσωπικές ρυθμίσεις"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Προσωπικές προτιμήσεις"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Προτιμήσεις"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Προσωπικές προτιμήσεις"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

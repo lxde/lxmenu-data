@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2010-03-31 00:22+0200\n"
 "Last-Translator: Радослав Иванов <rec_ku@hotmail.com>\n"
 "Language-Team: MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "X-Poedit-Country: BULGARIA\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Меню за мултимедия"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "Видео и звук"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Меню за мултимедия"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -81,13 +81,13 @@ msgid "Applications"
 msgstr "Програми"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Лични предпочитания и административни настройки"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "Система"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Лични предпочитания и административни настройки"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -106,12 +106,12 @@ msgid "Office Applications"
 msgstr "Офисни програми"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "Програми, които не принадлежат към друга категория"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "Други"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Програми, които не принадлежат към друга категория"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -122,12 +122,12 @@ msgid "Personal settings"
 msgstr "Лични настройки"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Лични предпочитания"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Настройки"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Лични предпочитания"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

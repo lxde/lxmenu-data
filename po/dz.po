@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.dz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2007-06-27 04:18+0530\n"
 "Last-Translator: Tshewang Norbu <bumthap2006@hotmail.com>\n"
 "Language-Team: DZONGKHA <pgeyleg@dit.gov.bt>\n"
@@ -20,12 +20,12 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "སྣ་མང་བརྡ་ལམ་དཀར་ཆག།"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "སྒྲ་སྐད་དང་གཟུགས་བརྙན།"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "སྣ་མང་བརྡ་ལམ་དཀར་ཆག།"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -84,13 +84,13 @@ msgid "Applications"
 msgstr "གློག་རིམ།"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "རང་དོན་དགའ་གདམ་དང་ བདག་སྐྱོང་གི་གཞི་སྒྲིག་ཚུ།"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "རིམ་ལུགས་"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "རང་དོན་དགའ་གདམ་དང་ བདག་སྐྱོང་གི་གཞི་སྒྲིག་ཚུ།"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -109,12 +109,12 @@ msgid "Office Applications"
 msgstr "ཡིག་ཚང་གི་གློག་རིམ།"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "དབྱེ་ཁག་གཞན་ནང་ ཚུད་སྒྲིག་མེད་པའི་གློག་རིམ།"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "གཞན།"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "དབྱེ་ཁག་གཞན་ནང་ ཚུད་སྒྲིག་མེད་པའི་གློག་རིམ།"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -125,12 +125,12 @@ msgid "Personal settings"
 msgstr "རང་དོན་སྒྲིག་སྟངས་"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "རང་དོན་དགའ་གདམ་ཚུ།"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "དགའ་གདམ་ཚུ།"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "རང་དོན་དགའ་གདམ་ཚུ།"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

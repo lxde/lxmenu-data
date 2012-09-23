@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menu 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2006-03-12 14:40+0100\n"
 "Last-Translator: Jérémy Le Floc'h <jeremy.lefloch@gmail.com>\n"
 "Language-Team: GNOME Breton Team <jeremy.lefloch@gmail.com>\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Liesvedia"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "Son ha video"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Liesvedia"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -82,14 +82,14 @@ msgid "Applications"
 msgstr "Arloadoù"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Pezh a blij deoc'h ar muiañ ha neuziadoù ar mererezh"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 #, fuzzy
 msgid "System"
 msgstr "Binvioù reizhiad"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Pezh a blij deoc'h ar muiañ ha neuziadoù ar mererezh"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -108,12 +108,12 @@ msgid "Office Applications"
 msgstr "Arloadoù bureveg all"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "An arloadoù n'int ket staget ouzh ur rummad bennak all"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "All"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "An arloadoù n'int ket staget ouzh ur rummad bennak all"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -125,12 +125,12 @@ msgid "Personal settings"
 msgstr "Pezh a blij deoc'h ar muiañ ha neuziadoù"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Pezh a blij deoc'h ar muiañ"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Dibaboù gwellañ"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Pezh a blij deoc'h ar muiañ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

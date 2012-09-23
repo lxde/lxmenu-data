@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.or\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2008-05-15 13:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
@@ -21,12 +21,12 @@ msgstr ""
 "\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "ବହୁମାଧ୍ଯମ ତାଲିକା"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "ଧ୍ବନି ଏବଂ ଭିଡିଓ"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "ବହୁମାଧ୍ଯମ ତାଲିକା"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -85,13 +85,13 @@ msgid "Applications"
 msgstr "ପ୍ରୟୋଗ"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "ବ୍ଯକ୍ତିଗତ ପସନ୍ଦ ଏବଂ ପ୍ରଶାସନିକ ବିନ୍ଯାସ"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "ତନ୍ତ୍ର"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "ବ୍ଯକ୍ତିଗତ ପସନ୍ଦ ଏବଂ ପ୍ରଶାସନିକ ବିନ୍ଯାସ"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -110,12 +110,12 @@ msgid "Office Applications"
 msgstr "କାର୍ଯ୍ଯାଳୟ ପ୍ରୟୋଗ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "ପ୍ରୟୋଗ ଯାହାକି ଅନ୍ଯ କୌଣସି ଶ୍ରେଣୀ ସହିତ ଖାପ ଖାଇଲା ନାହିଁ"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "ଅନ୍ଯାନ୍ଯ"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "ପ୍ରୟୋଗ ଯାହାକି ଅନ୍ଯ କୌଣସି ଶ୍ରେଣୀ ସହିତ ଖାପ ଖାଇଲା ନାହିଁ"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -126,12 +126,12 @@ msgid "Personal settings"
 msgstr "ବ୍ଯକ୍ତିଗତ ବିନ୍ଯାସ"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "ବ୍ଯକ୍ତିଗତ ପସନ୍ଦ"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "ପସନ୍ଦ"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "ବ୍ଯକ୍ତିଗତ ପସନ୍ଦ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

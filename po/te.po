@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2011-09-17 11:46+0200\n"
 "Last-Translator: PraveenIlla <mail2ipn@gmail.com>\n"
 "Language-Team: Swecha Telugu Localisation Team <localisation@swecha.org>\n"
@@ -20,12 +20,12 @@ msgstr ""
 "X-Generator: Pootle 2.0.5\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "బహుళమాధ్యమాల జాబితా"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "ధ్వని మరియు దృశ్యం"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "బహుళమాధ్యమాల జాబితా"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -84,13 +84,13 @@ msgid "Applications"
 msgstr "అనువర్తనాలు"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "వ్యక్తిగత ప్రాధాన్యతలు మరియు నిర్వాహణ అమరికలు"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "వ్యవస్థ"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "వ్యక్తిగత ప్రాధాన్యతలు మరియు నిర్వాహణ అమరికలు"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -109,12 +109,12 @@ msgid "Office Applications"
 msgstr "కార్యాలయ అనువర్తనాలు"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "ఇతర విభాగాలలో ఇమడని అనువర్తనాలు"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "ఇతర"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "ఇతర విభాగాలలో ఇమడని అనువర్తనాలు"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -125,12 +125,12 @@ msgid "Personal settings"
 msgstr "వ్యక్తిగత అమరికలు"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "వ్యక్తిగత ప్రాధాన్యతలు"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "ప్రాధాన్యతలు"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "వ్యక్తిగత ప్రాధాన్యతలు"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

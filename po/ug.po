@@ -2,27 +2,28 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome/menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2005-10-11 11:15+0200\n"
 "Last-Translator: Abduxukur Abdurixit <abdurixit@gmail.com>\n"
-"Language-Team: Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>\n"
+"Language-Team: Gnome Uighur Translation Project <gnome-uighur@yahoogroups."
+"com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "كۆپ ۋاسىتە تىزىملىكى"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "ئۈن ۋە سىن"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "كۆپ ۋاسىتە تىزىملىكى"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -81,13 +82,13 @@ msgid "Applications"
 msgstr "پروگراممىلار"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "شەخسىي مايىللىق ۋە باشقۇرۇش تەڭشىكى"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "سىستېما"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "شەخسىي مايىللىق ۋە باشقۇرۇش تەڭشىكى"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -106,12 +107,12 @@ msgid "Office Applications"
 msgstr "ئىشخانا پروگراممىلىرى"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "باشقا تۈرلەرگە تەۋە بولمىغان پروگراممىلار"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "باشقا"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "باشقا تۈرلەرگە تەۋە بولمىغان پروگراممىلار"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -122,12 +123,12 @@ msgid "Personal settings"
 msgstr "شەخسىي تەڭشەكلەر"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "شەخسىي مايىللىق"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "مايىللىق"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "شەخسىي مايىللىق"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

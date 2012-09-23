@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2011-05-23 16:38-0300\n"
 "Last-Translator: Sérgio Cipolla <secipolla@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
@@ -22,16 +22,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Menu multimídia"
-
 # Traduzir "Sound & Video" como "Multimídia" é o resultado de uma padronização
 # do menu Aplicativos do GNOME com os seus equivalentes no KDE e no XFCE.
 #
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
 msgstr "Multimídia"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Menu multimídia"
 
 # Traduzir "Programming" como "Desenvolvimento" é o resultado de uma
 # padronização do menu Aplicativos do GNOME com os seus equivalentes
@@ -99,13 +99,13 @@ msgid "Applications"
 msgstr "Aplicativos"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Preferências pessoais e configurações de administração"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "Sistema"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Preferências pessoais e configurações de administração"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -123,15 +123,15 @@ msgstr "Escritório"
 msgid "Office Applications"
 msgstr "Aplicativos de escritório"
 
-#: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "Aplicativos que não se encaixam em outras categorias"
-
 # Outros aplicativOs
 #
-#: ../desktop-directories/lxde-other.directory.in.h:2
+#: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Other"
 msgstr "Outros"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Aplicativos que não se encaixam em outras categorias"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -142,12 +142,12 @@ msgid "Personal settings"
 msgstr "Configurações pessoais"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Preferências pessoais"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Preferências"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Preferências pessoais"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

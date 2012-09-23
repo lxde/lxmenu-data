@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2007-06-03 06:26+0530\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
 "Language-Team: Punjabi <punjabi-l10n@lists.sf.net>\n"
@@ -21,12 +21,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "ਮਲਟੀਮੀਡਿਆ ਮੇਨੂ"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "ਸਾਊਂਡ ਅਤੇ ਵੀਡਿਓ"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "ਮਲਟੀਮੀਡਿਆ ਮੇਨੂ"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -85,13 +85,13 @@ msgid "Applications"
 msgstr "ਕਾਰਜ"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "ਨਿੱਜੀ ਪਸੰਦ ਅਤੇ ਪਰਸ਼ਾਸਨੀ ਸੈਟਿੰਗ"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "ਸਿਸਟਮ"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "ਨਿੱਜੀ ਪਸੰਦ ਅਤੇ ਪਰਸ਼ਾਸਨੀ ਸੈਟਿੰਗ"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -110,12 +110,12 @@ msgid "Office Applications"
 msgstr "ਦਫ਼ਤਰ ਕਾਰਜ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "ਕਾਰਜ, ਜੋ ਕਿ ਕਿਸੇ ਵਰਗ ਵਿੱਚ ਨਹੀਂ ਆਉਦੇ।"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "ਹੋਰ"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "ਕਾਰਜ, ਜੋ ਕਿ ਕਿਸੇ ਵਰਗ ਵਿੱਚ ਨਹੀਂ ਆਉਦੇ।"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -126,12 +126,12 @@ msgid "Personal settings"
 msgstr "ਨਿੱਜੀ ਸੈਟਿੰਗ"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "ਨਿੱਜੀ ਪਸੰਦ"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "ਮੇਰੀ ਪਸੰਦ"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "ਨਿੱਜੀ ਪਸੰਦ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"

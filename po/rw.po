@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2005-03-28 19:35-0700\n"
 "Last-Translator: Steve Murphy <murf@e-tools.com>\n"
 "Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
@@ -25,13 +25,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
+msgid "Sound & Video"
+msgstr ""
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
 msgid "Multimedia menu"
 msgstr "Ibikubiyemo"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Sound & Video"
-msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -93,14 +93,14 @@ msgid "Applications"
 msgstr "Porogaramu"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-#, fuzzy
-msgid "Personal preferences and administration settings"
-msgstr "Ibyahiswemo Na Amagenamiterere"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr ""
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+#, fuzzy
+msgid "Personal preferences and administration settings"
+msgstr "Ibyahiswemo Na Amagenamiterere"
 
 # officecfg/registry\schema\org\openoffice\Office\Common.xcs:....Save.URL.Internet.text
 #: ../desktop-directories/lxde-network.directory.in.h:1
@@ -121,15 +121,15 @@ msgstr "Ofise"
 msgid "Office Applications"
 msgstr ""
 
+# framework/source\classes\fltdlg.src:STR_FILTER_OTHERS.text
 #: ../desktop-directories/lxde-other.directory.in.h:1
+msgid "Other"
+msgstr "Ikindi"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
 msgid "Applications that did not fit in other categories"
 msgstr "OYA in Ikindi Ibyiciro"
-
-# framework/source\classes\fltdlg.src:STR_FILTER_OTHERS.text
-#: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Other"
-msgstr "Ikindi"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -140,16 +140,16 @@ msgstr ""
 msgid "Personal settings"
 msgstr "Ibyahiswemo Na Amagenamiterere"
 
+# extracted from content/PrefsWindow.xul
+# LOCALIZATION NOTE : FILE UI for the outer parts of the Prefs dialog
 #: ../desktop-directories/lxde-settings.directory.in.h:1
+msgid "Preferences"
+msgstr "Ibyahisemo"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
 msgid "Personal preferences"
 msgstr "Ibyahiswemo Na Amagenamiterere"
-
-# extracted from content/PrefsWindow.xul
-# LOCALIZATION NOTE : FILE UI for the outer parts of the Prefs dialog
-#: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Preferences"
-msgstr "Ibyahisemo"
 
 # 89
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1

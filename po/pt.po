@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-23 11:59+0200\n"
+"POT-Creation-Date: 2012-09-23 15:08+0200\n"
 "PO-Revision-Date: 2012-05-18 11:47-0000\n"
 "Last-Translator: Sérgio Marques <smarquespt@gmail.com>\n"
 "Language-Team: Portuguese\n"
@@ -22,12 +22,12 @@ msgstr ""
 "X-Poedit-Country: PORTUGAL\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia menu"
-msgstr "Menu multimédia"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Sound & Video"
 msgstr "Som e vídeo"
+
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+msgid "Multimedia menu"
+msgstr "Menu multimédia"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -79,20 +79,21 @@ msgstr "Aparência e comportamento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Definições que controlam a aparência e comportamento do ambiente de trabalho"
+msgstr ""
+"Definições que controlam a aparência e comportamento do ambiente de trabalho"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "Aplicações"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
-msgid "Personal preferences and administration settings"
-msgstr "Preferências pessoais e definições de administração"
-
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
 msgstr "Sistema"
+
+#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+msgid "Personal preferences and administration settings"
+msgstr "Preferências pessoais e definições de administração"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -111,12 +112,12 @@ msgid "Office Applications"
 msgstr "Aplicações de produtividade"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
-msgid "Applications that did not fit in other categories"
-msgstr "Aplicações que não se enquadram em nenhuma outra categoria"
-
-#: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Other"
 msgstr "Outras"
+
+#: ../desktop-directories/lxde-other.directory.in.h:2
+msgid "Applications that did not fit in other categories"
+msgstr "Aplicações que não se enquadram em nenhuma outra categoria"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -127,12 +128,12 @@ msgid "Personal settings"
 msgstr "Definições pessoais"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
-msgid "Personal preferences"
-msgstr "Preferências pessoais"
-
-#: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Preferences"
 msgstr "Preferências"
+
+#: ../desktop-directories/lxde-settings.directory.in.h:2
+msgid "Personal preferences"
+msgstr "Preferências pessoais"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
@@ -169,4 +170,3 @@ msgstr "Acessórios"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Acessórios de área de trabalho"
-
