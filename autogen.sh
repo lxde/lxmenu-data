@@ -4,10 +4,9 @@ AC_VERSION=
 AUTOMAKE=${AUTOMAKE:-automake}
 AM_INSTALLED_VERSION=$($AUTOMAKE --version | sed -e '2,$ d' -e 's/.* \([0-9]*\.[0-9]*\).*/\1/')
 
-if [ "$AM_INSTALLED_VERSION" != "1.10" \
-    -a "$AM_INSTALLED_VERSION" != "1.11" ];then
+if [ $AM_INSTALLED_VERSION < 1.10 ];then
 	echo
-	echo "You must have automake > 1.10 or 1.11 installed to compile lxmenu-data."
+	echo "You must have automake > 1.10 installed to compile lxmenu-data."
 	echo "Install the appropriate package for your distribution,"
 	echo "or get the source tarball at http://ftp.gnu.org/gnu/automake/"
 	exit 1
