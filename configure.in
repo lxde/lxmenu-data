@@ -1,6 +1,6 @@
 AC_INIT([lxmenu-data], [0.1.2],
         [http://lxde.org/])
-AM_INIT_AUTOMAKE
+AM_INIT_AUTOMAKE([foreign no-dist-gzip dist-xz])
 
 GETTEXT_PACKAGE=lxmenu-data
 AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE, "$GETTEXT_PACKAGE", [Name of default gettext domain])
