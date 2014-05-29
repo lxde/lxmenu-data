@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:49+0100\n"
-"PO-Revision-Date: 2014-05-29 06:15+0000\n"
+"PO-Revision-Date: 2014-05-29 06:22+0000\n"
 "Last-Translator: Piotr <strebski@o2.pl>\n"
 "Language-Team: Aviary.pl <gnomepl@aviary.pl>\n"
 "Language: pl\n"
@@ -21,7 +21,7 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-POOTLE-MTIME: 1401344116.0\n"
+"X-POOTLE-MTIME: 1401344567.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
@@ -102,7 +102,8 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Programy umożliwiające dostęp do Internetu, jak strony WWW czy e-mail"
+msgstr ""
+"Programy umożliwiające dostęp do Internetu, np. do stron WWW czy e-maila"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -118,7 +119,7 @@ msgstr "Inne"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Applications that did not fit in other categories"
-msgstr "Programy niepasujące do innych kategorii"
+msgstr "Programy, które nie pasują do innych kategorii"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
