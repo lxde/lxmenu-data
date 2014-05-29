@@ -102,8 +102,7 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr ""
-"Programy umożliwiające dostęp do Internetu, np. do stron WWW czy e-maila"
+msgstr "Programy umożliwiające dostęp do Internetu, np. do stron WWW czy e-maila"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
