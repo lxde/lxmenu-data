@@ -11,15 +11,16 @@ msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:49+0100\n"
-"PO-Revision-Date: 2011-12-02 14:37+0200\n"
-"Last-Translator: mbouzada <mbouzada@gmail.com>\n"
+"PO-Revision-Date: 2014-08-11 09:17+0000\n"
+"Last-Translator: Miguel Anxo Bouzada <mbouzada@gmail.com>\n"
 "Language-Team: Proxecto Trasno <proxecto@trasno.net>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.0.5\n"
+"X-Generator: Pootle 2.6.0-rc1\n"
+"X-POOTLE-MTIME: 1407748647.000000\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
@@ -55,7 +56,7 @@ msgstr "Gráficos"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Aplicativos de gráficos"
+msgstr "Aplicacións de gráficos"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
@@ -84,7 +85,7 @@ msgstr ""
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
-msgstr "Aplicativos"
+msgstr "Aplicacións"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -109,7 +110,7 @@ msgstr "Oficina"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 msgid "Office Applications"
-msgstr "Aplicativos de oficina"
+msgstr "Aplicacións de oficina"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Other"
@@ -117,7 +118,7 @@ msgstr "Outros"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 msgid "Applications that did not fit in other categories"
-msgstr "Aplicativos que non se axustan a outras categorías"
+msgstr "Aplicacións que non se axustan a outras categorías"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
