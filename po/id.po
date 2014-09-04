@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:49+0100\n"
-"PO-Revision-Date: 2007-10-19 19:28+0700\n"
-"Last-Translator: Huda Toriq <hudatoriq@gmail.com>\n"
+"PO-Revision-Date: 2014-09-04 14:13+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <sukarelawan@gnome.linux.or.id>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.6.0-rc1\n"
+"X-POOTLE-MTIME: 1409840027.000000\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
@@ -147,7 +149,7 @@ msgstr "Peralatan Sistem"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
-msgstr "Konfigurasi sistem dan pengawasan"
+msgstr "Konfigurasi sistem dan pemantauan"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
