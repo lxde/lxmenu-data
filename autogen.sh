@@ -27,7 +27,7 @@ if [ "x${ACLOCAL_DIR}" != "x" ]; then
   ACLOCAL_ARG=-I ${ACLOCAL_DIR}
 fi
 
-set -x
+set -ex
 
 ${ACLOCAL:-aclocal$AM_VERSION} ${ACLOCAL_ARG}
 AUTOMAKE=$AUTOMAKE intltoolize -c --automake --force
@@ -36,7 +36,7 @@ ${AUTOCONF:-autoconf$AC_VERSION}
 
 rm -rf autom4te.cache
 
-if test "x$NOCONFIGURE" = "x"; then
+if test -n "$DOCONFIGURE"; then
     ./configure $@
 fi
 
