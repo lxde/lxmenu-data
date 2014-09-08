@@ -17,6 +17,7 @@ directory_in_files =				\
 	lxde-office.directory.in		\
 	lxde-other.directory.in			\
 	lxde-personal.directory.in		\
+	lxde-science.directory.in		\
 	lxde-settings.directory.in		\
 	lxde-settings-system.directory.in	\
 	lxde-system.directory.in		\
