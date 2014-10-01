@@ -6,5 +6,6 @@ SUBDIRS = 			\
 	desktop-directories	\
 	$(NULL)
 
-EXTRA_DIST = 			\
+EXTRA_DIST = \
+	autogen.sh \
 	$(NULL)
