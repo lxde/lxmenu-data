@@ -28,6 +28,4 @@ directory_in_files =				\
 
 directory_DATA = $(directory_in_files:.directory.in=.directory)
 
-EXTRA_DIST= $(directory_in_files)
-
-DISTCLEANFILES = $(directory_DATA)
+EXTRA_DIST = $(directory_in_files) $(directory_DATA)
