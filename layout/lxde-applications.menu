@@ -168,11 +168,11 @@
 
         <!-- Leave -->
 	<Menu>
-		<Name>Leave</Name>
+		<Name>X-Leave</Name>
 		<Directory>lxde-leave.directory</Directory>
 		<Include>
 			<And>
-				<Category>Leave</Category>
+				<Category>X-Leave</Category>
 			</And>
 		</Include>
 	</Menu>	 <!-- End Leave -->
@@ -181,7 +181,7 @@
 	<Menu>
 		<Name>Screensaver</Name>
 		<Include>
-			<Category>Screensaver</Category>
+		<Filename>lxqt-lockscreen.desktop</Filename>
 		</Include>
 	</Menu> <!-- End Screensaver -->
 
@@ -191,8 +191,8 @@
 		<Separator/>
 		<Menuname>DesktopSettings</Menuname>
 		<Separator/>
-		<Menuname>Leave</Menuname>
-		<Menuname inline="true">Screensaver</Menuname>
+		<Menuname show_empty="false">X-Leave</Menuname>
+		<Menuname show_empty="false" inline="true">Screensaver</Menuname>
 	</Layout>
 
 </Menu> <!-- End Applications -->
