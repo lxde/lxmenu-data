@@ -166,11 +166,33 @@
 
 	</Menu> <!-- End Settings -->
 
+        <!-- Leave -->
+	<Menu>
+		<Name>Leave</Name>
+		<Directory>lxde-leave.directory</Directory>
+		<Include>
+			<And>
+				<Category>Leave</Category>
+			</And>
+		</Include>
+	</Menu>	 <!-- End Leave -->
+
+	<!-- Screensaver -->
+	<Menu>
+		<Name>Screensaver</Name>
+		<Include>
+			<Category>Screensaver</Category>
+		</Include>
+	</Menu> <!-- End Screensaver -->
+
 	<Layout>
 		<Merge type="files"/>
 		<Merge type="menus"/>
 		<Separator/>
 		<Menuname>DesktopSettings</Menuname>
+		<Separator/>
+		<Menuname>Leave</Menuname>
+		<Menuname inline="true">Screensaver</Menuname>
 	</Layout>
 
 </Menu> <!-- End Applications -->

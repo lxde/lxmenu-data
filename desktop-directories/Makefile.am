@@ -24,6 +24,7 @@ directory_in_files =				\
 	lxde-system-tools.directory.in		\
 	lxde-utility-accessibility.directory.in	\
 	lxde-utility.directory.in		\
+	lxde-leave.directory.in 		\
 	$(NULL)
 
 directory_DATA = $(directory_in_files:.directory.in=.directory)
