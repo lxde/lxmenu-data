@@ -2,24 +2,25 @@
 # Copyright (C) 2005 THE gnome-menus'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-menus package.
 # Francesco Marletta <francesco.marletta @ tiscali.it>, 2005-2008.
+# Vincenzo Reale <smart2128@baslug.org>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:49+0100\n"
-"PO-Revision-Date: 2009-04-27 17:08+0200\n"
-"Last-Translator: Alessandro Pellizzari <alex@amiran.it>\n"
+"PO-Revision-Date: 2015-11-11 09:43+0100\n"
+"Last-Translator: Vincenzo Reale <smart2128@baslug.org>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 1.1.0\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
-msgstr "Audio e Video"
+msgstr "Audio e video"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Multimedia menu"
@@ -63,7 +64,7 @@ msgstr "Impostazioni per parecchi dispositivi hardware"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
-msgstr "Internet e Rete"
+msgstr "Internet e rete"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
@@ -71,7 +72,7 @@ msgstr "Impostazioni relative alla rete"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Aspetto e Stile"
+msgstr "Aspetto e stile"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
@@ -187,12 +188,8 @@ msgstr "Accessori del desktop"
 #~ msgid "Show"
 #~ msgstr "Mostra"
 
-#~ msgid ""
-#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
-#~ "in environment"
-#~ msgstr ""
-#~ "Impossibile trovare la directory home: non è impostata in /etc/passwd e "
-#~ "la variabile d'ambiente $HOME non ha alcun valore"
+#~ msgid "Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment"
+#~ msgstr "Impossibile trovare la directory home: non è impostata in /etc/passwd e la variabile d'ambiente $HOME non ha alcun valore"
 
 #~ msgid "Menu file"
 #~ msgstr "File di menù"
@@ -237,6 +234,4 @@ msgstr "Accessori del desktop"
 #~ msgstr "L'albero dei menù è vuoto"
 
 #~ msgid "- test GNOME's implementation of the Desktop Menu Specification"
-#~ msgstr ""
-#~ "- test dell'implementazione di GNOME della specifica per i menù del "
-#~ "desktop"
+#~ msgstr "- test dell'implementazione di GNOME della specifica per i menù del desktop"
