@@ -1,6 +1,5 @@
 NULL = 
 
-@INTLTOOL_DIRECTORY_RULE@
 directorydir = $(datadir)/desktop-directories
 directory_in_files =				\
 	lxde-audio-video.directory.in		\
@@ -27,5 +26,8 @@ directory_in_files =				\
 	$(NULL)
 
 directory_DATA = $(directory_in_files:.directory.in=.directory)
+@INTLTOOL_DIRECTORY_RULE@
 
 EXTRA_DIST = $(directory_in_files) $(directory_DATA)
+
+DISTCLEANFILES = $(directory_DATA)
