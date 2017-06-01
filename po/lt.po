@@ -14,16 +14,17 @@ msgstr ""
 "Project-Id-Version: lt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:49+0100\n"
-"PO-Revision-Date: 2009-04-06 10:07+0200\n"
-"Last-Translator: Anony mous <zadintuvas@gmail.com>\n"
+"PO-Revision-Date: 2017-05-31 22:17+0000\n"
+"Last-Translator: Moo <hazap@hotmail.com>\n"
 "Language-Team: Lithuanian <gnome-lt@lists.akl.lt>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 1.1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1496269044.246942\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
@@ -31,7 +32,7 @@ msgstr "Garsas ir vaizdas"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 msgid "Multimedia menu"
-msgstr "Daugialypės terpės meniu"
+msgstr "Multimedijos meniu"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Programming"
@@ -59,7 +60,7 @@ msgstr "Grafika"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Grafinės programos"
+msgstr "Grafikos programos"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
@@ -67,7 +68,7 @@ msgstr "Aparatinė įranga"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Kai kurių aparatinių įrenginių nustatymai"
+msgstr "Kai kurių aparatinės įrangos įrenginių nustatymai"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -79,11 +80,11 @@ msgstr "Su tinklu susiję nustatymai"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Išvaizda ir elgsena"
+msgstr "Išvaizda ir turinys"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Darbo aplinkos išvaizdos ir elgsenos nustatymai"
+msgstr "Nustatymai, valdantys darbalaukio išvaizdą ir elgseną"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -96,7 +97,7 @@ msgstr "Sistema"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 msgid "Personal preferences and administration settings"
-msgstr "Asmeniniai ir administravimo nustatymai"
+msgstr "Asmeninės nuostatos ir administravimo nustatymai"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -104,7 +105,7 @@ msgstr "Internetas"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
-msgstr "Programos interneto prieigai (žiniatinklis, el. paštas)"
+msgstr "Programos, skirtos prieigai prie interneto (saityno ir el. pašto)"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
@@ -132,11 +133,11 @@ msgstr "Asmeniniai nustatymai"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
-msgstr "Nustatymai"
+msgstr "Nuostatos"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 msgid "Personal preferences"
-msgstr "Asmeninės parinktys"
+msgstr "Asmeninės nuostatos"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
@@ -144,7 +145,7 @@ msgstr "Administravimas"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Keisti sisteminio masto nustatymus (paveikia visus naudotojus)"
+msgstr "Keisti nustatymus sistemos mastu (paveikia visus naudotojus)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
@@ -160,11 +161,11 @@ msgstr "Sistemos konfigūravimas ir stebėjimas"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
-msgstr "Universali prieiga"
+msgstr "Universalioji prieiga"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Universalios prieigos nustatymai"
+msgstr "Universaliosios prieigos nustatymai"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
@@ -172,7 +173,7 @@ msgstr "Reikmenys"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr "Darbo aplinkos reikmenys"
+msgstr "Darbalaukio reikmenys"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Su universalia prieiga susiję nustatymai"
