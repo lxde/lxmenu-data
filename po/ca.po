@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:49+0100\n"
-"PO-Revision-Date: 2017-06-09 11:35+0000\n"
+"PO-Revision-Date: 2017-09-14 15:03+0000\n"
 "Last-Translator: Davidmp <rbndavid@gmail.com>\n"
 "Language-Team: LXDE Catalan translators group\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1497008101.745980\n"
+"X-POOTLE-MTIME: 1505401388.533807\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
@@ -33,7 +33,7 @@ msgstr "Programació"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Eines per a desenvolupament de programari"
+msgstr "Eines per al desenvolupament de programari"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
@@ -99,7 +99,7 @@ msgstr "Internet"
 #: ../desktop-directories/lxde-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
 msgstr ""
-"Programes per accedir a internet com el navegador web i el client de correu"
+"Programes per accedir a Internet com el navegador web i el client de correu"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
