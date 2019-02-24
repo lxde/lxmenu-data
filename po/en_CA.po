@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-13 23:49+0100\n"
-"PO-Revision-Date: 2017-06-09 11:35+0000\n"
+"PO-Revision-Date: 2018-10-01 14:38+0000\n"
 "Last-Translator: Davidmp <rbndavid@gmail.com>\n"
 "Language-Team: Canadian English <adamw@gnome.org>\n"
 "Language: ca\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1497008140.622563\n"
+"X-POOTLE-MTIME: 1538404681.852341\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Sound & Video"
@@ -62,7 +62,7 @@ msgstr "Maquinari"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Paràmetres per a diferents dispositius de maquinari"
+msgstr "Configuració de diversos dispositius de maquinari"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -70,7 +70,7 @@ msgstr "Internet i xarxa"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr "Paràmetres de xarxa"
+msgstr "Configuració de la xarxa"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
@@ -91,7 +91,7 @@ msgstr "Eines del sistema"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:2
 msgid "Personal preferences and administration settings"
-msgstr "Preferències personals i paràmetres d'administració"
+msgstr "Preferències personals i configuració d'administració"
 
 #: ../desktop-directories/lxde-network.directory.in.h:1
 msgid "Internet"
@@ -123,7 +123,7 @@ msgstr "Personal"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
-msgstr "Paràmetres personals"
+msgstr "Configuració personal"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
@@ -139,11 +139,11 @@ msgstr "Administration"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
-msgstr "Canvia els paràmetres de tot el sistema (afecta tots els usuaris)"
+msgstr "Canvia la configuració de tot el sistema (afecta tots els usuaris)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 msgid "System settings"
-msgstr "Paràmetres del sistema"
+msgstr "Configuració del sistema"
 
 #: ../desktop-directories/lxde-system-tools.directory.in.h:1
 msgid "System Tools"
@@ -159,7 +159,7 @@ msgstr "Accés universal"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
-msgstr "Paràmetres d'accés universal"
+msgstr "Configuració de l'accés universal"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:1
 msgid "Accessories"
