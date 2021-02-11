@@ -8,11 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.or\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2008-05-15 13:24+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya\n"
-"Language: \n"
+"Language: or\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -124,6 +124,10 @@ msgstr "ବ୍ୟକ୍ତିଗତ"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "ବ୍ଯକ୍ତିଗତ ବିନ୍ଯାସ"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr ""
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

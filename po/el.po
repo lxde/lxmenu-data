@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2008-03-04 00:31+0200\n"
 "Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
@@ -124,6 +124,10 @@ msgstr "Προσωπικά"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Προσωπικές ρυθμίσεις"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Επιστήμη & Μαθηματικά"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2017-05-25 07:13+0000\n"
 "Last-Translator: Piotr Strębski <strebski@o2.pl>\n"
 "Language-Team: Aviary.pl <gnomepl@aviary.pl>\n"
@@ -127,6 +127,10 @@ msgstr "Osobiste"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Ustawienia osobiste"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Naukowe"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

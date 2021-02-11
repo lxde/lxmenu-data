@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2010-02-01 22:55+0600\n"
 "Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
 "Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
@@ -122,6 +122,10 @@ msgstr "ব্যক্তিগত"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "ব্যক্তিগত সেটিং"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "বিজ্ঞান এবং গণিত"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

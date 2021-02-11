@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.24\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2015-11-11 09:43+0100\n"
 "Last-Translator: Vincenzo Reale <smart2128@baslug.org>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
@@ -122,6 +122,10 @@ msgstr "Personale"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Impostazioni personali"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Scienza e matematica"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

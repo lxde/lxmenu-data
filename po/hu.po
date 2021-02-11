@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2012-08-23 13:02+0200\n"
 "Last-Translator: Bendegúz <gyonkibendeguz@gmail.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
@@ -124,6 +124,10 @@ msgstr "Személyes"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Személyes beállítások"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Tudományok, matematika"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

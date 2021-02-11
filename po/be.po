@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus gnome-2-12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2011-08-07 16:38+0200\n"
 "Last-Translator: Мікалай <crom-a@tut.by>\n"
 "Language-Team: Belarusian <i18n@mova.org>\n"
@@ -124,6 +124,10 @@ msgstr "Персанальныя"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Персанальныя настаўленні"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Навука і матэматыка"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
