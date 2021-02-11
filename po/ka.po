@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2006-03-16 19:00+0100\n"
 "Last-Translator: Vladimer Sichinava <alinux@siena.linux.it>\n"
 "Language-Team: Georgian <http://geoubuntu.cjb.net/>\n"
@@ -125,6 +125,10 @@ msgstr ""
 #, fuzzy
 msgid "Personal settings"
 msgstr "პერსონალური პარამეტრები"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "მეცნიერება და მათემატიკა"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

@@ -5,17 +5,17 @@
 #
 # Maintainer: Данило Шеган <dsegan@gmx.net>
 # Reviewed on 2005-09-03 by: Данило Шеган <danilo@gnome.org>"
-# Transalted on 2006-01-31 by: Слободан Д. Средојевић <slobo@akrep.be> 
+# Transalted on 2006-01-31 by: Слободан Д. Средојевић <slobo@akrep.be>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2007-09-12 01:22+0200\n"
 "Last-Translator: Горан Ракић <grakic@devbase.net>\n"
 "Language-Team: Serbian (sr) <gnome@prevod.org>\n"
-"Language: \n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -124,6 +124,10 @@ msgstr "Лично"
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Лична подешавања"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Наука и математика"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

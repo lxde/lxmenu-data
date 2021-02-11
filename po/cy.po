@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2006-03-02 12:05-0000\n"
 "Last-Translator: Rhys Jones <rhys@sucs.org>\n"
 "Language-Team: Welsh <cy@pengwyn.linux.org.uk>\n"
@@ -122,6 +122,10 @@ msgstr ""
 #, fuzzy
 msgid "Personal settings"
 msgstr "Hoffterau a gosodiadau personol"
+
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Gwyddoniaeth a Mathemateg"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"

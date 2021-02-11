@@ -1,6 +1,6 @@
 # Dutch translation of the lxmenu-data package.
 # Copyright (C) the author of the lxmenu-data package.
-# This file is distributed under the same license as the 
+# This file is distributed under the same license as the
 # lxmenu-data package.
 # Daniel van Eeden, 2004
 # Tino Meinen, 2005
@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-13 23:49+0100\n"
+"POT-Creation-Date: 2021-02-11 10:15+0100\n"
 "PO-Revision-Date: 2014-01-28 14:34+0000\n"
 "Last-Translator: Pjotr <pjotrvertaalt@gmail.com>\n"
 "Language-Team: Dutch\n"
@@ -128,6 +128,10 @@ msgstr "Persoonlijk"
 msgid "Personal settings"
 msgstr "Persoonlijke instellingen"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:1
+msgid "Science & Math"
+msgstr "Wetenschap en wiskunde"
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Voorkeuren"
@@ -213,7 +217,7 @@ msgstr "Bureaubladhulpmiddelen"
 #~ msgid "MENU_FILE"
 #~ msgstr "MENU_BESTAND"
 
-# in de gaten houden/controleren op/monitoren voor 
+# in de gaten houden/controleren op/monitoren voor
 #~ msgid "Monitor for menu changes"
 #~ msgstr "Bewaken op menuwijzigingen"
 
