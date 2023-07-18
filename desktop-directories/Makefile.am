@@ -12,7 +12,7 @@ directory_in_files =				\
 	lxde-office.directory.in                \
 	lxde-other.directory.in                 \
 	lxde-settings.directory.in              \
-	lxde-system-tools.directory.in          \
+	lxde-system.directory.in                \
 	lxde-utility.directory.in               \
 	lxde-utility-accessibility.directory.in \
 	$(NULL)

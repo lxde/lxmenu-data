@@ -124,7 +124,7 @@
 	<!-- System Tools-->
 	<Menu>
 		<Name>System</Name>
-		<Directory>lxde-system-tools.directory</Directory>
+		<Directory>lxde-system.directory</Directory>
 		<Include>
 			<And>
 				<Category>System</Category>

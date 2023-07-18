@@ -18,6 +18,5 @@ desktop-directories/lxde-science-math.directory.in
 desktop-directories/lxde-settings.directory.in
 desktop-directories/lxde-settings-system.directory.in
 desktop-directories/lxde-system.directory.in
-desktop-directories/lxde-system-tools.directory.in
 desktop-directories/lxde-utility-accessibility.directory.in
 desktop-directories/lxde-utility.directory.in
