@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-03-03 09:05+0900\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: GNOME Korea <gnome-kr-hackers@lists.kldp.net>\n"
@@ -19,16 +19,20 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "음악과 비디오"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "멀티미디어 메뉴"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "그래픽 응용프로그램"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "개발"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -36,6 +40,12 @@ msgstr "소프트웨어 개발을 위한 도구"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "교육"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "교육"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -82,6 +92,12 @@ msgstr "바탕환경의 모양새와 행동을 설정합니다"
 msgid "Applications"
 msgstr "프로그램"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "프로그램"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "인터넷"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "웹과 전자메일 같은 인터넷에 접근 가능한 프로그램"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "오피스"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "오피스 응용프로그램"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "기타"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "어떤 범주에도 해당되지 않는 프로그램"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -127,12 +149,28 @@ msgstr "개인 설정"
 msgid "Science & Math"
 msgstr "과학과 수학"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "과학과 수학"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "기본 설정"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "개인 기본 설정"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -140,19 +178,15 @@ msgid "Administration"
 msgstr "관리"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "시스템 전체 설정을 바꿉니다 (모든 사용자에게 영향을 미칩니다)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "시스템 설정"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "시스템 도구"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "시스템 설정과 감시"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -170,6 +204,18 @@ msgstr "보조 프로그램"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "바탕환경의 보조 프로그램"
+
+#~ msgid "Sound & Video"
+#~ msgstr "음악과 비디오"
+
+#~ msgid "Programming"
+#~ msgstr "개발"
+
+#~ msgid "System settings"
+#~ msgstr "시스템 설정"
+
+#~ msgid "System Tools"
+#~ msgstr "시스템 도구"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "보편적 접근성과 관련된 기본 설정"

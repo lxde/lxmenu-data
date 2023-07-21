@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menu 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2006-03-12 14:40+0100\n"
 "Last-Translator: Jérémy Le Floc'h <jeremy.lefloch@gmail.com>\n"
 "Language-Team: GNOME Breton Team <jeremy.lefloch@gmail.com>\n"
@@ -18,16 +18,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Son ha video"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Liesvedia"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Poelladoù grafikoù"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Gouleviñ"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -35,6 +39,12 @@ msgstr "Ar binvioù da ziorren ar poelladoù"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Deskadurezh"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Deskadurezh"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -81,6 +91,12 @@ msgstr ""
 msgid "Applications"
 msgstr "Arloadoù"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Arloadoù"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 #, fuzzy
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "Kenrouedad"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Ar poelladoù da dizhout ar Genrouedad evel web ha postelerezh"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "Bureveg"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Arloadoù bureveg all"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "All"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "An arloadoù n'int ket staget ouzh ur rummad bennak all"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -128,12 +150,28 @@ msgstr "Pezh a blij deoc'h ar muiañ ha neuziadoù"
 msgid "Science & Math"
 msgstr "Skiant ha Jedoniel"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Skiant ha Jedoniel"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Dibaboù gwellañ"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Pezh a blij deoc'h ar muiañ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -142,20 +180,14 @@ msgstr "Mererezh"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Kemmañ an arventennoù war ar reizhiad (sell diouzh an holl implijerien)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Binvioù reizhiad"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Neuziadur hag eveshaerezh ar reizhiad"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -174,6 +206,15 @@ msgstr "Mavegoù"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Mavegoù ar burev"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Son ha video"
+
+#~ msgid "Programming"
+#~ msgstr "Gouleviñ"
+
+#~ msgid "System Tools"
+#~ msgstr "Binvioù reizhiad"
 
 #~ msgid "Accessibility"
 #~ msgstr "Haezadusted"

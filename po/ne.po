@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.ne\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2007-10-16 14:50+0545\n"
 "Last-Translator: Nabin Gautam <nabin@mpp.org.np>\n"
 "Language-Team: Nepali <info@mpp.org.np>\n"
@@ -25,16 +25,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n !=1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "ध्वनि र भिडियो"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "मल्टिमिडिया मेनु"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "ग्राफिक्स अनुप्रयोग"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "प्रोग्रामिङ"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -42,6 +46,12 @@ msgstr "सफ्टवेर विकासका लागि उपकरण
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "शिक्षा"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "शिक्षा"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -88,6 +98,12 @@ msgstr "डेस्कटप देखावट र व्यवहार न�
 msgid "Applications"
 msgstr "अनुप्रयोग"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "अनुप्रयोग"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -102,7 +118,9 @@ msgid "Internet"
 msgstr "इन्टरनेट"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "वेब र इमेल जस्तो इन्टरनेट पहुँचका लागि कार्यक्रम"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -110,7 +128,9 @@ msgid "Office"
 msgstr "कार्यालय"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "कार्यालय अनुप्रयोग"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -118,7 +138,9 @@ msgid "Other"
 msgstr "अन्य"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "अन्य कोटिमा नमिलेका अनुप्रयोग"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -133,12 +155,28 @@ msgstr "व्यक्तिगत सेटिङ"
 msgid "Science & Math"
 msgstr "विज्ञान र गणीत"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "विज्ञान र गणीत"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "प्राथमिकता"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "व्यक्तिगत प्राथमिकता"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -146,19 +184,15 @@ msgid "Administration"
 msgstr "प्रशासन"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "सम्पूर्ण प्रणालीका सेटिङ परिवर्तन गर्नुहोस् ( सबै प्रयोगकर्तालाई प्रभाव पार्छ)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "प्रणाली सेटिङ"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "प्रणाली उपकरण"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "प्रणाली कन्फिगरेसन र अनुगमन"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -176,6 +210,18 @@ msgstr "सहायक उपकरण"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "डेस्कटप सहायक उपकरण"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ध्वनि र भिडियो"
+
+#~ msgid "Programming"
+#~ msgstr "प्रोग्रामिङ"
+
+#~ msgid "System settings"
+#~ msgstr "प्रणाली सेटिङ"
+
+#~ msgid "System Tools"
+#~ msgstr "प्रणाली उपकरण"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "विश्वब्यापी पहुँच सम्बन्धि प्राथमिकता"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2014-09-04 14:13+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <sukarelawan@gnome.linux.or.id>\n"
@@ -19,16 +19,20 @@ msgstr ""
 "X-POOTLE-MTIME: 1409840027.000000\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Suara & Video"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Menu multimedia"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Aplikasi grafis"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Pemrograman"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -36,6 +40,12 @@ msgstr "Perkakas untuk pengembangan perangkat lunak"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Pendidikan"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Pendidikan"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -82,6 +92,12 @@ msgstr "Penataan mengendalikan tampilan dan perilaku desktop"
 msgid "Applications"
 msgstr "Aplikasi"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Aplikasi"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Program untuk mengakses internet seperti web dan email"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "Perkantoran"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Aplikasi Perkantoran"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "Lainnya"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Aplikasi yang tidak termasuk dalam kategori lain"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -127,12 +149,26 @@ msgstr "Penataan pribadi"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferensi"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Preferensi pribadi"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -140,19 +176,15 @@ msgid "Administration"
 msgstr "Administrasi"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Ubah pengaturan sistem (mempengaruhi seluruh pengguna)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Penataan sistem"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Peralatan Sistem"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Konfigurasi sistem dan pemantauan"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -170,6 +202,18 @@ msgstr "Aksesoris"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Aksesoris desktop"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Suara & Video"
+
+#~ msgid "Programming"
+#~ msgstr "Pemrograman"
+
+#~ msgid "System settings"
+#~ msgstr "Penataan sistem"
+
+#~ msgid "System Tools"
+#~ msgstr "Peralatan Sistem"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Preferensi terkait akses universal"

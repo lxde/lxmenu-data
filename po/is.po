@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-08 16:41+0300\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2021-03-04 09:52+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
@@ -19,16 +19,20 @@ msgstr ""
 "X-Generator: Lokalize 2.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Hljóð og mynd"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Margmiðlun"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Myndefnisforrit"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Forritun"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -36,6 +40,12 @@ msgstr "Þróunarverkfæri"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Menntun"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Menntun"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -82,6 +92,12 @@ msgstr "Stillingar sem stjórna útliti og hegðun skjáborðsins"
 msgid "Applications"
 msgstr "Forrit"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Forrit"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Forrit til að nálgast netið eins og vefinn og tölvupóst"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "Skrifstofa"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Skrifstofuforrit"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "Annað"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Forrit sem passa ekki í aðra flokka"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -127,12 +149,28 @@ msgstr "Einkastillingar"
 msgid "Science & Math"
 msgstr "Vísindi og stærðfræði"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Vísindi og stærðfræði"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Kjörstillingar"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Persónulegir valkostir"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -140,19 +178,15 @@ msgid "Administration"
 msgstr "Stjórnun"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Breyta stillingum fyrir allt kerfið (hefur áhrif á alla notendur)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Kerfisstillingar"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Kerfistól"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Kerfisstillingar og vöktun"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -170,6 +204,18 @@ msgstr "Aukahlutir"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Fylgihlutir skjáborðs"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Hljóð og mynd"
+
+#~ msgid "Programming"
+#~ msgstr "Forritun"
+
+#~ msgid "System settings"
+#~ msgstr "Kerfisstillingar"
+
+#~ msgid "System Tools"
+#~ msgstr "Kerfistól"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Valmyndaritill"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-02-19 16:32+0530\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: maithili <maithili.sf.net>\n"
@@ -19,16 +19,20 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "ध्वनि आ वीडियो"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "मल्टीमीडिया मेनू"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "आलेखी अनुप्रयोगसभ"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "प्रोग्रामिंग"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -36,6 +40,12 @@ msgstr "साफ्टवेयर विकासक लेल अओजार
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "शिक्षा"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "शिक्षा"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -82,6 +92,12 @@ msgstr ""
 msgid "Applications"
 msgstr "अनुप्रयोग"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "अनुप्रयोग"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "इंटरनेट"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "इंटरनेटसँ जुड़बाक लेल वेब आ इमेल जहिना प्रोग्राम"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "कार्यालय"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "कार्यालयक अनुप्रयोग"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "आन"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "अनुप्रयोगसभ जे आन श्रेणीमे सटीक नहि छला"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -127,12 +149,26 @@ msgstr ""
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "वरीयतासभ"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "निज वरीयतासभ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -140,19 +176,13 @@ msgid "Administration"
 msgstr "प्रशासन"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "सिस्टम अओजार"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "सिस्टम बिन्यास आ निरीक्षण"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -170,6 +200,15 @@ msgstr "संलग्नक"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "डेस्कटाप संलग्नकसभ"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ध्वनि आ वीडियो"
+
+#~ msgid "Programming"
+#~ msgstr "प्रोग्रामिंग"
+
+#~ msgid "System Tools"
+#~ msgstr "सिस्टम अओजार"
 
 #~ msgid "Personal preferences and settings"
 #~ msgstr "निजी पसंद आ जमावट"

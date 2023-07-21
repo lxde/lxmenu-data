@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-10-06 09:03+0000\n"
 "Last-Translator: Astur <malditoastur@gmail.com>\n"
 "Language-Team: Asturian <xspuente@gmail.com>\n"
@@ -21,16 +21,20 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Soníu y Vídeu"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Menú multimedia"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Aplicaciones gráfiques"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Programación"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -38,6 +42,12 @@ msgstr "Ferramientes pa desendolcu de programes"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Educación"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Educación"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -84,6 +94,12 @@ msgstr "Propiedaes que remanen l'aldéu y el comportamientu del escritoriu"
 msgid "Applications"
 msgstr "Aplicaciones"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Aplicaciones"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -98,7 +114,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Programes p'accesu a Internet como web y corréu"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -106,7 +124,9 @@ msgid "Office"
 msgstr "Oficina"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Aplicaciones d'Oficina"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -114,7 +134,9 @@ msgid "Other"
 msgstr "Otres"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Aplicaciones que nun encaxen n'otres estayes"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -129,12 +151,26 @@ msgstr "Preferencies personales"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferencies"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Preferencies personales"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -142,20 +178,16 @@ msgid "Administration"
 msgstr "Alministración"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Fai cambeos nes preferencies globales del sistema (afeuta a tolos usuarios)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Preferencies del sistema"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Ferramientes del Sistema"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Configuración y monitorización del sistema"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -173,6 +205,18 @@ msgstr "Accesorios"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Accesorios d'Escritoriu"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Soníu y Vídeu"
+
+#~ msgid "Programming"
+#~ msgstr "Programación"
+
+#~ msgid "System settings"
+#~ msgstr "Preferencies del sistema"
+
+#~ msgid "System Tools"
+#~ msgstr "Ferramientes del Sistema"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Editor del Menú"

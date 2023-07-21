@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ku\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2007-08-13 14:13+0000\n"
 "Last-Translator: Erdal Ronahi <erdal.ronahi@gmail.com>\n"
 "Language-Team: Kurdish <ku@li.org>\n"
@@ -24,16 +24,20 @@ msgstr ""
 "X-Poedit-Language: Kurdish\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Deng & Vîdeo"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Pêşeka multîmedya"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Sepanên grafîkê"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Bernamekirin"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -41,6 +45,12 @@ msgstr "Amûrên ji bo pêşdebirina nivîsbariyê"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Perwerdehî"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Perwerdehî"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -87,6 +97,12 @@ msgstr "Mîhengên xuyabûn û tevgerînên sermasê"
 msgid "Applications"
 msgstr "Sepan"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Sepan"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -101,7 +117,9 @@ msgid "Internet"
 msgstr "Înternet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Bernameyên wekî epeyam û gerokan yên ji bo pêwendiya înternetê"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -109,7 +127,9 @@ msgid "Office"
 msgstr "Nivîsgeh"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Sepandinên Ofîsê"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -117,7 +137,9 @@ msgid "Other"
 msgstr "Yên din"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Sepanên ku nakevin kategoriyên din"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -132,12 +154,28 @@ msgstr "Mîhengên takekesî"
 msgid "Science & Math"
 msgstr "Zanîn & Matematîk"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Zanîn & Matematîk"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Vebijêrk"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Vebijêrkên takekesî"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -145,19 +183,15 @@ msgid "Administration"
 msgstr "Rêveberî"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Eyarên hemû pergalê biguherîne (ji bo hemû bikarhêneran derbas dibe)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Mîhengên pergalê"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Amûrên Pergalê"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Avakirin û şopandina pergalê"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -175,6 +209,18 @@ msgstr "Bernameyên Alîkar"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Bernameyên alîkar ên sermaseyê"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Deng & Vîdeo"
+
+#~ msgid "Programming"
+#~ msgstr "Bernamekirin"
+
+#~ msgid "System settings"
+#~ msgstr "Mîhengên pergalê"
+
+#~ msgid "System Tools"
+#~ msgstr "Amûrên Pergalê"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Vebijêrkên têkildarî gihîştina gerdûnî"

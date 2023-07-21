@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2011-05-23 16:38-0300\n"
 "Last-Translator: Sérgio Cipolla <secipolla@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
@@ -22,24 +22,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-# Traduzir "Sound & Video" como "Multimídia" é o resultado de uma padronização
-# do menu Aplicativos do GNOME com os seus equivalentes no KDE e no XFCE.
-#
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Multimídia"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Menu multimídia"
 
-# Traduzir "Programming" como "Desenvolvimento" é o resultado de uma
-# padronização do menu Aplicativos do GNOME com os seus equivalentes
-# em outros ambientes de trabalho, mais precisamente KDE e XFCE.
-#
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Aplicativos gráficos"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Desenvolvimento"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -51,6 +48,16 @@ msgstr "Ferramentas para desenvolvimento de software"
 #
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Educativo"
+
+# Traduzir "Education" como "Educativo" é o resultado de uma padronização do
+# menu Aplicativos do GNOME com os seus equivalentes em outros ambientes de
+# trabalho, mais precisamente KDE e XFCE.
+#
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Educativo"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -98,6 +105,12 @@ msgstr ""
 msgid "Applications"
 msgstr "Aplicativos"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Aplicativos"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -112,7 +125,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Programas para acesso à Internet tais como web e e-mail"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -120,7 +135,9 @@ msgid "Office"
 msgstr "Escritório"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Aplicativos de escritório"
 
 # Outros aplicativOs
@@ -130,7 +147,9 @@ msgid "Other"
 msgstr "Outros"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Aplicativos que não se encaixam em outras categorias"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -145,12 +164,28 @@ msgstr "Configurações pessoais"
 msgid "Science & Math"
 msgstr "Ciências & Matemática"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Ciências & Matemática"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferências"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Preferências pessoais"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -158,25 +193,16 @@ msgid "Administration"
 msgstr "Administração"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Modifique configurações gerais do sistema (isso afeta todos os usuários)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Configurações do sistema"
-
-# Essa alteração, Ferramentas do Sistema → Sistema, não foi discutida mas
-# acredito que todos vão aprovar. Assim jogamos esse submenu para o fim da
-# lista, facilitando para a maioria dos usuários o acesso aos aplicativos
-# mais cotidianos.
-#
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Sistema"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Configuração e monitoramento do sistema"
 
 # Traduzir "Universal Access" como "Acessibilidade" é o resultado de uma
@@ -202,6 +228,30 @@ msgstr "Acessórios"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Acessórios da área de trabalho"
+
+# Traduzir "Sound & Video" como "Multimídia" é o resultado de uma padronização
+# do menu Aplicativos do GNOME com os seus equivalentes no KDE e no XFCE.
+#
+#~ msgid "Sound & Video"
+#~ msgstr "Multimídia"
+
+# Traduzir "Programming" como "Desenvolvimento" é o resultado de uma
+# padronização do menu Aplicativos do GNOME com os seus equivalentes
+# em outros ambientes de trabalho, mais precisamente KDE e XFCE.
+#
+#~ msgid "Programming"
+#~ msgstr "Desenvolvimento"
+
+#~ msgid "System settings"
+#~ msgstr "Configurações do sistema"
+
+# Essa alteração, Ferramentas do Sistema → Sistema, não foi discutida mas
+# acredito que todos vão aprovar. Assim jogamos esse submenu para o fim da
+# lista, facilitando para a maioria dos usuários o acesso aos aplicativos
+# mais cotidianos.
+#
+#~ msgid "System Tools"
+#~ msgstr "Sistema"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Editor do Menu"

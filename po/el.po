@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-03-04 00:31+0200\n"
 "Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
@@ -20,16 +20,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Ήχος & βίντεο"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Μενού πολυμέσων"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Εφαρμογές γραφικών"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Προγραμματισμός"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -37,6 +41,12 @@ msgstr "Εργαλεία για ανάπτυξη λογισμικού"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Εκπαίδευση"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Εκπαίδευση"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -83,6 +93,12 @@ msgstr "Ρυθμίσεις για την εμφάνιση και συμπερι�
 msgid "Applications"
 msgstr "Εφαρμογές"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Εφαρμογές"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -97,7 +113,9 @@ msgid "Internet"
 msgstr "Διαδίκτυο"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr ""
 "Προγράμματα πρόσβασης στο Διαδίκτυο όπως φυλλομετρητής και ηλεκ. αλληλογραφία"
 
@@ -106,7 +124,9 @@ msgid "Office"
 msgstr "Γραφείο"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Εφαρμογές γραφείου"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -114,7 +134,9 @@ msgid "Other"
 msgstr "Άλλα"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Εφαρμογές που δεν ταιριάζουν στις άλλες κατηγορίες"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -129,12 +151,28 @@ msgstr "Προσωπικές ρυθμίσεις"
 msgid "Science & Math"
 msgstr "Επιστήμη & Μαθηματικά"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Επιστήμη & Μαθηματικά"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Προτιμήσεις"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Προσωπικές προτιμήσεις"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -142,19 +180,15 @@ msgid "Administration"
 msgstr "Διαχείριση συστήματος"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Τροποποίηση ρυθμίσεων συστήματος (επηρεάζει όλους τους χρήστες)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Ρυθμίσεις συστήματος"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Εργαλεία συστήματος"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Ρύθμιση και έλεγχος συστήματος"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -172,6 +206,18 @@ msgstr "Βοηθήματα"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Βοηθήματα επιφάνειας εργασίας"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Ήχος & βίντεο"
+
+#~ msgid "Programming"
+#~ msgstr "Προγραμματισμός"
+
+#~ msgid "System settings"
+#~ msgstr "Ρυθμίσεις συστήματος"
+
+#~ msgid "System Tools"
+#~ msgstr "Εργαλεία συστήματος"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Προτιμήσεις σχετικά με γενική πρόσβαση"

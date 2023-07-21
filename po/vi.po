@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.19.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2010-01-26 11:05+0200\n"
 "Last-Translator: Hiếu <scamemiv@gmail.com>\n"
 "Language-Team: Vietnamese <gnomevi-list@lists.sourceforge.net>\n"
@@ -20,16 +20,20 @@ msgstr ""
 "X-Generator: Pootle 2.0.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Âm thanh và Ảnh động"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Trình đơn đa phương tiện"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Ứng dụng đồ họa"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Lập trình"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -37,6 +41,12 @@ msgstr "Công cụ phát triển phần mềm"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Giáo dục"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Giáo dục"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -83,6 +93,12 @@ msgstr "Thiết lập điều khiển diện mạo và cách ứng xử của h�
 msgid "Applications"
 msgstr "Ứng dụng"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Ứng dụng"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -97,7 +113,9 @@ msgid "Internet"
 msgstr "Mạng"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr ""
 "Chương trình truy cập Mạng như trình duyệt và trình nhận/gửi thư điện tử"
 
@@ -106,7 +124,9 @@ msgid "Office"
 msgstr "Văn phòng"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Ứng dụng văn phòng"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -114,7 +134,9 @@ msgid "Other"
 msgstr "Khác"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Chương trình chưa phân loại"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -129,12 +151,28 @@ msgstr "Thiết lập cá nhân"
 msgid "Science & Math"
 msgstr "Khoa học và Toán học"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Khoa học và Toán học"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Tùy thích"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Tùy thích cá nhân"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -142,19 +180,15 @@ msgid "Administration"
 msgstr "Quản lý"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Thay đổi thiết lập cho toàn hệ thống (cho mọi người dùng)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Thiết lập hệ thống"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Công cụ hệ thống"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Cấu hình và theo dõi hệ thống"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -172,6 +206,18 @@ msgstr "Bổ trợ"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Bổ trợ môi trường"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Âm thanh và Ảnh động"
+
+#~ msgid "Programming"
+#~ msgstr "Lập trình"
+
+#~ msgid "System settings"
+#~ msgstr "Thiết lập hệ thống"
+
+#~ msgid "System Tools"
+#~ msgstr "Công cụ hệ thống"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Tùy thích liên quan đến khả năng truy cập"

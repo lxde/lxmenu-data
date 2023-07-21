@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-09-15 20:46+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -16,16 +16,20 @@ msgstr ""
 "X-Generator: VirTaal 0.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Klank & video"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Multimediakieslys"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Grafika-toepassings"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Programmering"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -33,6 +37,12 @@ msgstr "Gereedskap vir sagtewareontwikkeling"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Opvoeding"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Opvoeding"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -79,6 +89,12 @@ msgstr "Instellings wat die werkskerm se voorkoms en gedrag beheer"
 msgid "Applications"
 msgstr "Toepassings"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Toepassings"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -93,7 +109,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Programme vir Internettoegang soos web en e-pos"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -101,7 +119,9 @@ msgid "Office"
 msgstr "Kantoor"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Kantoortoepassings"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -109,7 +129,9 @@ msgid "Other"
 msgstr "Ander"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Toepassings wat nie in ander kategorieë pas nie"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -124,12 +146,28 @@ msgstr "Persoonlike instellings"
 msgid "Science & Math"
 msgstr "Wetenskap & Wiskunde"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Wetenskap & Wiskunde"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Voorkeure"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Persoonlike voorkeure"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -137,19 +175,15 @@ msgid "Administration"
 msgstr "Administrasie"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Wysig instellings stelselwyd (affekteer alle gebruikers)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Stelselinstellings"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Stelselgereedskap"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Stelselopstelling en monitering"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -167,6 +201,18 @@ msgstr "Toebehore"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Werkskermtoebehore"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Klank & video"
+
+#~ msgid "Programming"
+#~ msgstr "Programmering"
+
+#~ msgid "System settings"
+#~ msgstr "Stelselinstellings"
+
+#~ msgid "System Tools"
+#~ msgstr "Stelselgereedskap"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Kieslysredigeerder"

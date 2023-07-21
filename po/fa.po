@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-09-18 22:48-0700\n"
 "Last-Translator: Roozbeh Pournader <roozbeh@gmail.com>\n"
 "Language-Team: Persian\n"
@@ -21,16 +21,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "صدا و تصویر"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "منوی چندرسانه‌ای"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "برنامه‌های گرافیکی"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "برنامه‌سازی"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -38,6 +42,12 @@ msgstr "ابزارهای تولید نرم‌افزار"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "آموزش"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "آموزش"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -84,6 +94,12 @@ msgstr "تنظیماتی که ظاهر و رفتار رومیزی را کنتر�
 msgid "Applications"
 msgstr "برنامه‌ها"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "برنامه‌ها"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -98,7 +114,9 @@ msgid "Internet"
 msgstr "اینترنت"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "برنامه‌هایی برای دست‌یابی به اینترنت مثل وب و پست الکترونیکی"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -106,7 +124,9 @@ msgid "Office"
 msgstr "اداری"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "برنامه‌های اداری"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -114,7 +134,9 @@ msgid "Other"
 msgstr "غیره"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "برنامه‌هایی که در مقولات دیگر جا نمی‌گیرند"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -129,12 +151,28 @@ msgstr "تنظیمات شخصی"
 msgid "Science & Math"
 msgstr "علوم و ریاضی"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "علوم و ریاضی"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "ترجیحات"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "ترجیحات شخصی"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -142,19 +180,15 @@ msgid "Administration"
 msgstr "مدیریت"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "تغییر تنظیمات کل سیستم (همه‌ی کاربران متأثر می‌شوند)‏"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "تنظیمات سیستم"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "ابزارهای سیستم"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "پیکربندی و پایشگری سیستم"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -172,6 +206,18 @@ msgstr "لوازم"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "لوازم رومیزی"
+
+#~ msgid "Sound & Video"
+#~ msgstr "صدا و تصویر"
+
+#~ msgid "Programming"
+#~ msgstr "برنامه‌سازی"
+
+#~ msgid "System settings"
+#~ msgstr "تنظیمات سیستم"
+
+#~ msgid "System Tools"
+#~ msgstr "ابزارهای سیستم"
 
 #~ msgid "Menu Editor"
 #~ msgstr "ویرایشگر منو"

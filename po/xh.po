@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2005-03-30 21:58+0200\n"
 "Last-Translator: Canonical Ltd <translations@canonical.com>\n"
 "Language-Team: Xhosa <xh-translate@ubuntu.com>\n"
@@ -18,16 +18,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Isandi neVidiyo"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Imenu Yezixhobo eziphathekayo zokugcina ulwazi ngokuphinda-phindeneyo"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Iinkqubo ngeemo zezibonakalisi-nkqubo"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Ukwenziwa kweenkqubo"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -36,6 +40,11 @@ msgstr "Izixhobo zokuphuhlisa ubucukubhede bekhompyutha"
 #: ../desktop-directories/lxde-education.directory.in.h:1
 #, fuzzy
 msgid "Education"
+msgstr "Ukufunda ngokuzonwabisa"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+msgid "Educational software"
 msgstr "Ukufunda ngokuzonwabisa"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -82,6 +91,12 @@ msgstr ""
 msgid "Applications"
 msgstr "Iinkqubo"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Iinkqubo"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 #, fuzzy
@@ -98,7 +113,9 @@ msgid "Internet"
 msgstr "I-intanethi"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Iinkqubo zokufikelela kwi-Intanethi ezinjenge-web ne-imeyile"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -106,7 +123,9 @@ msgid "Office"
 msgstr "i-Ofisi"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Iinkqubo ze-Ofisi"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -114,7 +133,9 @@ msgid "Other"
 msgstr "Ezinye"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Iinkqubo ezingangeniyo kwezinye iindidi"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -130,13 +151,25 @@ msgstr "Uluhlu lwezinto ezikhethwayo zaloo mntu uthile kunye nemimiselo"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Uluhlu lwezinto ezikhethwayo"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Uluhlu lwezinto ezikhethwayo zaloo mntu uthile kunye nemimiselo"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -145,20 +178,14 @@ msgstr "Ulawulo"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Tshintsha imimiselo yenkqubo ngokubanzi (ichukumisa bonke abasebenzisi)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Izixhobo Zeenkqubo"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Umiselo-nkqubo lwendlela emisiweyo kunye nokuhlola"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -177,6 +204,15 @@ msgstr "Izinto ezongezelelwayo"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Izinto ezongezelelwayo ze-Desktop"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Isandi neVidiyo"
+
+#~ msgid "Programming"
+#~ msgstr "Ukwenziwa kweenkqubo"
+
+#~ msgid "System Tools"
+#~ msgstr "Izixhobo Zeenkqubo"
 
 #~ msgid "Accessibility"
 #~ msgstr "Ukufikeleleka"

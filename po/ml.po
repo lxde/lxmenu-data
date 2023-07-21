@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.ml\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-03-01 15:53+0530\n"
 "Last-Translator: Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -22,16 +22,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "ശബ്ദവും ചലച്ചിത്രവും"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "മള്‍ട്ടീമീഡിയ മെനു"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "പ്രോഗ്രാമിങ്"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -39,6 +43,12 @@ msgstr "സോഫ്റ്റ്‌വെയര്‍ വികസനത്ത�
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "വിദ്യാഭ്യാസം"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "വിദ്യാഭ്യാസം"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -85,6 +95,12 @@ msgstr "പണിയിടത്തിന്റെ കാഴ്ചയും പ�
 msgid "Applications"
 msgstr "പ്രയോഗങ്ങള്‍"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "പ്രയോഗങ്ങള്‍"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -99,7 +115,9 @@ msgid "Internet"
 msgstr "ഇന്റര്‍നെറ്റ്"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "ഇന്റര്‍നെറ്റ് ലഭ്യതയ്ക്കാവശ്യമുളള പ്രോഗ്രാമുകളായ വെബും ഇമെയിലും"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -107,7 +125,9 @@ msgid "Office"
 msgstr "ഓഫീസ്"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "ഓഫീസ് പ്രയോഗങ്ങള്‍"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -115,7 +135,9 @@ msgid "Other"
 msgstr "മറ്റുളളവ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "മറ്റു് വിഭാഗങ്ങളില്‍ ഉള്‍‌പ്പെടാത്ത പ്രയോഗങ്ങള്‍"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -130,12 +152,28 @@ msgstr "സ്വകാര്യ സജ്ജീകരണങ്ങള്‍"
 msgid "Science & Math"
 msgstr "ശാസ്ത്രവും ഗണിതവും"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "ശാസ്ത്രവും ഗണിതവും"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "മുന്‍ഗണനകള്‍"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "സ്വകാര്യ മുന്‍ഗണനകള്‍"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -143,19 +181,15 @@ msgid "Administration"
 msgstr "ഭരണം"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "സിസ്റ്റം മുഴുവനുളള സജ്ജീകരണങ്ങളില്‍ മാറ്റം വരുത്തുക (എല്ലാ ഉപയോക്താക്കളേയും ബാധിക്കുന്നു)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "സിസ്റ്റത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "സിസ്റ്റത്തിലെ പണിയായുധങ്ങള്‍"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "സിസ്റ്റത്തിന്റെ ക്രമീകരണവും നിരീക്ഷണവും"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -173,6 +207,18 @@ msgstr "ഉപകരണങ്ങള്‍"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "പണിയിടോപകരണങ്ങള്‍"
+
+#~ msgid "Sound & Video"
+#~ msgstr "ശബ്ദവും ചലച്ചിത്രവും"
+
+#~ msgid "Programming"
+#~ msgstr "പ്രോഗ്രാമിങ്"
+
+#~ msgid "System settings"
+#~ msgstr "സിസ്റ്റത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
+
+#~ msgid "System Tools"
+#~ msgstr "സിസ്റ്റത്തിലെ പണിയായുധങ്ങള്‍"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "സാര്‍വ്വജനിക ലഭ്യതയെ സംബന്ധിച്ചുളള മുന്‍ഗണനകള്‍"

@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.fr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2009-12-02 22:16+0100\n"
 "Last-Translator: Mouillon <pci21@free.fr>\n"
 "Language-Team: GNOME French team <gnomefr@traduc.org>\n"
@@ -23,16 +23,20 @@ msgstr ""
 "X-Generator: Pootle 1.1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Son et vidéo"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Multimédia"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Applications graphiques"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Programmation"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -40,6 +44,12 @@ msgstr "Outils de développement logiciel"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Éducation"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Éducation"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -86,6 +96,12 @@ msgstr "Paramètres contrôlant l'apparence et le comportement du bureau"
 msgid "Applications"
 msgstr "Applications"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Applications"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -100,7 +116,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Programmes pour accéder à Internet tels que le Web ou la messagerie"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -108,7 +126,9 @@ msgid "Office"
 msgstr "Bureautique"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Applications bureautiques"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -116,7 +136,9 @@ msgid "Other"
 msgstr "Autre"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Applications qui n'entraient dans aucune autre catégorie"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -131,12 +153,28 @@ msgstr "Paramètres personnels"
 msgid "Science & Math"
 msgstr "Science et mathématiques"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Science et mathématiques"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Préférences"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Préférences personnelles"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -144,20 +182,16 @@ msgid "Administration"
 msgstr "Administration"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Modifie globalement les paramètres du système (affecte tous les utilisateurs)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Paramètres système"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Outils système"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Configuration et surveillance système"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -175,6 +209,18 @@ msgstr "Accessoires"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Accessoires du bureau"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Son et vidéo"
+
+#~ msgid "Programming"
+#~ msgstr "Programmation"
+
+#~ msgid "System settings"
+#~ msgstr "Paramètres système"
+
+#~ msgid "System Tools"
+#~ msgstr "Outils système"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Préférences associées à l'accès universel"

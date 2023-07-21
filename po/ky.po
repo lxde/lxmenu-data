@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.12.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2005-10-29 09:18+0600\n"
 "Last-Translator: Timur Jamakeev <ztimur@gmail.com>\n"
 "Language-Team: Kirghiz\n"
@@ -18,16 +18,20 @@ msgstr ""
 "X-Generator: KBabel 1.9.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Аудио и видео"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Мультимедиа"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Графикалык иштемелер"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Программалоо"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -35,6 +39,12 @@ msgstr "Программа иштеп чыгуу аспаптары"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Билим берүү иштемелери"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Билим берүү иштемелери"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -81,6 +91,12 @@ msgstr ""
 msgid "Applications"
 msgstr "Иштемелер"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Иштемелер"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 #, fuzzy
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "Интернет"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Интернет менен иштөө программалары (почта, аралагыч ж.б.)"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "Офис"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Офистик иштемелер"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "Башкалар"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Эч бир категорияга туура келбеген иштемелер"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -128,12 +150,26 @@ msgstr "Өздүк ырастоолор жана параметрлер"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Ырастоолор"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Өздүк жактыруулар"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -142,19 +178,13 @@ msgstr "Системаны башкаруу"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Системалык ырастоолорду өзгөртүү (бардык колдонуучуларга таасир этет)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Системалык аспаптар"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Системаны конфигурациялоо жана аны байкоо аспаптары"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -173,6 +203,15 @@ msgstr "Стандарттык иштемелер"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Иш столунун иштемелери"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Аудио и видео"
+
+#~ msgid "Programming"
+#~ msgstr "Программалоо"
+
+#~ msgid "System Tools"
+#~ msgstr "Системалык аспаптар"
 
 #~ msgid "Accessibility"
 #~ msgstr "Ыңгайлуулуктар"

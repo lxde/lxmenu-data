@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus gnome-2-22\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-07-15 19:21+0200\n"
 "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
 "Language-Team: albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>\n"
@@ -18,16 +18,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Zë & Video"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Menu multimediale"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Programe grafiku"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Programim"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -35,6 +39,12 @@ msgstr "Vegla për zhvillim programesh"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Edukim"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Edukim"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -83,6 +93,12 @@ msgstr "Rregullime që kontrollojnë pamjen e hapësirës së punës dhe sjellje
 msgid "Applications"
 msgstr "Programe"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Programe"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -99,7 +115,9 @@ msgstr "Internet"
 
 # (pofilter) brackets: translation has extra '(', ')'
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Programe për hyrje në Internet (si p.sh. rrjeti dhe posta elektronike)"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -107,7 +125,9 @@ msgid "Office"
 msgstr "Zyrë"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Programe Zyre"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -115,7 +135,9 @@ msgid "Other"
 msgstr "Tjetër"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Programe që nuk gjejnë vend në kategori të tjera"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -130,12 +152,26 @@ msgstr "Rregullime vetjake"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferime"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Preferime vetjake"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -143,19 +179,15 @@ msgid "Administration"
 msgstr "Administrim"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Ndrysho rregullimet në rang sistemi (ndikon tek të gjithë përdoruesit)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Rregullime sistemi"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Vegla Sistemi"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Konfigurim dhe vëzhgim sistemi"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -173,6 +205,18 @@ msgstr "Aksesorë"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Aksesorë hapësire pune"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Zë & Video"
+
+#~ msgid "Programming"
+#~ msgstr "Programim"
+
+#~ msgid "System settings"
+#~ msgstr "Rregullime sistemi"
+
+#~ msgid "System Tools"
+#~ msgstr "Vegla Sistemi"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Preferime në lidhje me hyrjen universale"

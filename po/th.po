@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.9.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2007-05-18 13:22+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <l10n@opentle.org>\n"
@@ -18,16 +18,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "เสียงและวีดิทัศน์"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "เมนูระบบสื่อผสม"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "โปรแกรมสำหรับรูปภาพ"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "เขียนโปรแกรม"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -35,6 +39,12 @@ msgstr "เครื่องมือพัฒนาซอฟต์แวร์
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "การศึกษา"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "การศึกษา"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -81,6 +91,12 @@ msgstr "ตั้งค่าควบคุมรูปโฉมและพฤ
 msgid "Applications"
 msgstr "โปรแกรม"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "โปรแกรม"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -95,7 +111,9 @@ msgid "Internet"
 msgstr "อินเทอร์เน็ต"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "โปรแกรมสำหรับเข้าอินเทอร์เน็ต เช่น เว็บและเมล"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -103,7 +121,9 @@ msgid "Office"
 msgstr "สำนักงาน"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "โปรแกรมสำหรับสำนักงาน"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -111,7 +131,9 @@ msgid "Other"
 msgstr "อื่นๆ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "โปรแกรมที่ไม่อยู่ในหมวดอื่นๆ"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -126,12 +148,28 @@ msgstr "ตั้งค่าส่วนบุคคล"
 msgid "Science & Math"
 msgstr "วิทยาศาสตร์และคณิตศาสตร์"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "วิทยาศาสตร์และคณิตศาสตร์"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "ปรับแต่งพื้นโต๊ะ"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "ปรับแต่งพื้นโต๊ะส่วนตัว"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -139,19 +177,15 @@ msgid "Administration"
 msgstr "ดูแลระบบ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "การตั้งค่าที่มีผลทั้งระบบ (มีผลต่อผู้ใช้ทุกคน)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "ตั้งค่าระบบ"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "เครื่องมือระบบ"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "ตั้งค่าและเฝ้าดูระบบ"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -169,6 +203,18 @@ msgstr "เครื่องใช้ไม้สอย"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "โปรแกรมเครื่องใช้ไม้สอยบนเดสก์ท็อป"
+
+#~ msgid "Sound & Video"
+#~ msgstr "เสียงและวีดิทัศน์"
+
+#~ msgid "Programming"
+#~ msgstr "เขียนโปรแกรม"
+
+#~ msgid "System settings"
+#~ msgstr "ตั้งค่าระบบ"
+
+#~ msgid "System Tools"
+#~ msgstr "เครื่องมือระบบ"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "การปรับแต่งเกี่ยวกับสิ่งอำนวยความสะดวก"

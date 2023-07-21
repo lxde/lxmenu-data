@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2012-05-01 15:10+0600\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
@@ -22,16 +22,20 @@ msgstr ""
 "X-Poedit-Country: KAZAKHSTAN\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Аудио және видео"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Мультимедиа"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Графикалық қолданбалары"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Бағдарламалау"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -39,6 +43,12 @@ msgstr "Бағдарламаларды жасауға арналған құра�
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Білім алу"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Білім алу"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -85,6 +95,12 @@ msgstr "Жұмыс үстелінің сыртқы түрін мен мінез-
 msgid "Applications"
 msgstr "Қолданбалар"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Қолданбалар"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -99,7 +115,9 @@ msgid "Internet"
 msgstr "Интернет"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Интернетті қолдануға арналған бағдарламалар, пошта мен браузер сияқты"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -107,7 +125,9 @@ msgid "Office"
 msgstr "Кеңселік"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Кеңселік қолданбалар"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -115,7 +135,9 @@ msgid "Other"
 msgstr "Басқалар"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Басқа санаттарға жатпайтын қолданбалар"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -130,12 +152,28 @@ msgstr "Жеке баптаулар"
 msgid "Science & Math"
 msgstr "Ғылыми және математикалық"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Ғылыми және математикалық"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Қалаулар"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Жеке қалаулар"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -143,19 +181,15 @@ msgid "Administration"
 msgstr "Әкімшілік"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Жүйелік баптауларды өзгерту (барлық пайдаланушыларға әсер етеді)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Жүйелік баптаулар"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Жүйелік саймандар"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Жүйелік баптаулар мен бақылау"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -173,6 +207,18 @@ msgstr "Қалыпты"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Қалыпты қолданбалар"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Аудио және видео"
+
+#~ msgid "Programming"
+#~ msgstr "Бағдарламалау"
+
+#~ msgid "System settings"
+#~ msgstr "Жүйелік баптаулар"
+
+#~ msgid "System Tools"
+#~ msgstr "Жүйелік саймандар"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Мәзір дұрыстаушысы"

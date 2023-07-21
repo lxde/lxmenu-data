@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2007-09-20 18:50+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -18,16 +18,20 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Товуш ва видео"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Мултимедиа менюси"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Графика дастурлари"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Дастурлаш"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -35,6 +39,12 @@ msgstr "Дастурлаш учун воситалар"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Таълим"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Таълим"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -81,6 +91,12 @@ msgstr "Иш столининг ташқи кўриниши ва хусусия�
 msgid "Applications"
 msgstr "Дастурлар"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Дастурлар"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -95,7 +111,9 @@ msgid "Internet"
 msgstr "Интернет"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Веб браузер ва эл.почта каби интернет билан ишлаш дастурлари"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -103,7 +121,9 @@ msgid "Office"
 msgstr "Офис"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Офис дастурлари"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -111,7 +131,9 @@ msgid "Other"
 msgstr "Бошқа"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Ҳеч қайси туркумга кирмайдиган дастурлар"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -126,12 +148,26 @@ msgstr "Шахсий мосламалар"
 msgid "Science & Math"
 msgstr "Фан ва Математика"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Фан ва Математика"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr ""
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr ""
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -139,21 +175,17 @@ msgid "Administration"
 msgstr "Бошқарув"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Бутун тизимга оид мосламаларни ўзгартириш (барча фойдаланувчиларга таъсир "
 "қилади)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Тизим мосламалари"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Тизим воситалари"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Тизимни мослаш ва кузатиш"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -171,6 +203,18 @@ msgstr ""
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr ""
+
+#~ msgid "Sound & Video"
+#~ msgstr "Товуш ва видео"
+
+#~ msgid "Programming"
+#~ msgstr "Дастурлаш"
+
+#~ msgid "System settings"
+#~ msgstr "Тизим мосламалари"
+
+#~ msgid "System Tools"
+#~ msgstr "Тизим воситалари"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Меню таҳрирчиси"

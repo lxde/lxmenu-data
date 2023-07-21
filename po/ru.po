@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2010-05-25 17:59+0200\n"
 "Last-Translator: Max <mpui@tut.by>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
@@ -20,16 +20,20 @@ msgstr ""
 "X-Generator: Pootle 2.0.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Аудио и видео"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Мультимедиа"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Графические приложения"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Программирование"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -37,6 +41,12 @@ msgstr "Средства для разработки программ"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Образовательные"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Образовательные"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -83,6 +93,12 @@ msgstr "Параметры, влияющие на внешний вид и по�
 msgid "Applications"
 msgstr "Приложения"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Приложения"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -97,7 +113,9 @@ msgid "Internet"
 msgstr "Интернет"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Программы для работы с Интернетом (почта, браузер и т.п.)"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -105,7 +123,9 @@ msgid "Office"
 msgstr "Офис"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Офисные приложения"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -113,7 +133,9 @@ msgid "Other"
 msgstr "Прочие"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Приложения, не подпадающие ни под какие категории"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -128,12 +150,28 @@ msgstr "Персональные параметры"
 msgid "Science & Math"
 msgstr "Научные и математические"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Научные и математические"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Параметры"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Персональные предпочтения"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -141,19 +179,15 @@ msgid "Administration"
 msgstr "Администрирование"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Изменение системных установок (влияет на всех пользователей)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Системные параметры"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Системные"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Средства конфигурации и мониторинга системы"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -171,6 +205,18 @@ msgstr "Стандартные"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Стандартные приложения"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Аудио и видео"
+
+#~ msgid "Programming"
+#~ msgstr "Программирование"
+
+#~ msgid "System settings"
+#~ msgstr "Системные параметры"
+
+#~ msgid "System Tools"
+#~ msgstr "Системные"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Параметры, связанные со специальными возможностями"

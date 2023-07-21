@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2006-04-07 10:42+0300\n"
 "Last-Translator: Thierry Randrianiriana <randrianiriana@gmail.com>\n"
 "Language-Team: Malagasy <i18n-malagasy-gnome@gna.org>\n"
@@ -19,16 +19,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Feo sy sarimihetsika"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Karazan-tsafidin'ny haino aman-jery"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Rindran'asa fanaovan-tsary"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Famolavolavolana"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -36,6 +40,12 @@ msgstr "Fitaovana ho an'ny mpamolavola rindran'asa"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Fanabeazana"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Fanabeazana"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -82,6 +92,12 @@ msgstr ""
 msgid "Applications"
 msgstr "Rindran'asa"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Rindran'asa"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 #, fuzzy
@@ -97,7 +113,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr ""
 "Rindran'asa ahafahana mifandray amin'ny Internet toy ny tranonkala sy ny "
 "mailaka"
@@ -107,7 +125,9 @@ msgid "Office"
 msgstr "Office"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Rindran'asa Office"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -115,7 +135,9 @@ msgid "Other"
 msgstr "Hafa"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Rindran'asa izay tsy tafiditra anaty sokajy hafa"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -131,12 +153,26 @@ msgstr "Safidy sy fandrindrana manokana"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Safidy"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Safidy manokana"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -145,20 +181,14 @@ msgstr "Fitantanana"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Hanova ny fandrindrana ny rafitra manontolo (mahakasika ny mpampiasa rehetra)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Fitaovan'ny rafitra"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Fanefena sy fanaraha-maso ny rafitra"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -177,6 +207,15 @@ msgstr "Fiasana"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Fiasan'ny desktop"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Feo sy sarimihetsika"
+
+#~ msgid "Programming"
+#~ msgstr "Famolavolavolana"
+
+#~ msgid "System Tools"
+#~ msgstr "Fitaovan'ny rafitra"
 
 #~ msgid "Accessibility"
 #~ msgstr "Fanamorana"

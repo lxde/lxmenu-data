@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data_hr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Boljsa <asjlob AT vip.hr>\n"
 "Language-Team:  <asjlob AT vip.hr>\n"
@@ -14,16 +14,20 @@ msgstr ""
 "X-Poedit-Country: CROATIA\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Zvuk & Video"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Multimedijski izbornik"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Grafièke aplikacije"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Programiranje"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -31,6 +35,12 @@ msgstr "Alati za razvoj softvera"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Edukacija"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Edukacija"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -77,6 +87,12 @@ msgstr "Postavke za kontrolu pona¹anja radne povr¹ine"
 msgid "Applications"
 msgstr "Aplikacije"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Aplikacije"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -91,7 +107,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Programi za pristup Internetu kao web i e-mail"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -99,7 +117,9 @@ msgid "Office"
 msgstr "Ured"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Uredske Aplikacije"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -107,7 +127,9 @@ msgid "Other"
 msgstr "Ostalo"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Aplikacije koje ne pripadaju ostalim kategorijama"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -122,12 +144,28 @@ msgstr "Osobne postavke"
 msgid "Science & Math"
 msgstr "Znanost i matematika"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Znanost i matematika"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Postavke"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Ospbne postavke"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -135,19 +173,15 @@ msgid "Administration"
 msgstr "Administracija"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Promijeni postavke za cijeli sustav (utjeèe na sve korisnike)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Postavke sustava"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Alati Sustava"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Konfiguracija i nadzor sustava"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -165,3 +199,15 @@ msgstr "Pomagala"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Pomagala radne povr¹ine"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Zvuk & Video"
+
+#~ msgid "Programming"
+#~ msgstr "Programiranje"
+
+#~ msgid "System settings"
+#~ msgstr "Postavke sustava"
+
+#~ msgid "System Tools"
+#~ msgstr "Alati Sustava"

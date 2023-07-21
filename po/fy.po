@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
+msgid "Multimedia"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+msgid "Audio and video applications"
 msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
+msgid "Development"
 msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
@@ -35,6 +35,10 @@ msgstr ""
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr ""
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+msgid "Educational software"
 msgstr ""
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -81,6 +85,10 @@ msgstr ""
 msgid "Applications"
 msgstr ""
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+msgid "Application Menu"
+msgstr ""
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -95,7 +103,7 @@ msgid "Internet"
 msgstr ""
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr ""
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -103,7 +111,7 @@ msgid "Office"
 msgstr ""
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+msgid "Office applications"
 msgstr ""
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -111,7 +119,7 @@ msgid "Other"
 msgstr ""
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr ""
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -126,12 +134,26 @@ msgstr ""
 msgid "Science & Math"
 msgstr "Wittenskiplik en wiskunde"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Wittenskiplik en wiskunde"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr ""
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr ""
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -139,19 +161,11 @@ msgid "Administration"
 msgstr ""
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr ""
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-10-01 18:11+0400\n"
 "Last-Translator: Norayr Chilingaryan <chnorik@gmail.com>\n"
 "Language-Team:  <norik@freenet.am>\n"
@@ -18,16 +18,20 @@ msgstr ""
 "X-Generator: KBabel 1.9.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Ձայն և Վիդեո"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Համասփյուռ ծրագրերի ցանկ"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Գրաֆիկական ծրագրեր"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Ծրագրավորում"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -35,6 +39,12 @@ msgstr "Ծրագրերի մշակման գործիքներ"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Ուսուցում"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Ուսուցում"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -81,6 +91,12 @@ msgstr "Աշխատասեղանի տեսքի և վարքի հատկություն
 msgid "Applications"
 msgstr "Ծրագրեր"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Ծրագրեր"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 #, fuzzy
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "Համացանց"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Համացանցում աշխատելու ծրագրեր, ինչպես վեպ զննիչը"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "Օֆիս"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Օֆիսային Ծրագրեր"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "Այլ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Ծրագրեր, որոնք այլ կատեգորիաներին չեն համապատասխանում"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -128,12 +150,26 @@ msgstr "Անհատական նախընտրանքներ"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Հատկություններ"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Անհատական նախընտրանքներ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -142,20 +178,14 @@ msgstr "Կառավարում"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Փոխել ամբողջ համակարգի նախընտրանքները (վերաբերում է բոլոր գործարկողներին)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Համակարգի հատկություններ"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Համակարգի գործիքներ"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Համակարգի կարգավորում և վերահսկում"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -174,6 +204,18 @@ msgstr "Աքսեսուարներ"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Աշխատասեղանի աքսեսուարներ"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Ձայն և Վիդեո"
+
+#~ msgid "Programming"
+#~ msgstr "Ծրագրավորում"
+
+#~ msgid "System settings"
+#~ msgstr "Համակարգի հատկություններ"
+
+#~ msgid "System Tools"
+#~ msgstr "Համակարգի գործիքներ"
 
 #~ msgid "Menu Editor"
 #~ msgstr "Ցանկի Խմբագրիչ"

@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2005-03-28 19:35-0700\n"
 "Last-Translator: Steve Murphy <murf@e-tools.com>\n"
 "Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
@@ -25,16 +25,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr ""
+#, fuzzy
+msgid "Multimedia"
+msgstr "Ibikubiyemo"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-msgid "Multimedia menu"
-msgstr "Ibikubiyemo"
+msgid "Audio and video applications"
+msgstr "Porogaramu"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
+msgid "Development"
 msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
@@ -44,6 +45,10 @@ msgstr "kugirango"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr ""
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+msgid "Educational software"
 msgstr ""
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -92,6 +97,12 @@ msgstr ""
 msgid "Applications"
 msgstr "Porogaramu"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Porogaramu"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -109,7 +120,7 @@ msgstr "Interineti"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "kugirango Nka Urubuga Na imeli"
 
 # svx/source\gallery2\galtheme.src:RID_GALLERYSTR_THEME_OFFICE.text
@@ -118,8 +129,9 @@ msgid "Office"
 msgstr "Ofise"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
-msgstr ""
+#, fuzzy
+msgid "Office applications"
+msgstr "Porogaramu"
 
 # framework/source\classes\fltdlg.src:STR_FILTER_OTHERS.text
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -128,7 +140,7 @@ msgstr "Ikindi"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "OYA in Ikindi Ibyiciro"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -144,6 +156,18 @@ msgstr "Ibyahiswemo Na Amagenamiterere"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 # extracted from content/PrefsWindow.xul
 # LOCALIZATION NOTE : FILE UI for the outer parts of the Prefs dialog
 #: ../desktop-directories/lxde-settings.directory.in.h:1
@@ -152,7 +176,7 @@ msgstr "Ibyahisemo"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Ibyahiswemo Na Amagenamiterere"
 
 # 89
@@ -162,20 +186,12 @@ msgstr "ubuyobozi"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Amagenamiterere Byose"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
 #, fuzzy
-msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Iboneza Na"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1

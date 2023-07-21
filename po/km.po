@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2010-07-17 10:39+0200\n"
 "Last-Translator:  <atol@sokha.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,16 +19,20 @@ msgstr ""
 "X-Generator: Pootle 2.0.1\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "សម្លេង & វីដេអូ"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "ម៉ឺនុយពហុព័ត៌មាន"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "កម្មវិធីក្រាហ្វិក"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "ការធ្វើកម្មវិធី"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -36,6 +40,12 @@ msgstr "ឧបករណ៍សំរាប់អភិវឌ្ឍន៍កម្
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "ការសិក្សារ"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "ការសិក្សារ"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -82,6 +92,12 @@ msgstr "ការកំណត់បញ្ជារូបរាង និង ឥ�
 msgid "Applications"
 msgstr "កម្មវិធី"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "កម្មវិធី"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -96,7 +112,9 @@ msgid "Internet"
 msgstr "អ៊ីនធឺណិត"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "កម្មវិធីសំរាប់ចូលដំណើរការអ៊ីនធឺណិត ដូចជា បញ្ដាញ និង អ៊ីមែល"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -104,7 +122,9 @@ msgid "Office"
 msgstr "ការិយាល័យ"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "កម្មវិធីការិយាល័យ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -112,7 +132,9 @@ msgid "Other"
 msgstr "ផ្សេងៗ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "កម្មវិធីដែលមិនសម នឹងប្រភេទដទៃទៀត"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -127,12 +149,28 @@ msgstr "ការកំណត់ផ្ទាល់ខ្លួន"
 msgid "Science & Math"
 msgstr "វិទ្យាសាស្ត្រ និង​គណិតវិទ្យា"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "វិទ្យាសាស្ត្រ និង​គណិតវិទ្យា"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "ចំណង់ចំណូលចិត្ត"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "ចំណង់ចំណូលចិត្តផ្ទាល់ខ្លួន"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -140,19 +178,15 @@ msgid "Administration"
 msgstr "ការគ្រប់គ្រង"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "ផ្លាស់ប្ដូរការកំណត់ប្រព័ន្ធទាំងមូល (ប៉ះពាល់ដល់អ្នកប្រើប្រាស់ទាំងអស់)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "ការកំណត់ប្រព័ន្ធ"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "ឧបករណ៍ប្រព័ន្ធ"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "ការកំណត់រចនាសម្ព័ន្ធ និង ការត្រួតពិនិត្យ"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -170,3 +204,15 @@ msgstr "ប្រដាប់ប្រដា"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "ប្រដាប់ប្រដាផ្ទៃតុ"
+
+#~ msgid "Sound & Video"
+#~ msgstr "សម្លេង & វីដេអូ"
+
+#~ msgid "Programming"
+#~ msgstr "ការធ្វើកម្មវិធី"
+
+#~ msgid "System settings"
+#~ msgstr "ការកំណត់ប្រព័ន្ធ"
+
+#~ msgid "System Tools"
+#~ msgstr "ឧបករណ៍ប្រព័ន្ធ"

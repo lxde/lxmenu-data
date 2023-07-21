@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2006-04-25 10:14-0300\n"
 "Last-Translator: Boca <boca@riseup.net>\n"
 "Language-Team: \n"
@@ -16,16 +16,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Jaexaa, Porai Nhaendua"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Baemo Jaexaa, Nhaendua"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Baemo Ra'angaa Jajapoa Oia"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Jaja Poa"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -33,6 +37,12 @@ msgstr "Jaja Poa"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Arandu"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Arandu"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -79,6 +89,12 @@ msgstr ""
 msgid "Applications"
 msgstr "Enhepynru Apy"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Enhepynru Apy"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -93,7 +109,9 @@ msgid "Internet"
 msgstr "Kya"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Kya Py Reike Awã Regua"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -101,7 +119,9 @@ msgid "Office"
 msgstr "Nhamboparaa Regua"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Jaekaa Omboparaa"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -109,7 +129,9 @@ msgid "Other"
 msgstr "Amboae"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Amboae Regua Jaekaa"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -125,12 +147,26 @@ msgstr "Preferências e configurações pessoais"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Maranmi Reipota"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Rowapy Jarowa Rowaa"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -138,19 +174,11 @@ msgid "Administration"
 msgstr "Nhambotea Regua"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr ""
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr ""
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr ""
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -169,6 +197,12 @@ msgstr "Nhamba'eapoa Pygua"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Nhamba'eapoa Regua"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Jaexaa, Porai Nhaendua"
+
+#~ msgid "Programming"
+#~ msgstr "Jaja Poa"
 
 #~ msgid "Accessibility"
 #~ msgstr "Omboparaa Regua"

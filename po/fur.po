@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-03-10 13:15+0100\n"
 "Last-Translator: Massimo Furlani <massimo.furlani@libero.it>\n"
 "Language-Team: FRIULIAN <massimo.furlani@libero.it>\n"
@@ -18,16 +18,20 @@ msgstr ""
 "X-Poedit-Country: ITALY\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Audio e video"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Menu multimediâl"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Aplicazions di grafiche"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Programazion"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -35,6 +39,12 @@ msgstr "Imprescj par il svilup dal software"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Istruzion"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Istruzion"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -81,6 +91,12 @@ msgstr "Impostazions ch'a controlin l'aspiet e il compuartament dal desktop"
 msgid "Applications"
 msgstr "Aplicazions"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Aplicazions"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -95,7 +111,9 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Programs par internet come web e mail"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -103,7 +121,9 @@ msgid "Office"
 msgstr "Ufici"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Aplicazions di ufici"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -111,7 +131,9 @@ msgid "Other"
 msgstr "Altri"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Aplicazions ch'a no jentrin ta chês altres categoriis"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -126,12 +148,26 @@ msgstr "Impostazions personâls"
 msgid "Science & Math"
 msgstr ""
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+msgid "Science"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferencis"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Preferencis personâls"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -139,19 +175,15 @@ msgid "Administration"
 msgstr "Aministrazion"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Modifiche impostazions di sisteme (par ducj i utents)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Impostazions di sisteme"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Imprescj di sisteme"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Configurazion e monitoragjo di sisteme"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -169,6 +201,18 @@ msgstr "Robutis"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Robutis dal desktop"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Audio e video"
+
+#~ msgid "Programming"
+#~ msgstr "Programazion"
+
+#~ msgid "System settings"
+#~ msgstr "Impostazions di sisteme"
+
+#~ msgid "System Tools"
+#~ msgstr "Imprescj di sisteme"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Preferencis relativis a l'acess universâl"

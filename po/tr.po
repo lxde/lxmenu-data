@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 10:15+0100\n"
+"POT-Creation-Date: 2023-07-21 15:23+0200\n"
 "PO-Revision-Date: 2008-03-10 22:35+0200\n"
 "Last-Translator: Baris Cicek <baris@teamforce.name.tr>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -20,16 +20,20 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Sound & Video"
-msgstr "Ses ve Video"
-
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Multimedia menu"
+#, fuzzy
+#| msgid "Multimedia menu"
+msgid "Multimedia"
 msgstr "Çokluortam menüsü"
 
+#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#, fuzzy
+#| msgid "Graphics applications"
+msgid "Audio and video applications"
+msgstr "Grafik uygulamaları"
+
 #: ../desktop-directories/lxde-development.directory.in.h:1
-msgid "Programming"
-msgstr "Programlama"
+msgid "Development"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -37,6 +41,12 @@ msgstr "Yazılım geliştirme için araçlar"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
+msgstr "Eğitim"
+
+#: ../desktop-directories/lxde-education.directory.in.h:2
+#, fuzzy
+#| msgid "Education"
+msgid "Educational software"
 msgstr "Eğitim"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
@@ -83,6 +93,12 @@ msgstr "Masaüstü görünüm ve işleyişini kontrol eden ayarlar"
 msgid "Applications"
 msgstr "Uygulamalar"
 
+#: ../desktop-directories/lxde-menu-applications.directory.in.h:2
+#, fuzzy
+#| msgid "Applications"
+msgid "Application Menu"
+msgstr "Uygulamalar"
+
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
 msgid "System"
@@ -97,7 +113,9 @@ msgid "Internet"
 msgstr "İnternet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-msgid "Programs for Internet access such as web and email"
+#, fuzzy
+#| msgid "Programs for Internet access such as web and email"
+msgid "Programs for Internet access"
 msgstr "Web ve eposta gibi internete erişim amaçlı programlar"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
@@ -105,7 +123,9 @@ msgid "Office"
 msgstr "Ofis"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-msgid "Office Applications"
+#, fuzzy
+#| msgid "Office Applications"
+msgid "Office applications"
 msgstr "Ofis Uygulamaları"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
@@ -113,7 +133,9 @@ msgid "Other"
 msgstr "Diğer"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-msgid "Applications that did not fit in other categories"
+#, fuzzy
+#| msgid "Applications that did not fit in other categories"
+msgid "Applications that don't fit into other categories"
 msgstr "Diğer sınıflandırmalara girmeyen uygulamalar"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
@@ -128,12 +150,28 @@ msgstr "Kişisel ayarlar"
 msgid "Science & Math"
 msgstr "Bilim ve Matematik"
 
+#: ../desktop-directories/lxde-science-math.directory.in.h:2
+msgid "Scientific and mathematical software"
+msgstr ""
+
+#: ../desktop-directories/lxde-science.directory.in.h:1
+#, fuzzy
+#| msgid "Science & Math"
+msgid "Science"
+msgstr "Bilim ve Matematik"
+
+#: ../desktop-directories/lxde-science.directory.in.h:2
+msgid "Scientific software"
+msgstr ""
+
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Tercihler"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-msgid "Personal preferences"
+#, fuzzy
+#| msgid "Personal preferences"
+msgid "Desktop preferences"
 msgstr "Kişisel tercihler"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
@@ -141,19 +179,15 @@ msgid "Administration"
 msgstr "Yönetim"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-msgid "Change system-wide settings (affects all users)"
+#, fuzzy
+#| msgid "Change system-wide settings (affects all users)"
+msgid "System-wide settings (affecting all users)"
 msgstr "Sistem geneli ayarları değiştir (tüm kullanıcıları etkiler)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-msgid "System settings"
-msgstr "Sistem ayarları"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
-msgid "System Tools"
-msgstr "Sistem Araçları"
-
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
-msgid "System configuration and monitoring"
+#, fuzzy
+#| msgid "System configuration and monitoring"
+msgid "System tools and monitoring"
 msgstr "Sistem yapılandırma ve izleme"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
@@ -171,6 +205,18 @@ msgstr "Donatılar"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Masaüstü donatıları"
+
+#~ msgid "Sound & Video"
+#~ msgstr "Ses ve Video"
+
+#~ msgid "Programming"
+#~ msgstr "Programlama"
+
+#~ msgid "System settings"
+#~ msgstr "Sistem ayarları"
+
+#~ msgid "System Tools"
+#~ msgstr "Sistem Araçları"
 
 #~ msgid "Universal access related preferences"
 #~ msgstr "Evrensel erişim ile ilgili tercihler"
