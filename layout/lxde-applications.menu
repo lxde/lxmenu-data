@@ -121,6 +121,17 @@
 		</Include>
 	</Menu> <!-- End Office -->
 
+	<!-- Science -->
+	<Menu>
+		<Name>Science</Name>
+		<Directory>lxde-science.directory</Directory>
+		<Include>
+			<And>
+				<Category>Science</Category>
+			</And>
+		</Include>
+	</Menu> <!-- End Science -->
+
 	<!-- System Tools-->
 	<Menu>
 		<Name>System</Name>
