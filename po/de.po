@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the gnome-menus package.
 # Hendrik Brandt <heb@gnome-de.org>, 2004-2005.
 # Hendrik Richter <hendrikr@gnome.org>, 2006, 2007.
-# Ingo Brückl, 2021.
+# Ingo Brückl, 2021-2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-21 15:23+0200\n"
-"PO-Revision-Date: 2021-02-11 13:35+0100\n"
+"PO-Revision-Date: 2023-07-21 16:07+0200\n"
 "Last-Translator: Ingo Brückl <ib@wupperonline.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "Language: de\n"
@@ -20,34 +20,28 @@ msgstr ""
 "X-Generator: Pootle 1.1.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
 msgid "Multimedia"
-msgstr "Multimedia-Anwendungen"
+msgstr "Multimedia"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
-#, fuzzy
-#| msgid "Graphics applications"
 msgid "Audio and video applications"
-msgstr "Anwendungen zur Grafikbearbeitung"
+msgstr "Audio- und Videoanwendungen"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
-msgstr ""
+msgstr "Entwicklung"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
-msgstr "Werkzeuge zur Software-Entwicklung"
+msgstr "Werkzeuge zur Anwendungsentwicklung"
 
 #: ../desktop-directories/lxde-education.directory.in.h:1
 msgid "Education"
 msgstr "Bildung"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
-#, fuzzy
-#| msgid "Education"
 msgid "Educational software"
-msgstr "Bildung"
+msgstr "Lernprogramme"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
 msgid "Games"
@@ -63,15 +57,15 @@ msgstr "Grafik"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Anwendungen zur Grafikbearbeitung"
+msgstr "Grafikprogramme"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
-msgstr "Hardware"
+msgstr "Geräte"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
-msgstr "Einstellungen für Hardware"
+msgstr "Einstellungen für diverse Geräte"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
@@ -83,21 +77,19 @@ msgstr "Einstellungen für Netzwerke"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Darstellung"
+msgstr "Aussehen und Handhabung"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Einstellungen, die das Aussehen und Verhalten des Desktops festlegen"
+msgstr "Einstellungen, die Aussehen und Verhalten des Desktops festlegen"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "Anwendungen"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
-#, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
-msgstr "Anwendungen"
+msgstr "Startmenü"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -113,18 +105,14 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-#, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
-msgstr "Programme für Internet-Dienste"
+msgstr "Programme für Dienste im Internet"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
 msgstr "Büro"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-#, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Büroanwendungen"
 
@@ -133,62 +121,52 @@ msgid "Other"
 msgstr "Sonstiges"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-#, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Anwendungen, die in keine andere Kategorie passen"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
-msgstr "Individualeinstellungen"
+msgstr "Persönliches"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:2
 msgid "Personal settings"
-msgstr "Individuelle Einstellungen"
+msgstr "Persönliche Einstellungen"
 
 #: ../desktop-directories/lxde-science-math.directory.in.h:1
 msgid "Science & Math"
-msgstr "Wissenschaft"
+msgstr "Wissenschaft & Mathematik"
 
 #: ../desktop-directories/lxde-science-math.directory.in.h:2
 msgid "Scientific and mathematical software"
-msgstr ""
+msgstr "Wissenschaftliche und mathematische Programme"
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
-#, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Wissenschaft"
 
 #: ../desktop-directories/lxde-science.directory.in.h:2
 msgid "Scientific software"
-msgstr ""
+msgstr "Wissenschaftliche Programme"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Einstellungen"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-#, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
-msgstr "Individuelle Einstellungen"
+msgstr "Desktop-Einstellungen"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "Systemverwaltung"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "Systemweite Einstellungen, die alle Benutzer betreffen"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-#, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
-msgstr "Systemkonfiguration und -überwachung"
+msgstr "Systemwerkzeuge und Systemüberwachung"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
@@ -205,15 +183,3 @@ msgstr "Zubehör"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Desktop-Zubehör"
-
-#~ msgid "Sound & Video"
-#~ msgstr "Multimedia"
-
-#~ msgid "Programming"
-#~ msgstr "Entwicklung"
-
-#~ msgid "System settings"
-#~ msgstr "Systemeinstellungen"
-
-#~ msgid "System Tools"
-#~ msgstr "Systemwerkzeuge"
