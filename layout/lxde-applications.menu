@@ -124,8 +124,8 @@
 		<OnlyUnallocated/>
 		<Include>
 			<And>
-				<Not><Category>Core</Category></Not>
 				<Not><Category>Settings</Category></Not>
+				<Not><Category>Core</Category></Not>
 				<Not><Category>Screensaver</Category></Not>
 			</And>
 		</Include>
@@ -137,8 +137,8 @@
 		<OnlyUnallocated/>
 		<Include>
 				<Category>Settings</Category>
-				<Category>PackageManager</Category>
 				<Category>System</Category>
+				<Category>PackageManager</Category>
 		</Include>
 		<Layout>
 			<Merge type="menus"/>
