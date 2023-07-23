@@ -128,7 +128,7 @@
 		</Menu>
 
 	<Menu>
-		<Name>DesktopSettings</Name>
+		<Name>Settings</Name>
 		<Directory>lxde-settings.directory</Directory>
 		<Include>
 				<Category>Settings</Category>
@@ -145,7 +145,7 @@
 		<Merge type="files"/>
 		<Merge type="menus"/>
 		<Separator/>
-		<Menuname>DesktopSettings</Menuname>
+		<Menuname>Settings</Menuname>
 	</Layout>
 
 </Menu>
