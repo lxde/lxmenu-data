@@ -6,14 +6,10 @@
 	<Name>Applications</Name>
 	<Directory>lxde-menu-applications.directory</Directory>
 
-	<!-- Read standard .directory and .desktop file locations -->
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
-
-	<!-- Read in overrides and child menus from applications-merged/ -->
 	<DefaultMergeDirs/>
 
-	<!-- Accessories submenu -->
 	<Menu>
 		<Name>Accessories</Name>
 		<Directory>lxde-utility.directory</Directory>
@@ -28,9 +24,8 @@
 				<Not><Category>System</Category></Not>
 			</And>
 		</Include>
-	</Menu> <!-- End Accessories -->
+	</Menu>
 
-	<!-- Accessibility submenu -->
 	<Menu>
 		<Name>Universal Access</Name>
 		<Directory>lxde-utility-accessibility.directory</Directory>
@@ -40,43 +35,32 @@
 				<Not><Category>Settings</Category></Not>
 			</And>
 		</Include>
-	</Menu> <!-- End Accessibility -->
+	</Menu>
 
-	<!-- Development Tools -->
 	<Menu>
 		<Name>Development</Name>
 		<Directory>lxde-development.directory</Directory>
 		<Include>
-			<And>
 				<Category>Development</Category>
-			</And>
-			<Filename>emacs.desktop</Filename>
 		</Include>
-	</Menu> <!-- End Development Tools -->
+	</Menu>
 
-	<!-- Education -->
 	<Menu>
 		<Name>Education</Name>
 		<Directory>lxde-education.directory</Directory>
 		<Include>
-			<And>
 				<Category>Education</Category>
-			</And>
 		</Include>
-	</Menu> <!-- End Education -->
+	</Menu>
 
-	<!-- Games -->
 	<Menu>
 		<Name>Games</Name>
 		<Directory>lxde-game.directory</Directory>
 		<Include>
-			<And>
 				<Category>Game</Category>
-			</And>
 		</Include>
-	</Menu> <!-- End Games -->
+	</Menu>
 
-	<!-- Graphics -->
 	<Menu>
 		<Name>Graphics</Name>
 		<Directory>lxde-graphics.directory</Directory>
@@ -86,53 +70,40 @@
 				<Not><Category>Utility</Category></Not>
 			</And>
 		</Include>
-	</Menu> <!-- End Graphics -->
+	</Menu>
 
-	<!-- Internet -->
 	<Menu>
 		<Name>Internet</Name>
 		<Directory>lxde-network.directory</Directory>
 		<Include>
-			<And>
 				<Category>Network</Category>
-			</And>
 		</Include>
-	</Menu>	 <!-- End Internet -->
+	</Menu>
 
-	<!-- Multimedia -->
 	<Menu>
 		<Name>Multimedia</Name>
 		<Directory>lxde-audio-video.directory</Directory>
 		<Include>
-			<And>
 				<Category>AudioVideo</Category>
-			</And>
 		</Include>
-	</Menu>	 <!-- End Multimedia -->
+	</Menu>
 
-	<!-- Office -->
 	<Menu>
 		<Name>Office</Name>
 		<Directory>lxde-office.directory</Directory>
 		<Include>
-			<And>
 				<Category>Office</Category>
-			</And>
 		</Include>
-	</Menu> <!-- End Office -->
+	</Menu>
 
-	<!-- Science -->
 	<Menu>
 		<Name>Science</Name>
 		<Directory>lxde-science.directory</Directory>
 		<Include>
-			<And>
 				<Category>Science</Category>
-			</And>
 		</Include>
-	</Menu> <!-- End Science -->
+	</Menu>
 
-	<!-- System Tools-->
 	<Menu>
 		<Name>System</Name>
 		<Directory>lxde-system.directory</Directory>
@@ -143,9 +114,8 @@
 				<Not><Category>PackageManager</Category></Not>
 			</And>
 		</Include>
-	</Menu>	 <!-- End System Tools -->
+	</Menu>
 
-	<!-- Other -->
 	<Menu>
 		<Name>Other</Name>
 		<Directory>lxde-other.directory</Directory>
@@ -157,25 +127,23 @@
 				<Not><Category>Screensaver</Category></Not>
 			</And>
 		</Include>
-		</Menu> <!-- End Other -->
+		</Menu>
 
 	<Menu>
 		<Name>DesktopSettings</Name>
 		<Directory>lxde-settings.directory</Directory>
 		<OnlyUnallocated/>
 		<Include>
-			<Or>
 				<Category>Settings</Category>
 				<Category>PackageManager</Category>
 				<Category>System</Category>
-			</Or>
 		</Include>
 		<Layout>
 			<Merge type="menus"/>
 			<Merge type="files"/>
 		</Layout>
 
-	</Menu> <!-- End Settings -->
+	</Menu>
 
 	<Layout>
 		<Merge type="files"/>
@@ -184,4 +152,4 @@
 		<Menuname>DesktopSettings</Menuname>
 	</Layout>
 
-</Menu> <!-- End Applications -->
+</Menu>
