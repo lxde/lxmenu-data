@@ -133,7 +133,6 @@
 		<OnlyUnallocated/>
 		<Include>
 				<Category>Settings</Category>
-				<Category>System</Category>
 				<Category>PackageManager</Category>
 		</Include>
 		<Layout>
