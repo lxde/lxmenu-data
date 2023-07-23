@@ -85,6 +85,8 @@
 		<Directory>lxde-audio-video.directory</Directory>
 		<Include>
 			<Category>AudioVideo</Category>
+			<Category>Audio</Category>
+			<Category>Video</Category>
 		</Include>
 	</Menu>
 
