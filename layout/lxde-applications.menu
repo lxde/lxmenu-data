@@ -130,7 +130,6 @@
 	<Menu>
 		<Name>DesktopSettings</Name>
 		<Directory>lxde-settings.directory</Directory>
-		<OnlyUnallocated/>
 		<Include>
 				<Category>Settings</Category>
 				<Category>PackageManager</Category>
