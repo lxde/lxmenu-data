@@ -65,10 +65,7 @@
 		<Name>Graphics</Name>
 		<Directory>lxde-graphics.directory</Directory>
 		<Include>
-			<And>
 				<Category>Graphics</Category>
-				<Not><Category>Utility</Category></Not>
-			</And>
 		</Include>
 	</Menu>
 
