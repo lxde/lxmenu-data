@@ -16,10 +16,10 @@
 		<Include>
 			<And>
 				<Category>Utility</Category>
-	<!-- Accessibility spec must have either the Utility or Settings
-			 category, and we display an accessibility submenu already for
-			 the ones that do not have Settings, so don't display accessibility
-			 applications here -->
+				<!-- Accessibility spec must have either the Utility or Settings
+				     category, and we display an accessibility submenu already for
+				     the ones that do not have Settings, so don't display accessibility
+				     applications here -->
 				<Not><Category>Accessibility</Category></Not>
 				<Not><Category>System</Category></Not>
 			</And>
@@ -41,7 +41,7 @@
 		<Name>Development</Name>
 		<Directory>lxde-development.directory</Directory>
 		<Include>
-				<Category>Development</Category>
+			<Category>Development</Category>
 		</Include>
 	</Menu>
 
@@ -49,7 +49,7 @@
 		<Name>Education</Name>
 		<Directory>lxde-education.directory</Directory>
 		<Include>
-				<Category>Education</Category>
+			<Category>Education</Category>
 		</Include>
 	</Menu>
 
@@ -57,7 +57,7 @@
 		<Name>Games</Name>
 		<Directory>lxde-game.directory</Directory>
 		<Include>
-				<Category>Game</Category>
+			<Category>Game</Category>
 		</Include>
 	</Menu>
 
@@ -76,7 +76,7 @@
 		<Name>Internet</Name>
 		<Directory>lxde-network.directory</Directory>
 		<Include>
-				<Category>Network</Category>
+			<Category>Network</Category>
 		</Include>
 	</Menu>
 
@@ -84,7 +84,7 @@
 		<Name>Multimedia</Name>
 		<Directory>lxde-audio-video.directory</Directory>
 		<Include>
-				<Category>AudioVideo</Category>
+			<Category>AudioVideo</Category>
 		</Include>
 	</Menu>
 
@@ -92,7 +92,7 @@
 		<Name>Office</Name>
 		<Directory>lxde-office.directory</Directory>
 		<Include>
-				<Category>Office</Category>
+			<Category>Office</Category>
 		</Include>
 	</Menu>
 
@@ -100,7 +100,7 @@
 		<Name>Science</Name>
 		<Directory>lxde-science.directory</Directory>
 		<Include>
-				<Category>Science</Category>
+			<Category>Science</Category>
 		</Include>
 	</Menu>
 
