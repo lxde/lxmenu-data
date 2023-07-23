@@ -144,6 +144,7 @@
 	<Layout>
 		<Merge type="files"/>
 		<Merge type="menus"/>
+		<Menuname>Other</Menuname>
 		<Separator/>
 		<Menuname>Settings</Menuname>
 	</Layout>
