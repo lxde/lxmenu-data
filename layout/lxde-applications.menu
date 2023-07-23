@@ -121,7 +121,6 @@
 		<OnlyUnallocated/>
 		<Include>
 			<And>
-				<Not><Category>Settings</Category></Not>
 				<Not><Category>Core</Category></Not>
 				<Not><Category>Screensaver</Category></Not>
 			</And>
