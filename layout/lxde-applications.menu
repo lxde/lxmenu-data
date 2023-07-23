@@ -16,12 +16,12 @@
 		<Include>
 			<And>
 				<Category>Utility</Category>
-				<!-- Accessibility spec must have either the Utility or Settings
-				     category, and we display an accessibility submenu already for
-				     the ones that do not have Settings, so don't display accessibility
-				     applications here -->
-				<Not><Category>Accessibility</Category></Not>
 				<Not><Category>System</Category></Not>
+				<!-- Accessibility must also have either the Utility or Settings
+				     category, and there will be a separate menu for accessibility
+				     applications (that do not have Settings), so don't include
+				     Accessibility here -->
+				<Not><Category>Accessibility</Category></Not>
 			</And>
 		</Include>
 	</Menu>
