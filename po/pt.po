@@ -3,38 +3,35 @@
 # This file is distributed under the same license as the lxmenu-data package.
 # Duarte Loreto <happyguy_pt@hotmail.com>, 2004, 2005, 2006, 2007.
 # Sérgio Marques <smarquespt@gmail.com>, 2009-2012.
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2022, 2023.
 # Adaptado ao acordo ortográfico de 1990
 msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-21 15:23+0200\n"
-"PO-Revision-Date: 2013-07-25 11:47+0000\n"
-"Last-Translator: Sérgio <smarquespt@gmail.com>\n"
+"PO-Revision-Date: 2023-08-01 16:03+0100\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Poedit 3.3.2\n"
 "X-POOTLE-MTIME: 1374752839.0\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
 msgid "Multimedia"
-msgstr "Menu multimédia"
+msgstr "Multimédia"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
-#, fuzzy
-#| msgid "Graphics applications"
 msgid "Audio and video applications"
-msgstr "Aplicações gráficas"
+msgstr "Aplicações de áudio e vídeo"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
-msgstr ""
+msgstr "Desenvolvimento"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -45,10 +42,8 @@ msgid "Education"
 msgstr "Educação"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
-#, fuzzy
-#| msgid "Education"
 msgid "Educational software"
-msgstr "Educação"
+msgstr "Software educativo"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
 msgid "Games"
@@ -76,7 +71,7 @@ msgstr "Definições para vários dispositivos"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
-msgstr "Internet e rede"
+msgstr "Internet e Rede"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
@@ -84,22 +79,19 @@ msgstr "Definições de rede"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Aparência e comportamento"
+msgstr "Aparência e Comportamento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr ""
-"Definições que controlam a aparência e comportamento do ambiente de trabalho"
+msgstr "Definições que controlam a aparência e comportamento do ambiente de trabalho"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "Aplicações"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
-#, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
-msgstr "Aplicações"
+msgstr "Menu de Aplicações"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -115,8 +107,6 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-#, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Programas para acesso à Internet"
 
@@ -125,20 +115,16 @@ msgid "Office"
 msgstr "Produtividade"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-#, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Aplicações de produtividade"
 
 #: ../desktop-directories/lxde-other.directory.in.h:1
 msgid "Other"
-msgstr "Outras"
+msgstr "Outros"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-#, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
-msgstr "Aplicações que não se enquadram em nenhuma outra categoria"
+msgstr "Aplicações que não se enquadram noutras categorias"
 
 #: ../desktop-directories/lxde-personal.directory.in.h:1
 msgid "Personal"
@@ -154,43 +140,35 @@ msgstr "Ciência e Matemática"
 
 #: ../desktop-directories/lxde-science-math.directory.in.h:2
 msgid "Scientific and mathematical software"
-msgstr ""
+msgstr "Software científico e matemático"
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
-#, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
-msgstr "Ciência e Matemática"
+msgstr "Ciência"
 
 #: ../desktop-directories/lxde-science.directory.in.h:2
 msgid "Scientific software"
-msgstr ""
+msgstr "Software científico"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferências"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-#, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
-msgstr "Preferências pessoais"
+msgstr "Preferências da área de trabalho"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "Administração"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
-msgstr "Alterar definições de sistema (afeta todos os utilizadores)"
+msgstr "Definições de todo o sistema (que afetam todos os utilizadores)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-#, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
-msgstr "Configuração de sistema e monitorização"
+msgstr "Ferramentas e monitorização do sistema"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
