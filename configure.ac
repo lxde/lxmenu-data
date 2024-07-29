@@ -1,4 +1,4 @@
-AC_INIT([lxmenu-data], [0.1.5],
+AC_INIT([lxmenu-data], [0.1.6],
         [http://lxde.org/])
 AM_INIT_AUTOMAKE([foreign no-dist-gzip dist-xz])
 
