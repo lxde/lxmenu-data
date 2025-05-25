@@ -2,37 +2,34 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Funda Wang <fundawang@linux.net.cn>, 2004.
+# 甘露(Lu Gan) <rhythm.gan@gmail.com>, 2008.
+# calico-cat-3333 <ahsdhmzyn@163.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-21 15:23+0200\n"
-"PO-Revision-Date: 2008-06-10 15:29+0700\n"
-"Last-Translator: 甘露(Lu Gan) <rhythm.gan@gmail.com>\n"
-"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"PO-Revision-Date: 2025-05-25 18:02+0800\n"
+"Last-Translator: calico-cat-3333 <ahsdhmzyn@163.com>\n"
+"Language-Team: zh_CN\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Chinese\n"
-"X-Poedit-Country: CHINA\n"
+"X-Generator: Poedit 3.6\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
 msgid "Multimedia"
-msgstr "多媒体菜单"
+msgstr "多媒体"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
-#, fuzzy
-#| msgid "Graphics applications"
 msgid "Audio and video applications"
-msgstr "图像应用程序"
+msgstr "音频和视频应用程序"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
-msgstr ""
+msgstr "开发"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -43,10 +40,8 @@ msgid "Education"
 msgstr "教育"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
-#, fuzzy
-#| msgid "Education"
 msgid "Educational software"
-msgstr "教育"
+msgstr "教育软件"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
 msgid "Games"
@@ -82,7 +77,7 @@ msgstr "网络相关的设置"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "观感"
+msgstr "外观和体验"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
@@ -93,10 +88,8 @@ msgid "Applications"
 msgstr "应用程序"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
-#, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
-msgstr "应用程序"
+msgstr "应用程序菜单"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -112,18 +105,14 @@ msgid "Internet"
 msgstr "互联网"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-#, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
-msgstr "访问互联网如网页和电子邮件所用的程序，"
+msgstr "访问互联网所用的程序"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
 msgstr "办公"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-#, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "办公应用程序"
 
@@ -132,8 +121,6 @@ msgid "Other"
 msgstr "其它"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-#, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "无法分入其它类别的应用程序"
 
@@ -151,43 +138,35 @@ msgstr "科学和数学"
 
 #: ../desktop-directories/lxde-science-math.directory.in.h:2
 msgid "Scientific and mathematical software"
-msgstr ""
+msgstr "科学和数学软件"
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
-#, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
-msgstr "科学和数学"
+msgstr "科学"
 
 #: ../desktop-directories/lxde-science.directory.in.h:2
 msgid "Scientific software"
-msgstr ""
+msgstr "科学软件"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "首选项"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-#, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
-msgstr "个人首选项"
+msgstr "桌面首选项"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "系统管理"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
-msgstr "更改系统级设置(影响全部用户)"
+msgstr "系统级设置(影响全部用户)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-#, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
-msgstr "系统配置和监视"
+msgstr "系统工具和监控"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
@@ -244,9 +223,7 @@ msgstr "桌面附件"
 #~ msgid "Show"
 #~ msgstr "显示"
 
-#~ msgid ""
-#~ "Cannot find home directory: not set in /etc/passwd and no value for $HOME "
-#~ "in environment"
+#~ msgid "Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment"
 #~ msgstr "找不到主目录：未在 /etc/passwd 中设定，也未在 $HOME 环境变量中设置"
 
 #~ msgid "Menu file"
