@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-21 15:23+0200\n"
-"PO-Revision-Date: 2018-09-28 11:22+0000\n"
+"PO-Revision-Date: 2025-10-30 12:48+0100\n"
 "Last-Translator: Davidmp <rbndavid@gmail.com>\n"
 "Language-Team: LXDE Catalan translators group\n"
 "Language: ca\n"
@@ -16,24 +16,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Poedit 3.6\n"
 "X-POOTLE-MTIME: 1538133750.017468\n"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
 msgid "Multimedia"
-msgstr "Menú multimèdia"
+msgstr "Multimèdia"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
-#, fuzzy
-#| msgid "Graphics applications"
 msgid "Audio and video applications"
-msgstr "Aplicacions gràfiques"
+msgstr "Aplicacions d'àudio i vídeo"
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
-msgstr ""
+msgstr "Desenvolupament"
 
 #: ../desktop-directories/lxde-development.directory.in.h:2
 msgid "Tools for software development"
@@ -44,10 +40,8 @@ msgid "Education"
 msgstr "Educació"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
-#, fuzzy
-#| msgid "Education"
 msgid "Educational software"
-msgstr "Educació"
+msgstr "Programari educatiu"
 
 #: ../desktop-directories/lxde-game.directory.in.h:1
 msgid "Games"
@@ -63,7 +57,7 @@ msgstr "Gràfics"
 
 #: ../desktop-directories/lxde-graphics.directory.in.h:2
 msgid "Graphics applications"
-msgstr "Aplicacions gràfiques"
+msgstr "Aplicacions de gràfics"
 
 #: ../desktop-directories/lxde-hardware.directory.in.h:1
 msgid "Hardware"
@@ -79,11 +73,11 @@ msgstr "Internet i xarxa"
 
 #: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
-msgstr "Configuració de la xarxa"
+msgstr "Configuració relacionada amb la xarxa"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
-msgstr "Aparença"
+msgstr "Aspecte i sensació"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
@@ -94,10 +88,8 @@ msgid "Applications"
 msgstr "Aplicacions"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
-#, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
-msgstr "Aplicacions"
+msgstr "Menú d'aplicacions"
 
 #: ../desktop-directories/lxde-menu-system.directory.in.h:1
 #: ../desktop-directories/lxde-system.directory.in.h:1
@@ -113,19 +105,14 @@ msgid "Internet"
 msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
-#, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
-msgstr ""
-"Programes per accedir a Internet com el navegador web i el client de correu"
+msgstr "Programes per accedir a Internet"
 
 #: ../desktop-directories/lxde-office.directory.in.h:1
 msgid "Office"
 msgstr "Oficina"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
-#, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Aplicacions d'oficina"
 
@@ -134,8 +121,6 @@ msgid "Other"
 msgstr "Altres"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
-#, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Aplicacions que no encaixen en altres categories"
 
@@ -149,47 +134,39 @@ msgstr "Configuració personal"
 
 #: ../desktop-directories/lxde-science-math.directory.in.h:1
 msgid "Science & Math"
-msgstr "Ciència i Matemàtiques"
+msgstr "Ciència i matemàtiques"
 
 #: ../desktop-directories/lxde-science-math.directory.in.h:2
 msgid "Scientific and mathematical software"
-msgstr ""
+msgstr "Programari científic i matemàtic"
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
-#, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
-msgstr "Ciència i Matemàtiques"
+msgstr "Ciència"
 
 #: ../desktop-directories/lxde-science.directory.in.h:2
 msgid "Scientific software"
-msgstr ""
+msgstr "Programari científic"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferències"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
-#, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
-msgstr "Preferències personals"
+msgstr "Preferències de l'escriptori"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "Administració"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
-#, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
-msgstr "Canvia la configuració de tot el sistema (afecta tots els usuaris)"
+msgstr "Configuració de tot el sistema (afecta tots els usuaris)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
-#, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
-msgstr "Configuració i monitorització del sistema"
+msgstr "Eines del sistema i monitoratge"
 
 #: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
@@ -205,7 +182,7 @@ msgstr "Accessoris"
 
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
-msgstr "Accessoris d'escriptori"
+msgstr "Accessoris de l'escriptori"
 
 #~ msgid "Sound & Video"
 #~ msgstr "So i Vídeo"
